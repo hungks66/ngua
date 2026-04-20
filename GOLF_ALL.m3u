@@ -1,0 +1,34 @@
+#EXTM3U
+#EXTINF:0 group-title="Спорт" tvg-id="6560" tvg-logo="http://epg.one/img2/6560.png" tvg-rec="0",Sky Sport Golf HD IT
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/F5GDYXTUM2QBV3/19132/index.m3u8
+#EXTINF:-1 tvg-id="Sky.Sports.Football.ie" group-title="GOLF" tvg-logo="/logos/sky-sports-football.png", Sky Sports Golf HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/9293/index.m3u8
+#EXTINF:-1 tvg-id="Sky.Sports.Football.ie" group-title="GOLF" tvg-logo="/logos/sky-sports-football.png", Sky Sports Golf
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/7344/index.m3u8
+#EXTINF:0 group-title="GOLF" tvg-id="4578" tvg-logo="http://epg.one/img2/4578.png" tvg-rec="0",Sky Sports Golf HD UK
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/F5GDYXTUM2QBV3/7344/index.m3u8
+#EXTINF:-1  tvg-name="﻿UK Sky Sports Golf FHD " tvg-id="﻿sky.sports.golf.gb" group-title="GOLF",﻿Sky Sports Golf 01
+http://cord-cutter.net:8080/33QbGv/014458/35240
+#EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" tvg-logo="https://i.imgur.com/RKUHQi8.png" group-title="GOLF",Sky Sports Golf FHD
+https://7pal.short.gy/ssportsgf
+#EXTINF:-1 tvg-id="GOLF CHANNEL US", group-title="GOLF",GOLF CHANNEL (720p)
+http://cord-cutter.net:8080/33QbGv/014458/9806
+#EXTINF:-1 tvg-id="GOLF CHANNEL US1", group-title="GOLF",GOLF CHANNEL01 (720p)
+http://cord-cutter.net:8080/33QbGv/014458/46728
+#EXTINF:-1 tvg-id="GOLF CHANNEL US", group-title="GOLF",GOLF CHANNEL (720p)
+http://cord-cutter.net:8080/33QbGv/014458/57362
+#EXTINF:0 group-title="GOLF" tvg-id="3624" tvg-logo="http://epg.one/img2/3624.png" tvg-rec="0",Golf Channel HD CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/F5GDYXTUM2QBV3/6481/index.m3u8
+#EXTINF:-1 tvg-id="GOLF CHANNEL US", group-title="GOLF",GOLF CHANNEL Latin America (720p)
+http://181.114.57.246:4000/play/BHGDIhvdyuw/index.m3u8
+#EXTINF:-1 tvg-id="GOLF NETWORK Japan", group-title="GOLF",GOLF NETWORK JAPAN (720p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03&isp=6
+#EXTINF:-1 tvg-id="vtvcab-23-golf-channel" group-title="GOLF" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vtvcab-23-golf-channel/KenhCoBan.png", VTVcab23-Golf
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab-23-golf-channel/KenhCoBan.m3u8
+#EXTINF:0 group-title="GOLF" tvg-id="4544" tvg-logo="http://epg.one/img2/4544.png" tvg-rec="0",Sport Klub Golf HR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/F5GDYXTUM2QBV3/7277/index.m3u8
+#EXTINF:0 group-title="GOLF" tvg-id="3104" tvg-logo="http://epg.one/img2/3104.png" tvg-rec="3",M+ Golf ES
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/F5GDYXTUM2QBV3/6075/index.m3u8
+#EXTINF:0 group-title="GOLF" tvg-id="4907" tvg-logo="http://epg.one/img2/4907.png" tvg-rec="0",V Sport Golf SE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/F5GDYXTUM2QBV3/12077/index.m3u8
+
