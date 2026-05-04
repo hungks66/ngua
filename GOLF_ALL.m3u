@@ -5,26 +5,28 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/F5GDYXTUM2QBV3/19132/ind
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Y37W4QZF2XTZ6QNRFXEZMY6X/19132/index.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="6560" tvg-logo="http://epg.one/img/6560.png" tvg-rec="0",Sky Sport Golf HD IT
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PNNKRBU7SZ2C54/19132/index.m3u8
-
-#EXTINF:-1 tvg-id="Sky.Sports.Football.ie" group-title="GOLF" tvg-logo="/logos/sky-sports-football.png", Sky Sports Golf HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/9293/index.m3u8
-#EXTINF:-1 tvg-id="Sky.Sports.Football.ie" group-title="GOLF" tvg-logo="/logos/sky-sports-football.png", Sky Sports Golf
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/7344/index.m3u8
-#EXTINF:0 group-title="GOLF" tvg-id="4578" tvg-logo="http://epg.one/img2/4578.png" tvg-rec="0",Sky Sports Golf HD UK
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/F5GDYXTUM2QBV3/7344/index.m3u8
-#EXTINF:0 group-title="Великобритания | United Kingdom" tvg-id="4578" tvg-logo="http://epg.one/img/4578.png" tvg-rec="3",Sky Sports Golf HD 50 UK
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PNNKRBU7SZ2C54/9293/index.m3u8
-#EXTINF:0 group-title="Великобритания | United Kingdom" tvg-id="4578" tvg-logo="http://epg.one/img/4578.png" tvg-rec="0",Sky Sports Golf HD UK
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PNNKRBU7SZ2C54/7344/index.m3u8
-#EXTINF:0 group-title="Великобритания | United Kingdom" tvg-id="4578" tvg-logo="http://epg.one/img2/4578.png" tvg-rec="0",Sky Sports Golf HD UK
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Y37W4QZF2XTZ6QNRFXEZMY6X/7344/index.m3u8
+#EXTINF:-1 tvg-id="skynews.uk" tvg-name="UK: SKY NEWS" tvg-logo="" group-title="UK UNITED KINGDOM",UK: SKY NEWS
+http://trytv.icu:8080/96066144/96066144/77166
+#EXTINF:-1 tvg-id="skysportsaction.uk" tvg-name="UK-Sky Sports Action" tvg-logo="" group-title="UK UNITED KINGDOM",UK-Sky Sports Action
+http://trytv.icu:8080/96066144/96066144/53705
+#EXTINF:-1 tvg-id="sky.sports.arena.gb" tvg-name="UK-Sky Sports Arena" tvg-logo="" group-title="Sports Fanatic's ",UK-Sky Sports Arena
+http://trytv.icu:8080/96066144/96066144/35238
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="UK Sky Sports F1 FHD (D)" tvg-logo="" group-title="UK UNITED KINGDOM",UK Sky Sports F1 FHD (D)
+http://trytv.icu:8080/96066144/96066144/53704
+#EXTINF:-1 tvg-id="sky.sports.golf.gb" tvg-name="UK Sky Sports Golf FHD " tvg-logo="" group-title="Sports Fanatic's ",UK Sky Sports Golf FHD 
+http://trytv.icu:8080/96066144/96066144/35240
+#EXTINF:-1 tvg-id="sky.sports.main.event.gb" tvg-name="UK-Sky Sports Main Event" tvg-logo="" group-title="Sports Fanatic's ",UK-Sky Sports Main Event
+http://trytv.icu:8080/96066144/96066144/35243
+#EXTINF:-1 tvg-id="skysportsmix.uk" tvg-name="UK Sky Sports Mix FHD (D)" tvg-logo="" group-title="UK UNITED KINGDOM",UK Sky Sports Mix FHD (D)
+http://trytv.icu:8080/96066144/96066144/53706
+#EXTINF:-1 tvg-id="sky.sports.news.gb" tvg-name="UK-Sky Sports News" tvg-logo="" group-title="Sports Fanatic's ",UK-Sky Sports News
+http://trytv.icu:8080/96066144/96066144/35241
 #EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" tvg-name="Sky Sports Golf UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-golf-uk.png?raw=true" group-title="GOLF",Sky Sports Golf UK
 http://kstv.us:8080/4VUyfZBQzk/95104974615/47867
 #EXTINF:-1  tvg-name="﻿UK Sky Sports Golf FHD " tvg-id="﻿sky.sports.golf.gb" group-title="GOLF",﻿Sky Sports Golf 01
 http://cord-cutter.net:8080/33QbGv/014458/35240
 #EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" tvg-logo="https://i.imgur.com/RKUHQi8.png" group-title="GOLF",Sky Sports Golf FHD
 https://7pal.short.gy/ssportsgf
-
 #EXTINF:0 group-title="Германия | Germany" tvg-id="9114" tvg-logo="http://epg.one/img/9114.png" tvg-rec="3",Sky Sport Golf HD DE
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PNNKRBU7SZ2C54/5043/index.m3u8
 
