@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1  tvg-name="﻿UK Sky Sports Golf FHD " tvg-id="﻿sky.sports.golf.gb" group-title="GOLF UKF",﻿Sky Sports Golf 01
+#EXTINF:-1  tvg-name="﻿UK Sky Sports Golf FHD " tvg-id="﻿sky.sports.golf.gb" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-golf-uk.png?raw=true" group-title="GOLF UK",﻿Sky Sports Golf 01
 http://cord-cutter.net:8080/33QbGv/014458/35240
-#EXTINF:-1 tvg-id="sky.sports.golf.gb" tvg-name="UK Sky Sports Golf FHD " tvg-logo="" group-title="GOLF UK",UK Sky Sports Golf 02
+#EXTINF:-1 tvg-id="sky.sports.golf.gb" tvg-name="UK Sky Sports Golf FHD " tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-golf-uk.png?raw=true" group-title="GOLF UK",UK Sky Sports Golf 02
 http://trytv.icu:8080/96066144/96066144/35240
 #EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" tvg-name="Sky Sports Golf UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-golf-uk.png?raw=true" group-title="GOLF UK",Sky Sports Golf 03
 http://kstv.us:8080/4VUyfZBQzk/95104974615/47867
@@ -81,6 +81,9 @@ http://trytv.icu:8080/96066144/96066144/35241
 
 
 # === WORLD NEWS ===
+#EXTINF:-1  tvg-name="﻿US Bloomberg" tvg-id="﻿bloombergtv.us" tvg-logo="﻿https://www.flirtey.com/wp-content/uploads/2018/04/bloomberg-logo.png" group-title="WORLD NEWS",﻿US Bloomberg
+http://cord-cutter.net:8080/33QbGv/014458/15158
+
 #EXTINF:-1 tvg-id="CNN.HD.us2" tvg-name="CNN US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/CNN_Logo_%282014%29.svg/500px-CNN_Logo_%282014%29.svg.png" group-title="WORLD NEWS",CNN US
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="CNN.International.us2" tvg-name="CNN International" tvg-logo="https://logos-world.net/wp-content/uploads/2020/11/CNN-Logo.png" group-title="WORLD NEWS",CNN International
