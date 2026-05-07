@@ -43,7 +43,7 @@ http://cord-cutter.net:8080/33QbGv/014458/57362
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PNNKRBU7SZ2C54/30089/index.m3u8
 #EXTINF:0 group-title="GOLF CHANNEL US" tvg-id="8418" tvg-logo="http://epg.one/img/8418.png" tvg-rec="0",Golf Channel HD US
 http://gthp8lio.tvclub.xyz/iptv/VZL5TK4EKTYM2DYT7B8V5PXT/30089/index.m3u8
-#EXTINF:-1,tvg-id="GOLF CHANNEL US", group-title="GOLF CHANNEL US",GOLF CHANNEL (1080p)
+#EXTINF:-1 tvg-id="GOLF CHANNEL US", group-title="GOLF CHANNEL US",GOLF CHANNEL HD(1080p)
 http://prot44.xyz:80/alikrrasniqi/3FD0B6554A0C/71920
 
 #EXTINF:0 group-title="GOLF CHANNEL US" tvg-id="3624" tvg-logo="http://epg.one/img2/3624.png" tvg-rec="0",Golf Channel HD CA
