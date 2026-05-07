@@ -43,6 +43,8 @@ http://cord-cutter.net:8080/33QbGv/014458/57362
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PNNKRBU7SZ2C54/30089/index.m3u8
 #EXTINF:0 group-title="GOLF CHANNEL US" tvg-id="8418" tvg-logo="http://epg.one/img/8418.png" tvg-rec="0",Golf Channel HD US
 http://gthp8lio.tvclub.xyz/iptv/VZL5TK4EKTYM2DYT7B8V5PXT/30089/index.m3u8
+#EXTINF:-1,tvg-id="GOLF CHANNEL US", group-title="GOLF CHANNEL US",GOLF CHANNEL (1080p)
+http://prot44.xyz:80/alikrrasniqi/3FD0B6554A0C/71920
 
 #EXTINF:0 group-title="GOLF CHANNEL US" tvg-id="3624" tvg-logo="http://epg.one/img2/3624.png" tvg-rec="0",Golf Channel HD CA
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/F5GDYXTUM2QBV3/6481/index.m3u8
@@ -67,6 +69,8 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Y37W4QZF2XTZ6QNRFXEZMY6X
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PNNKRBU7SZ2C54/7277/index.m3u8
 #EXTINF:0 group-title="GOLF | Croatia" tvg-id="4544" tvg-logo="http://epg.one/img/4544.png" tvg-rec="0",Sport Klub Golf HR
 http://gthp8lio.tvclub.xyz/iptv/VZL5TK4EKTYM2DYT7B8V5PXT/7277/index.m3u8
+#EXTINF:0 group-title="GOLF | Croatia" tvg-id="4544" tvg-logo="http://epg.one/img/4544.png" tvg-rec="0",Sport Klub Golf HR
+http://prot44.xyz:80/alikrrasniqi/3FD0B6554A0C/1059861
 
 #EXTINF:0 group-title="GOLF SPAIN" tvg-id="3104" tvg-logo="http://epg.one/img/3104.png" tvg-rec="0",M+ Golf HD ES
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PNNKRBU7SZ2C54/31844/index.m3u8
@@ -78,6 +82,9 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/F5GDYXTUM2QBV3/12077/ind
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Y37W4QZF2XTZ6QNRFXEZMY6X/12077/index.m3u8
 #EXTINF:0 group-title="Sweden" tvg-id="4907" tvg-logo="http://epg.one/img/4907.png" tvg-rec="0",V Sport Golf SE
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PNNKRBU7SZ2C54/12077/index.m3u8
+
+#EXTINF:-1,NL - ZIGGO SPORT GOLF HD
+http://prot44.xyz:80/alikrrasniqi/3FD0B6554A0C/1082
 
 
 #EXTINF:-1 tvg-id="sky.sports.arena.gb" tvg-name="UK-Sky Sports Arena" tvg-logo="" group-title="Sports Fanatic's ",Sky Sports Action
