@@ -7,18 +7,21 @@ http://trytv.icu:8080/96066144/96066144/35240
 http://kstv.us:8080/4VUyfZBQzk/95104974615/47867
 #EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" tvg-logo="https://i.imgur.com/RKUHQi8.png" group-title="GOLF UK",Sky Sports Golf 04
 https://7pal.short.gy/ssportsgf
-#EXTINF:0 group-title="GOLF UK" tvg-id="4578" tvg-logo="http://epg.one/img2/4578.png" tvg-rec="0",Sky Sports Golf HD UK8
+#EXTINF:0 group-title="GOLF UK" tvg-id="4578" tvg-logo="http://epg.one/img2/4578.png" tvg-rec="0",Sky Sports Golf HD UK
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5LXUBC5N64R4LF/7344/index.m3u8
+#EXTINF:0 group-title="GOLF UK" tvg-id="4578" tvg-logo="http://epg.one/img2/4578.png" tvg-rec="0",Sky Sports Golf HD UK
+http://gthp8lio.tvclub.xyz/iptv/VZL5TK4EKTYM2DYT7B8V5PXT/9293/index.m3u8
 
-#EXTINF:-1,UK - SKY SPORTS GOLF FHD ◉
+
+#EXTINF:-1 group-title="GOLF UK" tvg-logo="http://epg.one/img2/4578.png" tvg-rec="0",UK - SKY SPORTS GOLF FHD ◉
 http://prot44.xyz:80/alikrrasniqi/3FD0B6554A0C/17287
-#EXTINF:-1,UK - SKY SPORTS GOLF HEVC
+#EXTINF:-1 group-title="GOLF UK" tvg-logo="http://epg.one/img2/4578.png" tvg-rec="0",UK - SKY SPORTS GOLF HEVC
 http://prot44.xyz:80/alikrrasniqi/3FD0B6554A0C/980427
-#EXTINF:-1,UK - SKY SPORTS GOLF HD
+#EXTINF:-1 group-title="GOLF UK" tvg-logo="http://epg.one/img2/4578.png" tvg-rec="0",UK - SKY SPORTS GOLF HD
 http://prot44.xyz:80/alikrrasniqi/3FD0B6554A0C/348304
-#EXTINF:-1,UK - SKY SPORTS GOLF SD
+#EXTINF:-1 group-title="GOLF UK" tvg-logo="http://epg.one/img2/4578.png" tvg-rec="0",UK - SKY SPORTS GOLF SD
 http://prot44.xyz:80/alikrrasniqi/3FD0B6554A0C/348303
-#EXTINF:-1,CH - GOLF+ FHD
+#EXTINF:-1 group-title="GOLF FRENCH" tvg-logo="http://epg.one/img2/4578.png" tvg-rec="0",CH - GOLF+ FHD
 http://prot44.xyz:80/alikrrasniqi/3FD0B6554A0C/1054626
 
 
@@ -189,8 +192,6 @@ https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/3.m3u8
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/e7493ea5-5c1c-4d7a-a3f7-e95516048ad8/3.m3u8
 #EXTINF:-1 tvg-id="NewsNation.us2" tvg-name="NewsNation" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91096_dark_360w_270h.png" group-title="WORLD NEWS",NewsNation
 http://kstv.us:8080/4VUyfZBQzk/95104974615/23232
-#EXTINF:-1 tvg-id="CSPAN.us2" tvg-name="C-SPAN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10161_dark_360w_270h.png" group-title="WORLD NEWS",C-SPAN
-http://kstv.us:8080/4VUyfZBQzk/95104974615/48417
 #EXTINF:-1 tvg-id="CNBC.HD.us2" tvg-name="CNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/500px-CNBC_2025.svg.png" group-title="WORLD NEWS",CNBC
 http://kstv.us:8080/4VUyfZBQzk/95104974615/15902
 #EXTINF:-1 tvg-id="Fox.Business.HD.us2" tvg-name="Fox Business" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-business-us.png?raw=true" group-title="WORLD NEWS",Fox Business
@@ -222,3 +223,6 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/strea
 
 #EXTINF:-1 tvg-id="Al.Jazeera.English.ca2" tvg-name="Al Jazeera English QA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/aljazeera-uk.png?raw=true" group-title="WORLD NEWS",Al Jazeera English QA
 https://live-hls-apps-aje-v3-fa.getaj.net/AJE/01.m3u8
+
+#EXTINF:-1  tvg-name="VTV1" tvg-id="vtv1hd" tvg-logo="https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg" group-title="VIETNAM TV" catchup="default" catchup-days="2",VTV1
+https://freem3u.xyz/api/live/play.m3u8?vid=2
