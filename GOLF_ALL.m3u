@@ -11,8 +11,6 @@ https://7pal.short.gy/ssportsgf
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5LXUBC5N64R4LF/7344/index.m3u8
 #EXTINF:0 group-title="GOLF UK" tvg-id="4578" tvg-logo="http://epg.one/img2/4578.png" tvg-rec="0",Sky Sports Golf HD UK
 http://gthp8lio.tvclub.xyz/iptv/VZL5TK4EKTYM2DYT7B8V5PXT/9293/index.m3u8
-
-
 #EXTINF:-1 group-title="GOLF UK" tvg-logo="http://epg.one/img2/4578.png" tvg-rec="0",UK - SKY SPORTS GOLF FHD ◉
 http://prot44.xyz:80/alikrrasniqi/3FD0B6554A0C/17287
 #EXTINF:-1 group-title="GOLF UK" tvg-logo="http://epg.one/img2/4578.png" tvg-rec="0",UK - SKY SPORTS GOLF HEVC
@@ -21,6 +19,7 @@ http://prot44.xyz:80/alikrrasniqi/3FD0B6554A0C/980427
 http://prot44.xyz:80/alikrrasniqi/3FD0B6554A0C/348304
 #EXTINF:-1 group-title="GOLF UK" tvg-logo="http://epg.one/img2/4578.png" tvg-rec="0",UK - SKY SPORTS GOLF SD
 http://prot44.xyz:80/alikrrasniqi/3FD0B6554A0C/348303
+
 #EXTINF:-1 group-title="GOLF FRENCH" tvg-logo="http://epg.one/img2/4578.png" tvg-rec="0",CH - GOLF+ FHD
 http://prot44.xyz:80/alikrrasniqi/3FD0B6554A0C/1054626
 
@@ -39,7 +38,7 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Y37W4QZF2XTZ6QNRFXEZMY6X
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PNNKRBU7SZ2C54/19132/index.m3u8
 #EXTINF:0 group-title="ITALIA GOLF" tvg-id="6560" tvg-logo="http://epg.one/img/6560.png" tvg-rec="0",Sky Sport Golf HD IT
 http://gthp8lio.tvclub.xyz/iptv/VZL5TK4EKTYM2DYT7B8V5PXT/19132/index.m3u8
-#EXTINF:0 tvg-rec="0",Sky Sport Golf HD IT
+#EXTINF:0 group-title="ITALIA GOLF" tvg-rec="0",Sky Sport Golf HD IT
 http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/19132/index.m3u8
 
 #EXTINF:-1 tvg-id="GOLF CHANNEL US", group-title="GOLF CHANNEL US",GOLF CHANNEL (720p)
@@ -65,9 +64,10 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PNNKRBU7SZ2C54/6481/inde
 http://gthp8lio.tvclub.xyz/iptv/VZL5TK4EKTYM2DYT7B8V5PXT/6481/index.m3u8
 #EXTINF:0 group-title="GOLF CHANNEL US" tvg-id="3624" tvg-logo="http://epg.one/img2/3624.png" tvg-rec="0",Golf Channel HD CA
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5LXUBC5N64R4LF/6481/index.m3u8
-
 #EXTINF:-1 tvg-id="GOLF CHANNEL US", group-title="GOLF CHANNEL US",GOLF CHANNEL Latin America (720p)
 http://181.114.57.246:4000/play/BHGDIhvdyuw/index.m3u8
+#EXTINF:-1 tvg-id="cbssportsnetworkusa.us" tvg-name="US CBS Sports Network HD " tvg-logo="https://juicetv.app/channellogo/cbs.png" group-title="GOLF CHANNEL US",US CBS Sports Network HD 
+http://trytv.icu:8080/96066144/96066144/10454
 
 #EXTINF:-1 tvg-id="GOLF NETWORK Japan", group-title="GOLF JAPAN",GOLF NETWORK JAPAN (720p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03&isp=6
