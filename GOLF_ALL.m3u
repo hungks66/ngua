@@ -39,6 +39,8 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Y37W4QZF2XTZ6QNRFXEZMY6X
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PNNKRBU7SZ2C54/19132/index.m3u8
 #EXTINF:0 group-title="ITALIA GOLF" tvg-id="6560" tvg-logo="http://epg.one/img/6560.png" tvg-rec="0",Sky Sport Golf HD IT
 http://gthp8lio.tvclub.xyz/iptv/VZL5TK4EKTYM2DYT7B8V5PXT/19132/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sport Golf HD IT
+http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/19132/index.m3u8
 
 #EXTINF:-1 tvg-id="GOLF CHANNEL US", group-title="GOLF CHANNEL US",GOLF CHANNEL (720p)
 http://cord-cutter.net:8080/33QbGv/014458/9806
@@ -122,6 +124,11 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5LXUBC5N64R4LF/7342/inde
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5LXUBC5N64R4LF/7343/index.m3u8
 #EXTINF:0 group-title="Sports UK" tvg-id="4578" tvg-logo="http://epg.one/img2/4578.png" tvg-rec="0",Sky Sports Golf HD UK
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5LXUBC5N64R4LF/7344/index.m3u8
+#EXTINF:0 group-title="Sports UK" tvg-rec="3",Sky Sports Golf HD 51 UK
+http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/9293/index.m3u8
+#EXTINF:0 group-title="Sports UK" tvg-rec="0",Sky Sports Golf HD 52 UK
+http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/7344/index.m3u8
+
 
 #EXTINF:-1 group-title="ARENA SPORTS",EXYU - ARENA SPORT 1 BIH FHD
 http://prot44.xyz:80/alikrrasniqi/3FD0B6554A0C/74892
@@ -174,26 +181,14 @@ http://cord-cutter.net:8080/33QbGv/014458/15158
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="CNN.International.us2" tvg-name="CNN International" tvg-logo="https://logos-world.net/wp-content/uploads/2020/11/CNN-Logo.png" group-title="WORLD NEWS",CNN International
 https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="Fox.News.Channel.HD.us2" tvg-name="Fox News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/500px-Fox_News_Channel_logo.svg.png" group-title="WORLD NEWS",Fox News
-http://kstv.us:8080/4VUyfZBQzk/95104974615/22530
-#EXTINF:-1 tvg-id="MS.NOW.HD.us2" tvg-name="MS NOW" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/ms-now-us.png?raw=true" group-title="WORLD NEWS",MS NOW
-http://kstv.us:8080/4VUyfZBQzk/95104974615/22506
 #EXTINF:-1 tvg-id="99991247" tvg-name="NBC News NOW" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/14F5D3B6-FA2C-4E41-91AD-CD037209D874/3-1x1.png" group-title="WORLD NEWS",NBC News NOW
 https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/3e088b25-3e79-4f34-bbdf-afbcd40497f3/4.m3u8
-#EXTINF:-1 tvg-id="USBA370000104" tvg-name="CBS News 24/7" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-news-24-7-us.png?raw=true" group-title="WORLD NEWS",CBS News 24/7
-https://fast-tv-proxy.sharewithyou.dpdns.org/?play=https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8?imafw__fw_app_bundle=%5BAPP+ID%5D&imafw__fw_did=%5Bidtype%3AdeviceID%5D&imafw__fw_is_lat=%5BLIMITED+AD+TRACKING%5D&imafw__fw_us_privacy=%5BCCPA+STRING%5D&imafw__fw_vcid2=%5Bunique_identifier%5D&imafw_csid=%5BSITE+SECTION%5D&is_lat=%5BLIMITED+AD+TRACKING%5D
-#EXTINF:-1 tvg-id="ABC.News.Live.us2" tvg-name="ABC News Live" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-news-live-light-us.png?raw=true" group-title="WORLD NEWS",ABC News Live
-https://fast-tv-proxy.sharewithyou.dpdns.org/?play=https://dbrb49pjoymg4.cloudfront.net/10001/99951517/hls/master.m3u8?ads.xumo_channelId=99951517&ads.xumo_streamId=99951517&ads.channelId=99951517&ads.channelName=ABC_us&ads.caid=ABC&ads.csid=xumo_web_ABC_ssai&ads.genre=News,N&ads._fw_content_genre=News,N&ads._fw_coppa=0&ads.xumo_contentId=58&ads.xumo_contentName=ABC&ads.xumo_providerId=58&ads.xumo_providerName=ABC&ads._fw_ifa_type=&ads._fw_did=6a687e3d-9e1e-4b73-a05b-b584f9949faa&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=XumoPlay
 #EXTINF:-1 tvg-id="99991635" tvg-name="LiveNOW from FOX" tvg-logo="https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2023/01/0/100/LiveNOW-logo-1280x720.jpg?ve=1&tl=1" group-title="WORLD NEWS",LiveNOW from FOX
 https://s11host2.localnow.api.cms.amdvids.com/v1/manifest/c189661feba961c19bc5fb60b57879ee9b84548a/config13/25a2f26d-fa83-469b-a0c6-0d4508fec2c0/2.m3u8
 #EXTINF:-1 tvg-id="Newsmax.TV.HD.us2" tvg-name="NEWSMAX" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/newsmax-tv-us.png?raw=true" group-title="WORLD NEWS",NEWSMAX
 https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/3.m3u8
 #EXTINF:-1 tvg-id="99951197" tvg-name="Reuters" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8cf9c131-2d92-4d91-86b1-22ef458d703f/reuters_reutersnow_1RDX.png" group-title="WORLD NEWS",Reuters
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/e7493ea5-5c1c-4d7a-a3f7-e95516048ad8/3.m3u8
-#EXTINF:-1 tvg-id="NewsNation.us2" tvg-name="NewsNation" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91096_dark_360w_270h.png" group-title="WORLD NEWS",NewsNation
-http://kstv.us:8080/4VUyfZBQzk/95104974615/23232
-#EXTINF:-1 tvg-id="CNBC.HD.us2" tvg-name="CNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/500px-CNBC_2025.svg.png" group-title="WORLD NEWS",CNBC
-http://kstv.us:8080/4VUyfZBQzk/95104974615/15902
 #EXTINF:-1 tvg-id="Fox.Business.HD.us2" tvg-name="Fox Business" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-business-us.png?raw=true" group-title="WORLD NEWS",Fox Business
 http://41.205.93.154/FOXBUSINESS/index.m3u8
 
@@ -226,3 +221,5 @@ https://live-hls-apps-aje-v3-fa.getaj.net/AJE/01.m3u8
 
 #EXTINF:-1  tvg-name="VTV1" tvg-id="vtv1hd" tvg-logo="https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg" group-title="VIETNAM TV" catchup="default" catchup-days="2",VTV1
 https://freem3u.xyz/api/live/play.m3u8?vid=2
+
+
