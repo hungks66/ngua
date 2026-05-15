@@ -65,7 +65,6 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PNNKRBU7SZ2C54/30089/ind
 http://gthp8lio.tvclub.xyz/iptv/VZL5TK4EKTYM2DYT7B8V5PXT/30089/index.m3u8
 #EXTINF:-1 tvg-id="GOLF CHANNEL US", group-title="GOLF CHANNEL US",GOLF CHANNEL HD(1080p)
 http://prot44.xyz:80/alikrrasniqi/3FD0B6554A0C/71920
-
 #EXTINF:0 group-title="GOLF CHANNEL US" tvg-id="3624" tvg-logo="http://epg.one/img2/3624.png" tvg-rec="0",Golf Channel HD CA
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/F5GDYXTUM2QBV3/6481/index.m3u8
 #EXTINF:0 group-title="GOLF CHANNEL US" tvg-id="3624" tvg-logo="http://epg.one/img2/3624.png" tvg-rec="0",Golf Channel HD CA
@@ -80,6 +79,29 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5LXUBC5N64R4LF/6481/inde
 http://181.114.57.246:4000/play/BHGDIhvdyuw/index.m3u8
 #EXTINF:-1 tvg-id="cbssportsnetworkusa.us" tvg-name="US CBS Sports Network HD " tvg-logo="https://juicetv.app/channellogo/cbs.png" group-title="GOLF CHANNEL US",US CBS Sports Network HD 
 http://trytv.icu:8080/96066144/96066144/10454
+
+#EXTINF:-1 tvg-id="tsn1.ca" tvg-name="CA TSN 1 (E)" tvg-logo="https://pbs.twimg.com/profile_images/2763584720/a7abe58518e68500a7a4bf509fbd903c.png" group-title="CANADA SPORTS",CA TSN 1 (E)
+http://trytv.icu:8080/96066144/96066144/57292
+#EXTINF:-1 tvg-id="tsn1.ca" tvg-name="CA TSN 1 (R)" tvg-logo="" group-title="CANADA SPORTS",CA TSN 1 (R)
+http://trytv.icu:8080/96066144/96066144/47440
+#EXTINF:-1 tvg-id="tsn2.ca" tvg-name="CA TSN 2 HD " tvg-logo="" group-title="CANADA SPORTS",CA TSN 2 HD 
+http://trytv.icu:8080/96066144/96066144/47442
+#EXTINF:-1 tvg-id="tsn2.ca" tvg-name="CA TSN 2 (R)" tvg-logo="https://pbs.twimg.com/profile_images/2763584720/a7abe58518e68500a7a4bf509fbd903c.png" group-title="CANADA SPORTS",CA TSN 2 (R)
+http://trytv.icu:8080/96066144/96066144/16129
+#EXTINF:-1 tvg-id="tsn3.ca" tvg-name="CA TSN 3 HD " tvg-logo="https://pbs.twimg.com/profile_images/2763584720/a7abe58518e68500a7a4bf509fbd903c.png" group-title="CANADA SPORTS",CA TSN 3 HD 
+http://trytv.icu:8080/96066144/96066144/10389
+#EXTINF:-1 tvg-id="tsn3.ca" tvg-name="CA TSN 3 HD " tvg-logo="" group-title="CANADA SPORTS",CA TSN 3 HD 
+http://trytv.icu:8080/96066144/96066144/47444
+#EXTINF:-1 tvg-id="tsn4.ca" tvg-name="CA TSN 4 HD " tvg-logo="https://pbs.twimg.com/profile_images/2763584720/a7abe58518e68500a7a4bf509fbd903c.png" group-title="CANADA SPORTS",CA TSN 4 HD 
+http://trytv.icu:8080/96066144/96066144/16130
+#EXTINF:-1 tvg-id="tsn4.ca" tvg-name="CA TSN 4 " tvg-logo="" group-title="CANADA SPORTS",CA TSN 4 
+http://trytv.icu:8080/96066144/96066144/66783
+#EXTINF:-1 tvg-id="tsn5.ca" tvg-name="CA TSN 5 HD " tvg-logo="https://pbs.twimg.com/profile_images/2763584720/a7abe58518e68500a7a4bf509fbd903c.png" group-title="CANADA SPORTS",CA TSN 5 HD 
+http://trytv.icu:8080/96066144/96066144/16131
+#EXTINF:-1 tvg-id="tsn5.ca" tvg-name="CA TSN 5 " tvg-logo="" group-title="CANADA SPORTS",CA TSN 5 
+http://trytv.icu:8080/96066144/96066144/57467
+
+
 
 #EXTINF:-1 tvg-id="GOLF NETWORK Japan", group-title="GOLF JAPAN",GOLF NETWORK JAPAN (720p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03&isp=6
@@ -154,6 +176,28 @@ http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/9293/index.m3u8
 #EXTINF:0 group-title="Sports UK" tvg-rec="0",Sky Sports Golf HD 52 UK
 http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/7344/index.m3u8
 
+#EXTINF:-1 tvg-id="espn.us" tvg-name="US ESPN 1 (HD) " tvg-logo="https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1460573872/gjea3w1kxocgn0qviykf.png" group-title="ESPN Sports",US ESPN 1 (HD) 
+http://trytv.icu:8080/96066144/96066144/14197
+#EXTINF:-1 tvg-id="espn.us" tvg-name="US ESPN 1 (HD) " tvg-logo="https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1460573872/gjea3w1kxocgn0qviykf.png" group-title="ESPN Sports",US ESPN 1 (HD) 
+http://trytv.icu:8080/96066144/96066144/9802
+#EXTINF:-1 tvg-id="espn2.us" tvg-name="US ESPN 2 " tvg-logo="https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1460573872/gjea3w1kxocgn0qviykf.png" group-title="ESPN Sports",US ESPN 2 
+http://trytv.icu:8080/96066144/96066144/2210
+#EXTINF:-1 tvg-id="espnu.us" tvg-name="US ESPNU College Sports " tvg-logo="https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1460573872/gjea3w1kxocgn0qviykf.png" group-title="ESPN Sports",US ESPNU College Sports 
+http://trytv.icu:8080/96066144/96066144/10255
+#EXTINF:-1 tvg-id="" tvg-name="Carib ESPN" tvg-logo="" group-title="ESPN Sports",Carib ESPN
+http://trytv.icu:8080/96066144/96066144/99624
+#EXTINF:-1 tvg-id="" tvg-name="Carib ESPN2" tvg-logo="" group-title="ESPN Sports",Carib ESPN2
+http://trytv.icu:8080/96066144/96066144/99623
+#EXTINF:-1 group-title="ESPN Sports",ESPN FHD | 🌟 FREE IPTV WORLD 🌟
+http://play.1list.vip/live/C629y654/8d2fpko1t9r/38413.m3u8
+#EXTINF:-1 group-title="ESPN Sports",ESPN FHD H265 | 🌟 FREE IPTV WORLD 🌟
+http://play.1list.vip/live/C629y654/8d2fpko1t9r/59096.m3u8
+#EXTINF:-1 group-title="ESPN Sports",ESPN H265 | 🌟 FREE IPTV WORLD 🌟
+http://play.1list.vip/live/C629y654/8d2fpko1t9r/62870.m3u8
+#EXTINF:-1 group-title="ESPN Sports",ESPN HD | 🌟 FREE IPTV WORLD 🌟
+http://play.1list.vip/live/C629y654/8d2fpko1t9r/73051.m3u8
+#EXTINF:-1 group-title="ESPN Sports",ESPN [4K] | 🌟 FREE IPTV WORLD 🌟
+http://play.1list.vip/live/C629y654/8d2fpko1t9r/215398.m3u8
 
 #EXTINF:-1 group-title="ARENA SPORTS",EXYU - ARENA SPORT 1 BIH FHD
 http://prot44.xyz:80/alikrrasniqi/3FD0B6554A0C/74892
