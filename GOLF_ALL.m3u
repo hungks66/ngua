@@ -80,6 +80,8 @@ http://181.114.57.246:4000/play/BHGDIhvdyuw/index.m3u8
 http://trytv.icu:8080/96066144/96066144/10454
 #EXTINF:-1 group-title="GOLF CHANNEL US", CBS SPORTS
 http://bgdc.live:25461/merlet1835/1835/8459
+#EXTINF:-1,US - CBS SPORTS NETWORK HD
+http://prot44.xyz:80/alikrrasniqi/3FD0B6554A0C/71938
 
 
 #EXTINF:-1 tvg-id="tsn1.ca" tvg-name="CA TSN 1 (E)" tvg-logo="https://pbs.twimg.com/profile_images/2763584720/a7abe58518e68500a7a4bf509fbd903c.png" group-title="CANADA SPORTS",CA TSN 1 (E)
@@ -155,6 +157,14 @@ http://prot44.xyz:80/alikrrasniqi/3FD0B6554A0C/1082
 http://trytv.icu:8080/96066144/96066144/35238
 #EXTINF:-1 tvg-id="sky.sports.main.event.gb" tvg-name="UK-Sky Sports Main Event" tvg-logo="" group-title="Sports UK",Sky Sports Main Event
 http://trytv.icu:8080/96066144/96066144/35243
+#EXTINF:-1,UK - SKY SPORTS MAIN EVENT FHD ◉
+http://prot44.xyz:80/alikrrasniqi/3FD0B6554A0C/17286
+#EXTINF:-1,UK - SKY SPORTS MAIN EVENT HEVC
+http://prot44.xyz:80/alikrrasniqi/3FD0B6554A0C/348315
+#EXTINF:-1,UK - SKY SPORTS MAIN EVENT HD 
+http://prot44.xyz:80/alikrrasniqi/3FD0B6554A0C/365037
+#EXTINF:-1,UK - SKY SPORTS MAIN EVENT SD
+http://prot44.xyz:80/alikrrasniqi/3FD0B6554A0C/348316
 #EXTINF:-1 tvg-id="skysportsmix.uk" tvg-name="UK Sky Sports Mix FHD (D)" tvg-logo="" group-title="Sports UK",Sky Sports Mix FHD (D)
 http://trytv.icu:8080/96066144/96066144/53706
 #EXTINF:-1 tvg-id="sky.sports.news.gb" tvg-name="UK-Sky Sports News" tvg-logo="" group-title="Sports UK",Sky Sports News
@@ -167,15 +177,77 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5LXUBC5N64R4LF/7336/inde
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5LXUBC5N64R4LF/7337/index.m3u8
 #EXTINF:0 group-title="Sports UK" tvg-id="4573" tvg-logo="http://epg.one/img2/4573.png" tvg-rec="0",Sky Sports Mix HD UK
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5LXUBC5N64R4LF/7339/index.m3u8
+#EXTINF:-1 group-title="Sports UK",UK - SKY SPORTS MIX FHD ◉
+http://prot44.xyz:80/alikrrasniqi/3FD0B6554A0C/17284
+#EXTINF:-1 group-title="Sports UK",UK - SKY SPORTS MIX HEVC
+http://prot44.xyz:80/alikrrasniqi/3FD0B6554A0C/980430
+#EXTINF:-1 group-title="Sports UK",UK - SKY SPORTS MIX HD
+http://prot44.xyz:80/alikrrasniqi/3FD0B6554A0C/348313
+#EXTINF:-1 group-title="Sports UK",UK - SKY SPORTS MIX SD
+http://prot44.xyz:80/alikrrasniqi/3FD0B6554A0C/348314
+#EXTINF:-1 group-title="Sports UK",UK - SKY SPORTS TENNIS FHD ◉
+http://prot44.xyz:80/alikrrasniqi/3FD0B6554A0C/664451
+#EXTINF:-1 group-title="Sports UK",UK - SKY SPORTS TENNIS HD
+http://prot44.xyz:80/alikrrasniqi/3FD0B6554A0C/664452
 #EXTINF:0 group-title="Sports UK" tvg-id="4579" tvg-logo="http://epg.one/img2/4579.png" tvg-rec="0",Sky Sports Action HD UK
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5LXUBC5N64R4LF/7340/index.m3u8
 #EXTINF:0 group-title="Sports UK" tvg-id="4575" tvg-logo="http://epg.one/img2/4575.png" tvg-rec="0",Sky Sports Racing HD UK
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5LXUBC5N64R4LF/7341/index.m3u8
 #EXTINF:0 group-title="Sports UK" tvg-id="4576" tvg-logo="http://epg.one/img2/4576.png" tvg-rec="0",Sky Sports F1 HD UK
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5LXUBC5N64R4LF/7342/index.m3u8
+#EXTINF:-1 group-title="Sports UK",UK - SKY SPORTS F1 UHD
+http://prot44.xyz:80/alikrrasniqi/3FD0B6554A0C/980431
+#EXTINF:-1 group-title="Sports UK",UK - SKY SPORTS F1 FHD ◉
+http://prot44.xyz:80/alikrrasniqi/3FD0B6554A0C/1015492
+#EXTINF:-1 group-title="Sports UK",UK - SKY SPORTS F1 HD
+http://prot44.xyz:80/alikrrasniqi/3FD0B6554A0C/348305
+#EXTINF:-1 group-title="Sports UK",UK - SKY SPORTS F1 SD
 #EXTINF:0 group-title="Sports UK" tvg-id="4577" tvg-logo="http://epg.one/img2/4577.png" tvg-rec="0",Sky Sports Cricket HD UK
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5LXUBC5N64R4LF/7343/index.m3u8
-
+#EXTINF:-1 group-title="Sports UK",UK - SKY SPORTS+ FHD ◉
+http://prot44.xyz:80/alikrrasniqi/3FD0B6554A0C/973137
+#EXTINF:-1 group-title="Sports UK",UK - SKY SPORTS+ HD
+http://prot44.xyz:80/alikrrasniqi/3FD0B6554A0C/973139
+#EXTINF:-1 group-title="Sports UK",UK - HUB PREMIER 01 FHD
+http://prot44.xyz:80/alikrrasniqi/3FD0B6554A0C/324806
+#EXTINF:-1 group-title="Sports UK",UK - HUB PREMIER 02 FHD
+http://prot44.xyz:80/alikrrasniqi/3FD0B6554A0C/324807
+#EXTINF:-1 group-title="Sports UK",UK - HUB PREMIER 03 FHD
+http://prot44.xyz:80/alikrrasniqi/3FD0B6554A0C/324808
+#EXTINF:-1 group-title="Sports UK",UK - HUB PREMIER 04 FHD
+http://prot44.xyz:80/alikrrasniqi/3FD0B6554A0C/324809
+#EXTINF:-1 group-title="Sports UK",UK - TNT SPORTS 1 FHD ◉
+http://prot44.xyz:80/alikrrasniqi/3FD0B6554A0C/17281
+#EXTINF:-1 group-title="Sports UK",UK - TNT SPORTS 2 FHD ◉
+http://prot44.xyz:80/alikrrasniqi/3FD0B6554A0C/980406
+#EXTINF:-1 group-title="Sports UK",UK - TNT SPORTS 3 FHD ◉
+http://prot44.xyz:80/alikrrasniqi/3FD0B6554A0C/980407
+#EXTINF:-1 group-title="Sports UK",UK - TNT SPORTS 4 FHD ◉
+http://prot44.xyz:80/alikrrasniqi/3FD0B6554A0C/311556
+#EXTINF:-1 group-title="Sports UK",UK - TNT SPORTS 5 FHD ◉
+http://prot44.xyz:80/alikrrasniqi/3FD0B6554A0C/311558
+#EXTINF:-1 group-title="Sports UK",UK - TNT SPORT 1 HEVC
+http://prot44.xyz:80/alikrrasniqi/3FD0B6554A0C/846012
+#EXTINF:-1 group-title="Sports UK",UK - TNT SPORT 2 HEVC
+http://prot44.xyz:80/alikrrasniqi/3FD0B6554A0C/846013
+#EXTINF:-1 group-title="Sports UK",UK - TNT SPORT 3 HEVC
+http://prot44.xyz:80/alikrrasniqi/3FD0B6554A0C/846014
+#EXTINF:-1 group-title="Sports UK",UK - TNT SPORT 4 HEVC
+http://prot44.xyz:80/alikrrasniqi/3FD0B6554A0C/846015
+#EXTINF:-1 group-title="Sports UK",UK - TNT SPORTS 1 HD
+http://prot44.xyz:80/alikrrasniqi/3FD0B6554A0C/348297
+#EXTINF:-1 group-title="Sports UK",UK - TNT SPORTS 2 HD
+http://prot44.xyz:80/alikrrasniqi/3FD0B6554A0C/348298
+#EXTINF:-1 group-title="Sports UK",UK - TNT SPORTS 2 HD²
+http://prot44.xyz:80/alikrrasniqi/3FD0B6554A0C/17280
+#EXTINF:-1 group-title="Sports UK",UK - TNT SPORTS 3 HD
+http://prot44.xyz:80/alikrrasniqi/3FD0B6554A0C/17279
+#EXTINF:-1 group-title="Sports UK",UK - TNT SPORTS 3 HD²
+http://prot44.xyz:80/alikrrasniqi/3FD0B6554A0C/348299
+#EXTINF:-1 group-title="Sports UK",UK - TNT SPORTS 4 HD
+http://prot44.xyz:80/alikrrasniqi/3FD0B6554A0C/311555
+#EXTINF:-1 group-title="Sports UK",UK - TNT SPORTS 5 HD
+http://prot44.xyz:80/alikrrasniqi/3FD0B6554A0C/311557
 
 #EXTINF:-1 group-title="ESPN Sports" tvg-id="espn.us" tvg-name="US ESPN 1 (HD)", US ESPN 1 (HD) 
 http://trytv.icu:8080/96066144/96066144/14197
