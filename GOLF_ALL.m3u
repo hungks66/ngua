@@ -12,6 +12,12 @@ http://prot44.xyz:80/alikrrasniqi/3FD0B6554A0C/348303
 http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/2100.ts
 #EXTINF:-1 group-title="GOLF UK", SKY SPORTS GOLF HD
 http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/1417.ts
+#EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="UK: SKY SPORTS GOLF FHD" tvg-logo="[img]http://pic.qw1234.org/logos/tn_golf.png[/img]" group-title="GOLF UK",UK: SKY SPORTS GOLF FHD
+http://103trkm25.xyz:8080/live/oguz35gznlr/gznler35oguz/156665.m3u
+#EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="UK: SKY SPORTS GOLF HD" tvg-logo="[img]http://pic.qw1234.org/logos/tn_golf.png[/img]" group-title="GOLF UK",UK: SKY SPORTS GOLF HD
+http://103trkm25.xyz:8080/live/oguz35gznlr/gznler35oguz/156664.m3u
+#EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="UK: SKY SPORTS GOLF [FHD]" tvg-logo="[img]http://pic.qw1234.org/logos/tn_golf.png[/img]" group-title="GOLF UK",UK: SKY SPORTS GOLF [FHD]
+http://103trkm25.xyz:8080/live/oguz35gznlr/gznler35oguz/100150.m3u
 #EXTINF:-1  tvg-name="﻿UK Sky Sports Golf FHD " tvg-id="﻿sky.sports.golf.gb" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-golf-uk.png?raw=true" group-title="GOLF UK",﻿Sky Sports Golf 01
 http://cord-cutter.net:8080/33QbGv/014458/35240
 #EXTINF:-1 tvg-id="sky.sports.golf.gb" tvg-name="UK Sky Sports Golf FHD " tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-golf-uk.png?raw=true" group-title="GOLF UK",UK Sky Sports Golf 02
