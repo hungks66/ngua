@@ -102,8 +102,6 @@ http://trytv.icu:8080/96066144/96066144/16131
 #EXTINF:-1 tvg-id="tsn5.ca" tvg-name="CA TSN 5 " tvg-logo="" group-title="CANADA SPORTS",CA TSN 5 
 http://trytv.icu:8080/96066144/96066144/57467
 
-
-
 #EXTINF:-1 tvg-id="GOLF NETWORK Japan", group-title="GOLF JAPAN",GOLF NETWORK JAPAN (720p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03&isp=6
 
@@ -205,10 +203,6 @@ http://prot44.xyz:80/alikrrasniqi/3FD0B6554A0C/973139
 http://prot44.xyz:80/alikrrasniqi/3FD0B6554A0C/324806
 #EXTINF:-1 group-title="Sports UK",UK - HUB PREMIER 02 FHD
 http://prot44.xyz:80/alikrrasniqi/3FD0B6554A0C/324807
-#EXTINF:-1 group-title="Sports UK",UK - HUB PREMIER 03 FHD
-http://prot44.xyz:80/alikrrasniqi/3FD0B6554A0C/324808
-#EXTINF:-1 group-title="Sports UK",UK - HUB PREMIER 04 FHD
-http://prot44.xyz:80/alikrrasniqi/3FD0B6554A0C/324809
 #EXTINF:-1 group-title="Sports UK",UK - TNT SPORTS 1 FHD ◉
 http://prot44.xyz:80/alikrrasniqi/3FD0B6554A0C/17281
 #EXTINF:-1 group-title="Sports UK",UK - TNT SPORTS 2 FHD ◉
@@ -254,16 +248,9 @@ http://trytv.icu:8080/96066144/96066144/10255
 http://trytv.icu:8080/96066144/96066144/99624
 #EXTINF:-1 tvg-id="" tvg-name="Carib ESPN2" tvg-logo="" group-title="ESPN Sports",Carib ESPN2
 http://trytv.icu:8080/96066144/96066144/99623
-#EXTINF:-1 group-title="ESPN Sports",ESPN FHD | 🌟 FREE IPTV WORLD 🌟
-http://play.1list.vip/live/C629y654/8d2fpko1t9r/38413.m3u8
-#EXTINF:-1 group-title="ESPN Sports",ESPN FHD H265 | 🌟 FREE IPTV WORLD 🌟
-http://play.1list.vip/live/C629y654/8d2fpko1t9r/59096.m3u8
-#EXTINF:-1 group-title="ESPN Sports",ESPN H265 | 🌟 FREE IPTV WORLD 🌟
-http://play.1list.vip/live/C629y654/8d2fpko1t9r/62870.m3u8
-#EXTINF:-1 group-title="ESPN Sports",ESPN HD | 🌟 FREE IPTV WORLD 🌟
-http://play.1list.vip/live/C629y654/8d2fpko1t9r/73051.m3u8
-#EXTINF:-1 group-title="ESPN Sports",ESPN [4K] | 🌟 FREE IPTV WORLD 🌟
-http://play.1list.vip/live/C629y654/8d2fpko1t9r/215398.m3u8
+
+# ===== ARENA SPORTS =====
+
 
 #EXTINF:-1 group-title="ARENA SPORTS",EXYU - ARENA SPORT 1 BIH FHD
 http://prot44.xyz:80/alikrrasniqi/3FD0B6554A0C/74892
@@ -308,14 +295,26 @@ http://prot44.xyz:80/alikrrasniqi/3FD0B6554A0C/1287060
 #EXTINF:-1 group-title="ARENA SPORTS",EXYU - ARENA PREMIUM 5 FHD
 http://prot44.xyz:80/alikrrasniqi/3FD0B6554A0C/1287061
 
-# === WORLD NEWS ===
+# ===== WORLD NEWS =====
+
 #EXTINF:-1  tvg-name="﻿US Bloomberg" tvg-id="﻿bloombergtv.us" tvg-logo="﻿https://www.flirtey.com/wp-content/uploads/2018/04/bloomberg-logo.png" group-title="WORLD NEWS",﻿US Bloomberg
 http://cord-cutter.net:8080/33QbGv/014458/15158
-
+#EXTINF:-1  group-title="WORLD NEWS"  tvg-id="CNN HD US"  tvg-logo="[img]https://icon.biluspeh.com/icon/CNN%20CA.png[/img]"   catchup-days="0", CNN HD US
+http://live.biluspeh.com/8760/video.m3u8?token=M4xovdRfcMXMXS9M
+#EXTINF:-1  group-title="WORLD NEWS"  tvg-id="Fox News US"  tvg-logo="[img]https://icon.biluspeh.com/icon/FOX%20NEWS%20CHANNEL%20FHD.png[/img]"   catchup-days="0", Fox News US
+http://live.biluspeh.com/8378/video.m3u8?token=M4xovdRfcMXMXS9M
+#EXTINF:-1  group-title="WORLD NEWS"  tvg-id="ABC HD US"  tvg-logo="[img]https://icon.biluspeh.com/icon/ABC.png[/img]"   catchup-days="0", ABC HD US
+http://live.biluspeh.com/8122/video.m3u8?token=M4xovdRfcMXMXS9M
+#EXTINF:-1  group-title="WORLD NEWS"  tvg-id="NBA TV US"  tvg-logo="[img]https://icon.biluspeh.com/icon/NBA%20TV%20HD%20US.png[/img]"   catchup="default" catchup-days="7" catchup-source="http://live.biluspeh.com/8061/video-${start}-${duration}.m3u8?token=M4xovdRfcMXMXS9M" timeshift="7", NBA TV US
+http://live.biluspeh.com/8061/video.m3u8?token=M4xovdRfcMXMXS9M
+#EXTINF:-1  group-title="WORLD NEWS"  tvg-id="ESPN US"  tvg-logo="[img]https://icon.biluspeh.com/icon/ESPN%201%20HD%20NL.png[/img]"   catchup-days="0", ESPN US
+http://live.biluspeh.com/8755/video.m3u8?token=M4xovdRfcMXMXS9M
 #EXTINF:-1 tvg-id="CNN.HD.us2" tvg-name="CNN US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/CNN_Logo_%282014%29.svg/500px-CNN_Logo_%282014%29.svg.png" group-title="WORLD NEWS",CNN US
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="CNN.International.us2" tvg-name="CNN International" tvg-logo="https://logos-world.net/wp-content/uploads/2020/11/CNN-Logo.png" group-title="WORLD NEWS",CNN International
 https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="CNA.sg@SD" tvg-logo="https://i.imgur.com/awIDugE.png" group-title="WORLD NEWS",CNA (1080p)
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-id="99991247" tvg-name="NBC News NOW" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/14F5D3B6-FA2C-4E41-91AD-CD037209D874/3-1x1.png" group-title="WORLD NEWS",NBC News NOW
 https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/3e088b25-3e79-4f34-bbdf-afbcd40497f3/4.m3u8
 #EXTINF:-1 tvg-id="99991635" tvg-name="LiveNOW from FOX" tvg-logo="https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2023/01/0/100/LiveNOW-logo-1280x720.jpg?ve=1&tl=1" group-title="WORLD NEWS",LiveNOW from FOX
@@ -326,35 +325,57 @@ https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/3.m3u8
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/e7493ea5-5c1c-4d7a-a3f7-e95516048ad8/3.m3u8
 #EXTINF:-1 tvg-id="Fox.Business.HD.us2" tvg-name="Fox Business" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-business-us.png?raw=true" group-title="WORLD NEWS",Fox Business
 http://41.205.93.154/FOXBUSINESS/index.m3u8
-
-# === 🇬🇧 UK ===
-
+#EXTINF:-1  group-title="WORLD NEWS"  tvg-id="BBC News US"  tvg-logo="[img]https://icon.biluspeh.com/icon/BBC%20World%20News%20HD%20US.png[/img]"   catchup-days="0", BBC News US
+http://live.biluspeh.com/8036/video.m3u8?token=M4xovdRfcMXMXS9M
+#EXTINF:-1  group-title="WORLD NEWS"  tvg-id="BBC 2 HD US"  tvg-logo="[img]https://icon.biluspeh.com/icon/BBC%202%20HD.png[/img]"   catchup-days="0", BBC 2 HD US
+http://live.biluspeh.com/8673/video.m3u8?token=M4xovdRfcMXMXS9M
 #EXTINF:-1 tvg-id="BBC.NEWS.HD.uk" tvg-name="BBC News UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/330px-BBC_News_2022_%28Alt%29.svg.png" group-title="WORLD NEWS",BBC News UK
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-id="BBC.News.(North.America).HD.us2" tvg-name="BBC News International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/330px-BBC_News_2022_%28Alt%29.svg.png" group-title="WORLD NEWS",BBC News International
 https://d3pxo1qcgzxtxs.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-linear-amc-hlsv3/5ab832c0-311a-4705-9535-5e54ad64b21e/5.m3u8
 #EXTINF:-1 tvg-id="Sky.News.HD.uk" tvg-name="Sky News" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-news-uk.png?raw=true" group-title="WORLD NEWS",Sky News
 https://xumo-drct-skynews-nc91a.fast.nbcuni.com/live/master_5.m3u8
+#EXTINF:-1  group-title="WORLD NEWS"  tvg-id="CNBC US"  tvg-logo="[img]https://icon.biluspeh.com/icon/CNBC%20Canada%20CA.png[/img]"   catchup-days="0", CNBC US
+http://live.biluspeh.com/8675/video.m3u8?token=M4xovdRfcMXMXS9M
 #EXTINF:-1 tvg-id="CNBC.uk" tvg-name="CNBC UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/500px-CNBC_2025.svg.png" group-title="WORLD NEWS",CNBC UK
 https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg01079-nbcuukfast-cnbcuk-samsunggb/cb573e1f796c648e9dd43d6fcef74782847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258ae7e4cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7a9b25a40db6df2b2014bc42a43fa83439fd501b3d4865e8317d324f5409d97a68cda128b8c81599706e6274759326da684769ec854b8a8f40355875018762171c98eb2d76021dc3b2930f9fbd8f164ef03f187248c6545d76af254a500ba5484288ac453faddd1b643452aeac7547137a197c3e09a6569ce0c9ca3edce3d7890f266102daf76e811021c8da7b37ee3c21185f8278ba01b7052ab8a71baaf95a6db9fbd7e817fb4ad999939510077073d9549b09363dc5bb012c3d52702637e709fb37be39beb6f5a1127346851ae71339299e2abd0003c8a4b1454ef12b631674dff44a7f8784f83fe1d7f802770e57f5da91d5d08258d7fa4dde944c4501bcc219b0e4b9505892a989823ba643d162abcfc2b606e4373d7d4ab6c5a76ee4afedac6ed764655a2a78db6f75a36033600414ca5d6a721cbc090725d21c85d70342f500fc0509f29fe10590c2bfe1bd1870060ca53727aa8f4691d1247befc9cadcb96c64dbe7a93e8f83a243410239e3b172963d6f9dc0aa5761b302a13d04f5742bb06484ba5c09ab2d7d338bce90ec00f6b1a67cae704015802010424afd0398710b2e95ed3fded53c3e881173ff51fab131f93d59c21b8da88c94b0087b9157e4392c02cd17c3dcd74857fd832111e18bda97a1871d8da8fc83c35dd72b1e43ebf4550/140/1920x1080_4716800/index.m3u8
-
-# === 🇫🇷 FR ===
-
 #EXTINF:-1 tvg-id="FRANCE.24.HD.uk" tvg-name="France 24 English FR" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/france-24-int.png?raw=true" group-title="WORLD NEWS",France 24 English FR
 https://amg00106-france24-france24-samsunguk-qvpp8.amagi.tv/ts-eu-w1-n2/playlist/amg00106-france24-france24-samsunguk/cb553d1e7f6c678a93d43e61d4ef41a4da2427fc087a8d6933fb4b926bc10f41f8eda29ab30fb02b04940fa73f4e380d4d1a9a4ace0362d7b66aa9515b7d121b9d81a20a99d94e5cd58d5d5173f7651b52f91016d6354b59f1dd3724c97db9700e16a82e6b553982f449de2e109add5f947e2d88b3dd7f39635a4ffc0c0bb4e207bcfae25a5bdb6ab3a54a1ac32640b28210d4804fb9d2c95a9f15866ba0469893ed8c82178b8e9167ab5fe3645c025c17f4817d808749b5e5897d2b957f2f34733f8db8a7dd710fb2756a72dfe291cf0f9612ca9a6b826f27ab01ea2cee51da31d963c0e04ab3e3bfd6463351cea240511489c1bdd0835f54bc62e8ecedd3670ef49c7f6373e85fff071f17a0c9d64ec4a97b97b230cbb5790d07c49e489a94bcf181dae151bd15faf8d0b71063674d1958fa37ce9b69c867dc68b8f11d20514836c1f03fdfa7e96e0f4c6eaba543e61371c1b30a28426c41a85528188555d7521169c8745f68e439fc894e14e34424a445f07fc557fa2fd2b73ee1af9bc40b3ea7d7c443850fa5d558949e8ace1cbf9cf917b2ac7d6535e5e36da3f62441630f8bf2c7e4650003edb8eef6c9503900362d836de1f7ca7f8187cc251c59941d76203c3d16950dd87dd013415b6ee010c7a90534a807226dc9947f651a3dc6f7e0d4b8818304946fc3c3f80e2a39726aa97c5075399de5db19b513634a5771cc4f684ab6021a65ef96c2ead0c04dc68e6ba73d2d453796be470f591c2323399a9669c557adc64eeed5990abe80e7766ab67c9b7377cf80e33dadd2d6bd0865f68d5816609bd655a0523dd71bd151e5f178cabf58035c710067f1ce6cbd389dda89cc3f953ca72c522cbc98da334d437c0085f00e405e43b055085b3498677cda25/126/1920x1080_6046040/index.m3u8
 #EXTINF:-1 tvg-id="Euronews.uk" tvg-name="Euronews FR" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/euro-news-int.png?raw=true" group-title="WORLD NEWS",Euronews FR
 https://aka-live1050.delivery.roku.com/f5af26d1-822b-43f3-93f4-2301a947e1f3/t2-origin/out/v1/live_1080.m3u8
-
-# === 🇩🇪 DE  ===
 #EXTINF:-1 tvg-id="DW.HD.ca2" tvg-name="DW English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/330px-Deutsche_Welle_symbol_2012.svg.png" group-title="WORLD NEWS",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
-
-# === 🇶🇦 QA  ===
-
 #EXTINF:-1 tvg-id="Al.Jazeera.English.ca2" tvg-name="Al Jazeera English QA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/aljazeera-uk.png?raw=true" group-title="WORLD NEWS",Al Jazeera English QA
 https://live-hls-apps-aje-v3-fa.getaj.net/AJE/01.m3u8
 
+
+# === VIETNAM NEWS ===
+
 #EXTINF:-1  tvg-name="VTV1" tvg-id="vtv1hd" tvg-logo="https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg" group-title="VIETNAM TV" catchup="default" catchup-days="2",VTV1
 https://freem3u.xyz/api/live/play.m3u8?vid=2
-
-
+#EXTINF:-1 tvg-id="VTV2.vn@HD" tvg-logo="https://i.imgur.com/qWWpYRR.png" group-title="VIETNAM TV",VTV2 HD (1080p)
+https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="VTV3.vn@HD" tvg-logo="https://i.imgur.com/4lJG1fu.png" group-title="VIETNAM TV",VTV3 HD (1080p)
+https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/vtv4.png" group-title="VIETNAM TV",VTV4
+https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/vtv5.png" group-title="VIETNAM TV",VTV5
+https://live-a.fptplay53.net/live/media/VTV5HD/live_hls_avc/index.m3u8
+#EXTINF:-1 tvg-id="VTV5TayNamBo.vn@HD" tvg-logo="https://i.imgur.com/xiuHjEQ.png" group-title="VIETNAM TV",VTV5 Tây Nam Bộ HD (1080p)
+https://liveh12.vtvprime.vn/hls/VTV5_TNB/index.m3u8
+#EXTINF:-1 tvg-id="VTV5TayNguyen.vn@HD" tvg-logo="https://i.imgur.com/Hlcnqqt.png" group-title="VIETNAM TV",VTV5 Tây Nguyên HD (1080p)
+https://liveh12.vtvprime.vn/hls/VTV5_TN/index.m3u8
+#EXTINF:-1 tvg-id="VTV7.vn@HD" tvg-logo="https://i.imgur.com/ZwoP823.png" group-title="VIETNAM TV",VTV7 HD (1080p)
+https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="VTV8.vn@HD" tvg-logo="https://i.imgur.com/rf9adGJ.png" group-title="VIETNAM TV",VTV8 HD (1080p)
+https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="VTV9.vn@HD" group-title="VTV",VTV9 HD (1080p)
+https://live.fptplay53.net/fnxhd1/vtv9_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/vtvcantho.png" group-title="VTV",VTV10
+https://live.fptplay53.net/fnxch2/vtvcantho_abr.smil/chunklist_b4200000.m3u8
+#EXTINF:-1  tvg-name="﻿﻿H1 HD _ TH Hà Nội" tvg-id="﻿﻿hanoi1" tvg-logo="﻿﻿https://i.imgur.com/mwCTDMj.png" group-title="VIETNAM TV",﻿﻿HaNoi1
+https://live.fptplay53.net/fnxhd2/hanoitv1_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1  tvg-name="Hà Nội 2 HD" tvg-id="hanoi2" tvg-logo="﻿﻿https://i.imgur.com/HyiwlZV.png" group-title="VIETNAM TV",﻿﻿HaNoi2
+https://cloudstreamhntv.tek4tv.vn/live/smil:HN2.smil/playlist.m3u8
+#EXTINF:-1  tvg-name="Hà Nội 2 HD - Đài Hà Nội" tvg-id="hanoi2" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728293033798/d23973063be9_640_360.png" group-title="VIETNAM TV",﻿﻿HaNoi2
+https://freem3u.xyz/api/live/play.m3u8?vid=34
