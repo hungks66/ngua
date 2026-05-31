@@ -1,5 +1,48 @@
 #EXTM3U
 
+#EXTINF:0 group-title="Спорт" tvg-id="6560" tvg-logo="http://epg.one/img/6560.png" tvg-rec="0",Sky Sport Golf HD IT
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KANKBLUDA77CA22LB5AVK7G8/19132/index.m3u8
+#EXTINF:0 group-title="Великобритания | United Kingdom" tvg-id="4578" tvg-logo="http://epg.one/img/4578.png" tvg-rec="3",Sky Sports Golf HD 50 UK
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KANKBLUDA77CA22LB5AVK7G8/9293/index.m3u8
+#EXTINF:0 group-title="Великобритания | United Kingdom" tvg-id="4578" tvg-logo="http://epg.one/img/4578.png" tvg-rec="0",Sky Sports Golf HD UK
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KANKBLUDA77CA22LB5AVK7G8/7344/index.m3u8
+#EXTINF:0 group-title="Германия | Germany" tvg-id="9114" tvg-logo="http://epg.one/img/9114.png" tvg-rec="3",Sky Sport Golf HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KANKBLUDA77CA22LB5AVK7G8/5043/index.m3u8
+#EXTINF:0 group-title="Испания | Spain" tvg-id="3104" tvg-logo="http://epg.one/img/3104.png" tvg-rec="3",M+ Golf ES
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KANKBLUDA77CA22LB5AVK7G8/6075/index.m3u8
+#EXTINF:0 group-title="Испания | Spain" tvg-id="3104" tvg-logo="http://epg.one/img/3104.png" tvg-rec="0",M+ Golf HD ES
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KANKBLUDA77CA22LB5AVK7G8/31844/index.m3u8
+#EXTINF:0 group-title="Испания | Spain" tvg-id="11425" tvg-logo="http://epg.one/img/11425.png" tvg-rec="0",M+ Golf 2 HD ES
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KANKBLUDA77CA22LB5AVK7G8/31878/index.m3u8
+#EXTINF:0 group-title="Канада | Canada" tvg-id="3624" tvg-logo="http://epg.one/img/3624.png" tvg-rec="0",Golf Channel HD CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KANKBLUDA77CA22LB5AVK7G8/6481/index.m3u8
+#EXTINF:0 group-title="США | USA" tvg-id="8418" tvg-logo="http://epg.one/img/8418.png" tvg-rec="0",Golf Channel HD US
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KANKBLUDA77CA22LB5AVK7G8/30089/index.m3u8
+#EXTINF:0 group-title="Хорватия | Croatia" tvg-id="4544" tvg-logo="http://epg.one/img/4544.png" tvg-rec="0",Sport Klub Golf HR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KANKBLUDA77CA22LB5AVK7G8/7277/index.m3u8
+#EXTINF:0 group-title="Швеция | Sweden" tvg-id="4907" tvg-logo="http://epg.one/img/4907.png" tvg-rec="0",V Sport Golf SE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KANKBLUDA77CA22LB5AVK7G8/12077/index.m3u8
+##==================================================================================
+#EXTINF:0 tvg-rec="0",Sky Sports Golf HD UK
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/7344/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sport Golf HD IT
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/19132/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Sports Golf HD 50 UK
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/9293/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Sport Golf HD DE
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/5043/index.m3u8
+#EXTINF:0 tvg-rec="0",M+ Golf HD ES
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/31844/index.m3u8
+#EXTINF:0 tvg-rec="0",Golf Channel HD CA
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/6481/index.m3u8
+#EXTINF:0 tvg-rec="0",Golf Channel HD US
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/30089/index.m3u8
+#EXTINF:0 tvg-rec="0",Sport Klub Golf HR
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/7277/index.m3u8
+#EXTINF:0 tvg-rec="0",V Sport Golf SE
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/12077/index.m3u8
+#================================================================================
+
 #EXTINF:-1 group-title="GOLF UK" tvg-logo="http://epg.one/img2/4578.png" tvg-rec="0",UK - SKY SPORTS GOLF FHD ◉
 http://prot44.xyz:80/alikrrasniqi/3FD0B6554A0C/17287
 #EXTINF:-1 group-title="GOLF UK" tvg-logo="http://epg.one/img2/4578.png" tvg-rec="0",UK - SKY SPORTS GOLF HEVC
@@ -26,6 +69,155 @@ http://trytv.icu:8080/96066144/96066144/35240
 http://gthp8lio.tvclub.xyz/iptv/VZL5TK4EKTYM2DYT7B8V5PXT/9293/index.m3u8
 #EXTINF:-1  tvg-name="﻿UK Sky Sports Golf HD UK" tvg-id="﻿sky.sports.golf.gb" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-golf-uk.png?raw=true" group-title="GOLF UK",﻿Sky Sports Golf 1080P
 http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/7344/index.m3u8
+
+# ===== BÓNG ĐÁ =====
+#EXTINF:0 group-title="BÓNG ĐÁ" tvg-id="9243" tvg-logo="http://epg.one/img/9243.png" tvg-rec="0",Nova Sport 3 HD CZ
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KANKBLUDA77CA22LB5AVK7G8/31570/index.m3u8
+#EXTINF:0 group-title="BÓNG ĐÁ" tvg-id="9244" tvg-logo="http://epg.one/img/9244.png" tvg-rec="0",Nova Sport 4 HD CZ
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KANKBLUDA77CA22LB5AVK7G8/31571/index.m3u8
+#EXTINF:-1 group-title="BÓNG ĐÁ",EXYU - SPORT TV5 FHD
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/31946/index.m3u8
+#EXTINF:-1 group-title="BÓNG ĐÁ",ARENA SPORT1 FHD
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/7263/index.m3u8
+#EXTINF:-1 group-title="BÓNG ĐÁ" tvg-rec="0",Окко Футбол UHD
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/19430/index.m3u8
+#EXTINF:0 group-title="Хорватия | Croatia" tvg-id="4563" tvg-logo="http://epg.one/img/4563.png" tvg-rec="0",Arena Sport 1 FHD HR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KANKBLUDA77CA22LB5AVK7G8/7263/index.m3u8
+#EXTINF:0 group-title="Хорватия | Croatia" tvg-id="4564" tvg-logo="http://epg.one/img/4564.png" tvg-rec="0",Arena Sport 2 FHD HR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KANKBLUDA77CA22LB5AVK7G8/7264/index.m3u8
+#EXTINF:0 group-title="Хорватия | Croatia" tvg-id="4565" tvg-logo="http://epg.one/img/4565.png" tvg-rec="0",Arena Sport 3 FHD HR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KANKBLUDA77CA22LB5AVK7G8/7265/index.m3u8
+#EXTINF:0 group-title="Хорватия | Croatia" tvg-id="4566" tvg-logo="http://epg.one/img/4566.png" tvg-rec="0",Arena Sport 4 FHD HR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KANKBLUDA77CA22LB5AVK7G8/7266/index.m3u8
+#EXTINF:0 group-title="Хорватия | Croatia" tvg-id="4567" tvg-logo="http://epg.one/img/4567.png" tvg-rec="0",Arena Sport 5 FHD HR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KANKBLUDA77CA22LB5AVK7G8/7267/index.m3u8
+#EXTINF:0 group-title="Хорватия | Croatia" tvg-id="4568" tvg-logo="http://epg.one/img/4568.png" tvg-rec="0",Arena Sport 6 FHD HR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KANKBLUDA77CA22LB5AVK7G8/7268/index.m3u8
+#EXTINF:0 group-title="Хорватия | Croatia" tvg-id="4563" tvg-logo="http://epg.one/img/4563.png" tvg-rec="0",Arena Sport 1 HD HR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KANKBLUDA77CA22LB5AVK7G8/7329/index.m3u8
+#EXTINF:0 group-title="Хорватия | Croatia" tvg-id="4564" tvg-logo="http://epg.one/img/4564.png" tvg-rec="0",Arena Sport 2 HD HR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KANKBLUDA77CA22LB5AVK7G8/7330/index.m3u8
+#EXTINF:0 group-title="Хорватия | Croatia" tvg-id="4565" tvg-logo="http://epg.one/img/4565.png" tvg-rec="0",Arena Sport 3 HD HR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KANKBLUDA77CA22LB5AVK7G8/7331/index.m3u8
+#EXTINF:0 group-title="Хорватия | Croatia" tvg-id="4566" tvg-logo="http://epg.one/img/4566.png" tvg-rec="0",Arena Sport 4 HD HR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KANKBLUDA77CA22LB5AVK7G8/7332/index.m3u8
+#EXTINF:0 group-title="Хорватия | Croatia" tvg-id="4567" tvg-logo="http://epg.one/img/4567.png" tvg-rec="0",Arena Sport 5 HD HR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KANKBLUDA77CA22LB5AVK7G8/7333/index.m3u8
+#EXTINF:0 group-title="Хорватия | Croatia" tvg-id="4568" tvg-logo="http://epg.one/img/4568.png" tvg-rec="0",Arena Sport 6 HD HR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KANKBLUDA77CA22LB5AVK7G8/7334/index.m3u8
+#EXTINF:0 tvg-rec="0",Arena Sport 1 FHD HR
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/7263/index.m3u8
+#EXTINF:0 tvg-rec="0",Arena Sport 2 FHD HR
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/7264/index.m3u8
+#EXTINF:0 tvg-rec="0",Arena Sport 3 FHD HR
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/7265/index.m3u8
+#EXTINF:0 tvg-rec="0",Arena Sport 4 FHD HR
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/7266/index.m3u8
+#EXTINF:0 tvg-rec="0",Arena Sport 5 FHD HR
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/7267/index.m3u8
+#EXTINF:0 tvg-rec="0",Arena Sport 6 FHD HR
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/7268/index.m3u8
+#EXTINF:0 tvg-rec="0",Arena Sport 1 HD HR
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/7329/index.m3u8
+#EXTINF:0 tvg-rec="0",Arena Sport 2 HD HR
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/7330/index.m3u8
+#EXTINF:0 tvg-rec="0",Arena Sport 3 HD HR
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/7331/index.m3u8
+#EXTINF:0 tvg-rec="0",Arena Sport 4 HD HR
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/7332/index.m3u8
+#EXTINF:0 tvg-rec="0",Arena Sport 5 HD HR
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/7333/index.m3u8
+#EXTINF:0 tvg-rec="0",Arena Sport 6 HD HR
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/7334/index.m3u8
+#EXTINF:0 tvg-rec="0",Arena Premium 1 HD RS
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/31599/index.m3u8
+#EXTINF:0 tvg-rec="0",Arena Premium 2 HD RS
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/31600/index.m3u8
+#EXTINF:0 tvg-rec="0",Arena Premium 3 HD RS
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/31601/index.m3u8
+#EXTINF:0 tvg-rec="0",Arena Sport 1 HD RS
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/31602/index.m3u8
+#EXTINF:0 tvg-rec="0",Arena Sport 3 HD RS
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/31603/index.m3u8
+#EXTINF:0 tvg-rec="0",Arena Sport 4 HD RS
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/31605/index.m3u8
+#EXTINF:0 tvg-rec="0",Arena Sport 5 HD RS
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/31606/index.m3u8
+#EXTINF:0 tvg-rec="0",Arena Sport 6 HD RS
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/31607/index.m3u8
+#EXTINF:0 tvg-rec="0",Arena Sport 7 HD RS
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/31608/index.m3u8
+#EXTINF:0 tvg-rec="0",Arena Sport 8 HD RS
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/31609/index.m3u8
+#EXTINF:0 tvg-rec="0",Arena Sport 9 HD RS
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/31610/index.m3u8
+#EXTINF:0 tvg-rec="0",Arena Sport 1x2 HD RS
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/31611/index.m3u8
+#EXTINF:0 tvg-rec="3",Arena Sport 1 FHD RS
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/2550/index.m3u8
+#EXTINF:0 tvg-rec="3",Sport TV 1 HD PT
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/2525/index.m3u8
+#EXTINF:0 tvg-rec="3",Sport TV 2 HD PT
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/2526/index.m3u8
+#EXTINF:0 tvg-rec="3",Sport TV 3 HD PT
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/2527/index.m3u8
+#EXTINF:0 tvg-rec="3",Sport TV 4 HD PT
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/2528/index.m3u8
+#EXTINF:0 tvg-rec="3",Sport TV 5 HD PT
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/2529/index.m3u8
+#EXTINF:0 tvg-rec="3",Sporting TV FHD PT
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/2530/index.m3u8
+#EXTINF:0 tvg-rec="3",DAZN 1 HD PT
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/2531/index.m3u8
+#EXTINF:0 tvg-rec="3",DAZN 2 FHD PT
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/2532/index.m3u8
+#EXTINF:0 tvg-rec="3",DAZN 4 FHD PT
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/2534/index.m3u8
+#EXTINF:0 tvg-rec="3",DAZN 5 FHD PT
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/2535/index.m3u8
+#EXTINF:0 tvg-rec="3",DAZN 6 FHD PT
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/2536/index.m3u8
+#EXTINF:0 tvg-rec="3",DAZN 3 FHD PT
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/7062/index.m3u8
+#EXTINF:0 tvg-rec="0",Sport TV+ FHD PT
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/31941/index.m3u8
+#EXTINF:0 tvg-rec="0",Sport TV 1 FHD PT
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/31942/index.m3u8
+#EXTINF:0 tvg-rec="0",Sport TV 2 FHD PT
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/31943/index.m3u8
+#EXTINF:0 tvg-rec="0",Sport TV 3 FHD PT
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/31944/index.m3u8
+#EXTINF:0 tvg-rec="0",Sport TV 4 FHD PT
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/31945/index.m3u8
+#EXTINF:0 tvg-rec="0",Sport TV 5 FHD PT
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/31946/index.m3u8
+#EXTINF:0 tvg-rec="0",Sport TV 6 FHD PT
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/31947/index.m3u8
+#EXTINF:0 tvg-rec="0",Sport TV 7 FHD PT
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/31948/index.m3u8
+#EXTINF:0 tvg-rec="0",Eurosport 1 HD PT
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/31949/index.m3u8
+#EXTINF:0 tvg-rec="0",Eurosport 2 HD PT
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/31950/index.m3u8
+#EXTINF:0 tvg-rec="0",A Bola TV HD PT
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/31951/index.m3u8
+#EXTINF:0 tvg-rec="0",Benfica TV HD PT
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/31952/index.m3u8
+#EXTINF:0 tvg-rec="0",Sporting TV HD PT
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/31953/index.m3u8
+#EXTINF:0 tvg-rec="0",DAZN 1 PT
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/31954/index.m3u8
+#EXTINF:0 tvg-rec="0",DAZN 2 HD PT
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/31955/index.m3u8
+#EXTINF:0 tvg-rec="0",DAZN 3 HD PT
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/31956/index.m3u8
+#EXTINF:0 tvg-rec="0",DAZN 4 HD PT
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/31957/index.m3u8
+#EXTINF:0 tvg-rec="0",DAZN 5 HD PT
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/31958/index.m3u8
+
+#==========================================================================================================
+
 #EXTINF:-1 group-title="GOLF FRENCH" tvg-logo="http://epg.one/img2/4578.png" tvg-rec="0",CH - GOLF+ FHD
 http://prot44.xyz:80/alikrrasniqi/3FD0B6554A0C/1054626
 #EXTINF:0 group-title="Germany Golf" tvg-id="9114" tvg-logo="http://epg.one/img/9114.png" tvg-rec="3",Sky Sport Golf HD DE
@@ -249,51 +441,7 @@ http://trytv.icu:8080/96066144/96066144/99624
 #EXTINF:-1 tvg-id="" tvg-name="Carib ESPN2" tvg-logo="" group-title="ESPN Sports",Carib ESPN2
 http://trytv.icu:8080/96066144/96066144/99623
 
-# ===== ARENA SPORTS =====
 
-
-#EXTINF:-1 group-title="ARENA SPORTS",EXYU - ARENA SPORT 1 BIH FHD
-http://prot44.xyz:80/alikrrasniqi/3FD0B6554A0C/74892
-#EXTINF:-1 group-title="ARENA SPORTS",EXYU - ARENA SPORT 1 HD (HR)
-http://prot44.xyz:80/alikrrasniqi/3FD0B6554A0C/74897
-#EXTINF:-1 group-title="ARENA SPORTS",EXYU - ARENA SPORT 1 HD (SR) 
-http://prot44.xyz:80/alikrrasniqi/3FD0B6554A0C/74893
-#EXTINF:-1 group-title="ARENA SPORTS",EXYU - ARENA SPORT 2 HD (HR) 
-http://prot44.xyz:80/alikrrasniqi/3FD0B6554A0C/74898
-#EXTINF:-1 group-title="ARENA SPORTS",EXYU - ARENA SPORT 2 HD (SR) 
-http://prot44.xyz:80/alikrrasniqi/3FD0B6554A0C/74894
-#EXTINF:-1 group-title="ARENA SPORTS",EXYU - ARENA SPORT 3 HD (HR)
-http://prot44.xyz:80/alikrrasniqi/3FD0B6554A0C/74899
-#EXTINF:-1 group-title="ARENA SPORTS",EXYU - ARENA SPORT 3 HD (SR) 
-http://prot44.xyz:80/alikrrasniqi/3FD0B6554A0C/74895
-#EXTINF:-1 group-title="ARENA SPORTS",EXYU - ARENA SPORT 4 HD
-http://prot44.xyz:80/alikrrasniqi/3FD0B6554A0C/74900
-#EXTINF:-1 group-title="ARENA SPORTS",EXYU - ARENA SPORT 4 HD (SR)
-http://prot44.xyz:80/alikrrasniqi/3FD0B6554A0C/74896
-#EXTINF:-1 group-title="ARENA SPORTS",EXYU - ARENA SPORT 5 HD (HR)
-http://prot44.xyz:80/alikrrasniqi/3FD0B6554A0C/74901
-#EXTINF:-1 group-title="ARENA SPORTS",EXYU - ARENA SPORT 5 HD (SR) 
-http://prot44.xyz:80/alikrrasniqi/3FD0B6554A0C/267472
-#EXTINF:-1 group-title="ARENA SPORTS",EXYU - ARENA SPORT 6 HD (HR)
-http://prot44.xyz:80/alikrrasniqi/3FD0B6554A0C/264022
-#EXTINF:-1 group-title="ARENA SPORTS",EXYU - ARENA SPORT 7 HD (HR)
-http://prot44.xyz:80/alikrrasniqi/3FD0B6554A0C/264023
-#EXTINF:-1 group-title="ARENA SPORTS",EXYU - ARENA SPORT 8 HD (HR)
-http://prot44.xyz:80/alikrrasniqi/3FD0B6554A0C/264024
-#EXTINF:-1 group-title="ARENA SPORTS",EXYU - ARENA SPORT 9 HD (HR)
-http://prot44.xyz:80/alikrrasniqi/3FD0B6554A0C/264025
-#EXTINF:-1 group-title="ARENA SPORTS",EXYU - ARENA SPORT 10 HD (HR)
-http://prot44.xyz:80/alikrrasniqi/3FD0B6554A0C/264026
-#EXTINF:-1 group-title="ARENA SPORTS",EXYU - ARENA PREMIUM 1 FHD
-http://prot44.xyz:80/alikrrasniqi/3FD0B6554A0C/273118
-#EXTINF:-1 group-title="ARENA SPORTS",EXYU - ARENA PREMIUM 2 FHD
-http://prot44.xyz:80/alikrrasniqi/3FD0B6554A0C/273119
-#EXTINF:-1 group-title="ARENA SPORTS",EXYU - ARENA PREMIUM 3 FHD
-http://prot44.xyz:80/alikrrasniqi/3FD0B6554A0C/273120
-#EXTINF:-1 group-title="ARENA SPORTS",EXYU - ARENA PREMIUM 4 FHD
-http://prot44.xyz:80/alikrrasniqi/3FD0B6554A0C/1287060
-#EXTINF:-1 group-title="ARENA SPORTS",EXYU - ARENA PREMIUM 5 FHD
-http://prot44.xyz:80/alikrrasniqi/3FD0B6554A0C/1287061
 
 # ===== WORLD NEWS =====
 
