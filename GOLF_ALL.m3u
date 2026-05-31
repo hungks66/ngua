@@ -259,13 +259,19 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PNNKRBU7SZ2C54/6481/inde
 http://gthp8lio.tvclub.xyz/iptv/VZL5TK4EKTYM2DYT7B8V5PXT/6481/index.m3u8
 #EXTINF:0 group-title="GOLF CHANNEL US" tvg-id="3624" tvg-logo="http://epg.one/img2/3624.png" tvg-rec="0",Golf Channel HD CA
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5LXUBC5N64R4LF/6481/index.m3u8
+#EXTINF:-1 group-title="GOLF CHANNEL US",NBC GOLF CHANNEL
+http://bgdc.live:25461/merlet1835/1835/37730
+#EXTINF:-1 group-title="GOLF CHANNEL US",CA: GOLF CHANNEL
+http://bgdc.live:25461/merlet1835/1835/190888
 #EXTINF:-1 tvg-id="GOLF CHANNEL US", group-title="GOLF CHANNEL US",GOLF CHANNEL Latin America (720p)
 http://181.114.57.246:4000/play/BHGDIhvdyuw/index.m3u8
+#EXTINF:-1 group-title="GOLF CHANNEL US",MX: Golf Channel Latin America
+http://bgdc.live:25461/merlet1835/1835/215166
 #EXTINF:-1 tvg-id="cbssportsnetworkusa.us" tvg-name="US CBS Sports Network HD " tvg-logo="https://juicetv.app/channellogo/cbs.png" group-title="GOLF CHANNEL US",US CBS Sports Network HD 
 http://trytv.icu:8080/96066144/96066144/10454
 #EXTINF:-1 group-title="GOLF CHANNEL US", CBS SPORTS
 http://bgdc.live:25461/merlet1835/1835/8459
-#EXTINF:-1,US - CBS SPORTS NETWORK HD
+#EXTINF:-1 group-title="GOLF CHANNEL US",US - CBS SPORTS NETWORK HD
 http://prot44.xyz:80/alikrrasniqi/3FD0B6554A0C/71938
 
 
