@@ -1,6 +1,82 @@
 #EXTM3U
+#EXTINF:0 group-title="BÓNG ĐÁ WC2026" tvg-rec="0",Go3 Sport 1 HD LV
+http://kws04u9a.rostelekom.xyz/iptv/MCHUP9AS7DBP5W/18011/index.m3u8
+#EXTINF:0 group-title="BÓNG ĐÁ WC2026" tvg-rec="0",Go3 Sport 1 HD LV
+http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/18011/index.m3u8
+#EXTINF:0 group-title="BÓNG ĐÁ WC2026" tvg-rec="0",Go3 Sport 1 HD LV
+http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/18011/index.m3u8
+#EXTINF:0 group-title="BÓNG ĐÁ WC2026" tvg-rec="0",Go3 Sport 1 HD EE
+http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/18000/index.m3u8
+#EXTINF:0 group-title="BÓNG ĐÁ WC2026" tvg-rec="0",Go3 Sport 1 HD EE
+http://kws04u9a.rostelekom.xyz/iptv/MCHUP9AS7DBP5W/18000/index.m3u8
+#EXTINF:0 group-title="BÓNG ĐÁ WC2026" tvg-rec="0",Go3 Sport 1 HD EE
+http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/18000/index.m3u8
+#EXTINF:0 group-title="BÓNG ĐÁ WC2026" tvg-rec="0",Go3 Sport 2 HD LV
+http://kws04u9a.rostelekom.xyz/iptv/MCHUP9AS7DBP5W/18012/index.m3u8
+#EXTINF:0 group-title="BÓNG ĐÁ WC2026" tvg-rec="0",Go3 Sport 2 HD LV
+http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/18012/index.m3u8
+#EXTINF:0 group-title="BÓNG ĐÁ WC2026" tvg-rec="0",Go3 Sport 2 HD LV
+http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/18012/index.m3u8
+#EXTINF:0 group-title="BÓNG ĐÁ WC2026" tvg-rec="0",Go3 Sport 2 HD EE
+http://kws04u9a.rostelekom.xyz/iptv/MCHUP9AS7DBP5W/18001/index.m3u8
+#EXTINF:0 group-title="BÓNG ĐÁ WC2026" tvg-rec="0",Go3 Sport 2 HD EE
+http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/18001/index.m3u8
+#EXTINF:0 group-title="BÓNG ĐÁ WC2026" tvg-rec="0",Go3 Sport 2 HD EE
+http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/18001/index.m3u8
+#EXTINF:0 group-title="BÓNG ĐÁ WC2026" tvg-rec="3",Go3 Sport 2 HD LT
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/6418/index.m3u8
+#EXTINF:0 group-title="BÓNG ĐÁ WC2026" tvg-rec="3",Go3 Sport 2 HD LT
+http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/6418/index.m3u8
+#EXTINF:0 group-title="BÓNG ĐÁ WC2026" tvg-rec="3",Go3 Sport 2 HD LT
+http://kws04u9a.rostelekom.xyz/iptv/MCHUP9AS7DBP5W/6418/index.m3u8
+#EXTINF:0 group-title="BÓNG ĐÁ WC2026" tvg-rec="3",Go3 Sport 3 HD LV
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/6408/index.m3u8
+#EXTINF:0 group-title="BÓNG ĐÁ WC2026" tvg-rec="3",Go3 Sport 3 HD LV
+http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/6408/index.m3u8
+#EXTINF:0 group-title="BÓNG ĐÁ WC2026" tvg-rec="3",Go3 Sport 3 HD LV
+http://kws04u9a.rostelekom.xyz/iptv/MCHUP9AS7DBP5W/6408/index.m3u8
 
-#EXTINF:0 group-title="Спорт" tvg-id="6560" tvg-logo="http://epg.one/img/6560.png" tvg-rec="0",Sky Sport Golf HD IT
+#EXTINF:0 tvg-rec="0",Go3 Sport Open HD LV
+http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/18025/index.m3u8
+#EXTINF:0 tvg-rec="0",Go3 Sport Open HD LV
+http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/18025/index.m3u8
+#EXTINF:0 tvg-rec="0",Go3 Sport Open HD LV
+http://kws04u9a.rostelekom.xyz/iptv/MCHUP9AS7DBP5W/18025/index.m3u8
+
+#EXTINF:0 tvg-rec="0",Go3 Films HD LV
+http://kws04u9a.rostelekom.xyz/iptv/MCHUP9AS7DBP5W/18008/index.m3u8
+#EXTINF:0 tvg-rec="0",Go3 Films HD LT
+http://kws04u9a.rostelekom.xyz/iptv/MCHUP9AS7DBP5W/12014/index.m3u8
+
+#EXTINF:0 tvg-rec="0",TSN 1 HD CA
+http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/6521/index.m3u8
+#EXTINF:0 tvg-rec="0",TSN 1 HD CA
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/6521/index.m3u8
+#EXTINF:0 tvg-rec="0",TSN 1 HD CA
+http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/6521/index.m3u8
+#EXTINF:0 group-title="BÓNG ĐÁ WC2026" tvg-rec="0",TSN 2 HD CA
+http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/6492/index.m3u8
+#EXTINF:0 group-title="BÓNG ĐÁ WC2026" tvg-rec="0",TSN 2 HD CA
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/6492/index.m3u8
+#EXTINF:0 group-title="BÓNG ĐÁ WC2026" tvg-rec="0",TSN 2 HD CA
+http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/6492/index.m3u8
+#EXTINF:0 tvg-rec="0",TSN 3 HD CA
+http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/6522/index.m3u8
+#EXTINF:0 tvg-rec="0",TSN 3 HD CA
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/6522/index.m3u8
+#EXTINF:0 tvg-rec="0",TSN 3 HD CA
+http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/6522/index.m3u8
+#EXTINF:0 tvg-rec="0",TSN 4 HD CA
+http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/6445/index.m3u8
+#EXTINF:0 tvg-rec="0",TSN 4 HD CA
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/6445/index.m3u8
+#EXTINF:0 tvg-rec="0",TSN 5 HD CA
+http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/6517/index.m3u8
+#EXTINF:0 tvg-rec="0",TSN 5 HD CA
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/6517/index.m3u8
+#EXTINF:0 tvg-rec="0",TSN 5 HD CA
+http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/6517/index.m3u8
+#EXTINF:0 group-title="GOLF ITALIA" tvg-id="6560" tvg-logo="http://epg.one/img/6560.png" tvg-rec="0",Sky Sport Golf HD IT
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KANKBLUDA77CA22LB5AVK7G8/19132/index.m3u8
 #EXTINF:0 group-title="Великобритания | United Kingdom" tvg-id="4578" tvg-logo="http://epg.one/img/4578.png" tvg-rec="3",Sky Sports Golf HD 50 UK
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KANKBLUDA77CA22LB5AVK7G8/9293/index.m3u8
