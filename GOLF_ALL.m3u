@@ -1,4 +1,29 @@
 #EXTM3U
+
+#=====GOLF TV  ===========
+#EXTINF:0 group-title="GOLF US OPEN2026" tvg-rec="3",Sky Sport Golf HD DE
+http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/5043/index.m3u8
+#EXTINF:0 group-title="GOLF US OPEN2026" tvg-rec="3",Sky Sport Golf HD DE
+http://kws04u9a.rostelekom.xyz/iptv/MCHUP9AS7DBP5W/5043/index.m3u8
+#EXTINF:0 group-title="GOLF US OPEN2026" tvg-rec="3", VIASAT SPORT GOLF HD SE
+http://kws04u9a.akciatv.ru/iptv/MCHUP9AS7DBP5W/12077/index.m3u8
+#EXTINF:0 group-title="GOLF US OPEN2026" tvg-rec="3", VSPORT GOLF HD SE
+http://kws04u9a.rostelekom.xyz/iptv/MCHUP9AS7DBP5W/12077/index.m3u8
+#EXTINF:0 group-title="GOLF US OPEN2026" tvg-rec="0",TSN 5 HD CA
+http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/6517/index.m3u8
+#EXTINF:0 group-title="GOLF US OPEN2026" tvg-rec="0",TSN 5 HD CA
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/6517/index.m3u8
+#EXTINF:0 group-title="GOLF US OPEN2026" tvg-rec="0",TSN 5 HD CA
+http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/6517/index.m3u8
+#EXTINF:0 group-title="GOLF US OPEN2026" tvg-rec="0",TSN 5 HD CA
+http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/6517/index.m3u8
+#EXTINF:0 group-title="GOLF US OPEN2026" tvg-rec="0",Sport Klub Golf HR
+http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/7277/index.m3u8
+#EXTINF:0 group-title="GOLF US OPEN2026" tvg-rec="0",Sky Sports Golf HD UK
+http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/7344/index.m3u8
+
+
+
 #EXTINF:0 group-title="BÓNG ĐÁ WC2026" tvg-rec="0",Go3 Sport 1 HD LV
 http://kws04u9a.rostelekom.xyz/iptv/MCHUP9AS7DBP5W/18011/index.m3u8
 #EXTINF:0 group-title="BÓNG ĐÁ WC2026" tvg-rec="0",Go3 Sport 1 HD LV
@@ -349,8 +374,19 @@ http://trytv.icu:8080/96066144/96066144/10454
 http://bgdc.live:25461/merlet1835/1835/8459
 #EXTINF:-1 group-title="GOLF CHANNEL US",US - CBS SPORTS NETWORK HD
 http://prot44.xyz:80/alikrrasniqi/3FD0B6554A0C/71938
+#EXTINF:-1 group-title="GOLF CHANNEL US" tvg-rec="3",USA HD US
+http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/1101/index.m3u8
 
-
+#EXTINF:0 tvg-rec="0",TSN 1 HD CA
+http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/6521/index.m3u8
+#EXTINF:0 tvg-rec="0",TSN 3 HD CA
+http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/6522/index.m3u8
+#EXTINF:0 tvg-rec="0",TSN 2 HD CA
+http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/6492/index.m3u8
+#EXTINF:0 tvg-rec="0",TSN 4 HD CA
+http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/6445/index.m3u8
+#EXTINF:0 tvg-rec="0",TSN 5 HD CA
+http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/6517/index.m3u8
 #EXTINF:-1 tvg-id="tsn1.ca" tvg-name="CA TSN 1 (E)" tvg-logo="https://pbs.twimg.com/profile_images/2763584720/a7abe58518e68500a7a4bf509fbd903c.png" group-title="CANADA SPORTS",CA TSN 1 (E)
 http://trytv.icu:8080/96066144/96066144/57292
 #EXTINF:-1 tvg-id="tsn1.ca" tvg-name="CA TSN 1 (R)" tvg-logo="" group-title="CANADA SPORTS",CA TSN 1 (R)
