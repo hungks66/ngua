@@ -1,10 +1,120 @@
 #EXTM3U
 
-#=====GOLF TV  ===========
-#EXTINF:0 group-title="GOLF US OPEN2026" tvg-rec="3",Sky Sport Golf HD DE
-http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/5043/index.m3u8
-#EXTINF:0 group-title="GOLF US OPEN2026" tvg-rec="3",Sky Sport Golf HD DE
+#=====GOLF GERMANY  ===========
+#EXTINF:0 group-title="GOLF GERMANY" tvg-rec="3",Sky Sport Golf HD DE
 http://kws04u9a.rostelekom.xyz/iptv/MCHUP9AS7DBP5W/5043/index.m3u8
+#EXTINF:0 group-title="GOLF GERMANY" tvg-rec="3",Sky Sport Golf HD DE1
+http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/5043/index.m3u8
+#EXTINF:0 group-title="GOLF GERMANY" tvg-rec="3",Sky Sport Golf HD DE2
+http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/5043/index.m3u8
+#EXTINF:0 group-title="GOLF GERMANY" tvg-rec="3",Sky Sport Golf HD DE3
+http://8dc3df04.edemist.com/iptv/VAU8656NGQ3EH65RVBWZ85PF/5043/index.m3u8
+#EXTINF:0 group-title="GOLF GERMANY" tvg-rec="3",Sky Sport Golf HD DE4
+http://c401060e.edemist.com/iptv/EALSZW4ETTMUPS/5043/index.m3u8
+#EXTINF:0 group-title="GOLF GERMANY" tvg-rec="3",Sky Sport Golf HD DE5
+http://jitzck3l.alfalt.fun/iptv/2C8SDFXMMW67FC/5043/index.m3u8
+
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 1 HD CA
+http://fc1qlunj.tvclub.xyz/iptv/275EP3V8V4MZHG8KQGLFDPSK/6521/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 2 HD CA
+http://fc1qlunj.tvclub.xyz/iptv/275EP3V8V4MZHG8KQGLFDPSK/6492/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 3 HD CA
+http://fc1qlunj.tvclub.xyz/iptv/275EP3V8V4MZHG8KQGLFDPSK/6522/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 4 HD CA
+http://fc1qlunj.tvclub.xyz/iptv/275EP3V8V4MZHG8KQGLFDPSK/6445/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 5 HD CA
+
+
+#EXTINF:0 group-title="GOLF GERMANY" tvg-rec="3",Sky Sport Golf HD DE6
+http://jitzck3l.alfalt.fun/iptv/2C8SDFXMMW67FC/5043/index.m3u8
+#EXTINF:0 group-title="GOLF GERMANY" tvg-rec="3",Sky Sport Golf HD DE7
+http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/5043/index.m3u8
+#EXTINF:0 group-title="GOLF GERMANY" tvg-rec="3",Sky Sport Golf HD DE8
+http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/5043/index.m3u8
+#EXTINF:0 group-title="GOLF GERMANY" tvg-rec="3",Sky Sport Golf HD DE9
+http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/5043/index.m3u8
+#EXTINF:0 group-title="GOLF GERMANY" tvg-rec="3",Sky Sport Golf HD DE10
+http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/5043/index.m3u8
+#EXTINF:0 group-title="GOLF GERMANY" tvg-rec="3",Sky Sport Golf HD DE11
+http://cthutq13.kazaktelekom.com/iptv/Q2CMP8BPU7VYTFR3BUKZDFR4/5043/index.m3u8
+#EXTINF:0 group-title="GOLF GERMANY" tvg-rec="3",Sky Sport Golf HD DE12
+http://1f80617b.ottolok.net/iptv/Z8V2WXHWEAMKY26CRSN8XVF7/5043/index.m3u8
+#EXTINF:0 group-title="GOLF GERMANY" tvg-rec="3",Sky Sport Golf HD DE13
+http://paexzosk.otttv.pw/iptv/8APCR5PZS8WVK4/5043/index.m3u8
+#EXTINF:0 group-title="GOLF GERMANY" tvg-rec="3",Sky Sport Golf HD DE14
+http://5baaleto.otttv.pw/iptv/8P7MBSH7RRPL53/5043/index.m3u8
+#EXTINF:0 group-title="GOLF GERMANY" tvg-rec="3",Sky Sport Golf HD DE15
+http://paexzosk.otttv.pw/iptv/8APCR5PZS8WVK4/5043/index.m3u8
+#EXTINF:0 group-title="GOLF GERMANY" tvg-rec="3",Sky Sport Golf HD DE16
+http://kws04u9a.rostelekom.xyz/iptv/MCHUP9AS7DBP5W/5043/index.m3u8
+#EXTINF:0 group-title="GOLF GERMANY" tvg-rec="3",Sky Sport Golf HD DE17
+http://ybk5mmr2.russtv.net/iptv/9A4A5D6WCXS4XF/5043/index.m3u8
+#EXTINF:0 group-title="GOLF GERMANY" tvg-rec="3",Sky Sport Golf HD DE18
+http://fc1qlunj.tvclub.xyz/iptv/275EP3V8V4MZHG8KQGLFDPSK/5043/index.m3u8
+#EXTINF:0 group-title="GOLF GERMANY" tvg-rec="3",Sky Sport Golf HD DE19
+http://fc1qlunj.tvclub.xyz/iptv/275EP3V8V4MZHG8KQGLFDPSK/5043/index.m3u8
+#EXTINF:0 group-title="GOLF GERMANY" tvg-rec="3",Sky Sport Golf HD DE20
+http://d4c32486.ucomist.net/iptv/LVFGLXHUW45A8PBECGUURD6K/5043/index.m3u8
+#EXTINF:0 group-title="GOLF GERMANY" tvg-rec="3",Sky Sport Golf HD DE21
+http://j14erxmo.virelloso.top/iptv/96FNZHEUB9GK66/5043/index.m3u8
+#EXTINF:0 group-title="GOLF GERMANY" tvg-rec="3",Sky Sport Golf HD DE22
+http://j14erxmo.virelloso.top/iptv/96FNZHEUB9GK66/5043/index.m3u8
+#EXTINF:0 group-title="GOLF GERMANY" tvg-rec="3",Sky Sport Golf HD DE23
+http://z0o5ctph.tvclub.xyz/iptv/2LHUFFK9TACM2V/5043/index.m3u8
+#EXTINF:0 group-title="GOLF GERMANY" tvg-rec="3",Sky Sport Golf HD DE1
+http://cb163385.amazzin.pw/iptv/MLLNWFWVC3H9YNUQTDBDHZGK/5043/index.m3u8
+#EXTINF:0 group-title="GOLF GERMANY" tvg-rec="3",Sky Sport Golf HD DE2
+http://ee24a09c.edmonst.net/iptv/5LXUBC5N64R4LF/5043/index.m3u8
+#EXTINF:0 group-title="GOLF GERMANY" tvg-rec="3",Sky Sport Golf HD DE3
+http://kws04u9a.rostelekom.xyz/iptv/MCHUP9AS7DBP5W/5043/index.m3u8
+#EXTINF:0 group-title="GOLF GERMANY" tvg-rec="3",Sky Sport Golf HD DE4
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KANKBLUDA77CA22LB5AVK7G8/5043/index.m3u8
+#EXTINF:0 group-title="GOLF GERMANY" tvg-rec="3",Sky Sport Golf HD DE5
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PNNKRBU7SZ2C54/5043/index.m3u8
+#EXTINF:0 group-title="GOLF GERMANY" tvg-rec="3",Sky Sport Golf HD DE6
+http://gthp8lio.tvclub.xyz/iptv/VZL5TK4EKTYM2DYT7B8V5PXT/5043/index.m3u8
+#EXTINF:0 group-title="GOLF GERMANY" tvg-rec="3",Sky Sport Golf HD DE7
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KANKBLUDA77CA22LB5AVK7G8/5043/index.m3u8
+#EXTINF:0 group-title="GOLF GERMANY" tvg-rec="3",Sky Sport Golf HD DE8
+http://i0ckghar.otttv.pw/iptv/FFNN3S9DFEX5SCZMRNY2SH3P/5043/index.m3u8
+#EXTINF:0 group-title="GOLF GERMANY" tvg-rec="3",Sky Sport Golf HD DE9
+http://fe3d3e4f.kazaktelekom.com/iptv/8DNEYEKGDK3SKVGLNPWNEP9Q/5043/index.m3u8
+#EXTINF:0 group-title="GOLF GERMANY" tvg-rec="3",Sky Sport Golf HD DE10
+http://47a63631.edemist.com/iptv/LVFGLXHUW45A8PBECGUURD6K/5043/index.m3u8
+#EXTINF:0 group-title="GOLF GERMANY" tvg-rec="3",Sky Sport Golf HD DE11
+http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/5043/index.m3u8
+#EXTINF:0 group-title="GOLF GERMANY" tvg-rec="3",Sky Sport Golf HD DE12
+http://6e8e416e.rossteleccom.net/iptv/5UTLZ77ZYQACMQ7WU4546MEU/5043/index.m3u8
+#EXTINF:0 group-title="GOLF GERMANY" tvg-rec="3",Sky Sport Golf HD DE13
+http://gm5p7bwu.rostelekom.xyz/iptv/9AMRED239WP37GPX6DLC3AD4/5043/index.m3u8
+#EXTINF:0 group-title="GOLF GERMANY" tvg-rec="3",Sky Sport Golf HD DE14
+http://238071de.rostelekom.xyz/iptv/QNKP368YM8HMHKUU6G9EDBSL/5043/index.m3u8
+#EXTINF:0 group-title="GOLF GERMANY" tvg-rec="3",Sky Sport Golf HD DE15
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/DWCPNKUKWA5A25/5043/index.m3u8
+#EXTINF:0 group-title="GOLF GERMANY" tvg-rec="3",Sky Sport Golf HD DE16
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/5043/index.m3u8
+#EXTINF:0 group-title="GOLF GERMANY" tvg-rec="3",Sky Sport Golf HD DE17
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PNNKRBU7SZ2C54/5043/index.m3u8
+#EXTINF:0 group-title="GOLF GERMANY" tvg-rec="3",Sky Sport Golf HD DE18
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/5043/index.m3u8
+#EXTINF:0 group-title="GOLF GERMANY" tvg-rec="3",Sky Sport Golf HD DE19
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/83HUZRHVU7LZA2/5043/index.m3u8
+#EXTINF:0 group-title="GOLF GERMANY" tvg-rec="3",Sky Sport Golf HD DE20
+http://gthp8lio.tvclub.xyz/iptv/VZL5TK4EKTYM2DYT7B8V5PXT/5043/index.m3u8
+#EXTINF:0 group-title="GOLF GERMANY" tvg-rec="3",Sky Sport Golf HD DE21
+http://uvg0ga35.tvclub.xyz/iptv/33RWU7D7E7Z2VG/5043/index.m3u8
+#EXTINF:0 group-title="GOLF GERMANY" tvg-rec="3",Sky Sport Golf HD DE22
+http://ae325328.ucomist.net/iptv/GKTT8YW6E9SFM2/5043/index.m3u8
+#EXTINF:0 group-title="GOLF GERMANY" tvg-rec="3",Sky Sport Golf HD DE23
+http://ae325328.ucomist.net/iptv/RL8MVW8UX8NNXK/5043/index.m3u8
+#EXTINF:0 group-title="GOLF GERMANY" tvg-rec="3",Sky Sport Golf HD DE24
+http://tqsxcvnh.ukminlt.fun/iptv/WCSZMUM84X4689VHGC7UDAQQ/5043/index.m3u8
+#EXTINF:0 group-title="GOLF GERMANY" tvg-id="9114" tvg-logo="http://epg.one/img/9114.png" tvg-rec="3",Sky Sport Golf HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PNNKRBU7SZ2C54/5043/index.m3u8
+#EXTINF:0 group-title="GOLF GERMANY" tvg-id="9114" tvg-logo="http://epg.one/img/9114.png" tvg-rec="3",Sky Sport Golf HD DE
+http://gthp8lio.tvclub.xyz/iptv/VZL5TK4EKTYM2DYT7B8V5PXT/5043/index.m3u8
+#EXTINF:0 group-title="GOLF GERMANY" tvg-id="﻿sky.sports.golf.gb" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-golf-uk.png?raw=true",﻿Sky Sports Golf HD DE
+http://bpl.online24.pm/play/924/C9673C54F58EE26/video.m3u8
 
 #=====GOLF UK  ===========
 
@@ -119,55 +229,7 @@ http://gthp8lio.tvclub.xyz/iptv/VZL5TK4EKTYM2DYT7B8V5PXT/9293/index.m3u8
 #EXTINF:0 group-title="GOLF UK" tvg-id="﻿sky.sports.golf.gb" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-golf-uk.png?raw=true",﻿Sky Sports Golf 1080P
 http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/7344/index.m3u8
 
-#=====GOLF GERMANY  ===========
-#EXTINF:0 group-title="GOLF GERMANY" tvg-rec="3",Sky Sport Golf HD DE1
-http://cb163385.amazzin.pw/iptv/MLLNWFWVC3H9YNUQTDBDHZGK/5043/index.m3u8
-#EXTINF:0 group-title="GOLF GERMANY" tvg-rec="3",Sky Sport Golf HD DE2
-http://ee24a09c.edmonst.net/iptv/5LXUBC5N64R4LF/5043/index.m3u8
-#EXTINF:0 group-title="GOLF GERMANY" tvg-rec="3",Sky Sport Golf HD DE3
-http://kws04u9a.rostelekom.xyz/iptv/MCHUP9AS7DBP5W/5043/index.m3u8
-#EXTINF:0 group-title="GOLF GERMANY" tvg-rec="3",Sky Sport Golf HD DE4
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KANKBLUDA77CA22LB5AVK7G8/5043/index.m3u8
-#EXTINF:0 group-title="GOLF GERMANY" tvg-rec="3",Sky Sport Golf HD DE5
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PNNKRBU7SZ2C54/5043/index.m3u8
-#EXTINF:0 group-title="GOLF GERMANY" tvg-rec="3",Sky Sport Golf HD DE6
-http://gthp8lio.tvclub.xyz/iptv/VZL5TK4EKTYM2DYT7B8V5PXT/5043/index.m3u8
-#EXTINF:0 group-title="GOLF GERMANY" tvg-rec="3",Sky Sport Golf HD DE7
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KANKBLUDA77CA22LB5AVK7G8/5043/index.m3u8
-#EXTINF:0 group-title="GOLF GERMANY" tvg-rec="3",Sky Sport Golf HD DE8
-http://i0ckghar.otttv.pw/iptv/FFNN3S9DFEX5SCZMRNY2SH3P/5043/index.m3u8
-#EXTINF:0 group-title="GOLF GERMANY" tvg-rec="3",Sky Sport Golf HD DE9
-http://fe3d3e4f.kazaktelekom.com/iptv/8DNEYEKGDK3SKVGLNPWNEP9Q/5043/index.m3u8
-#EXTINF:0 group-title="GOLF GERMANY" tvg-rec="3",Sky Sport Golf HD DE10
-http://47a63631.edemist.com/iptv/LVFGLXHUW45A8PBECGUURD6K/5043/index.m3u8
-#EXTINF:0 group-title="GOLF GERMANY" tvg-rec="3",Sky Sport Golf HD DE11
-http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/5043/index.m3u8
-#EXTINF:0 group-title="GOLF GERMANY" tvg-rec="3",Sky Sport Golf HD DE12
-http://6e8e416e.rossteleccom.net/iptv/5UTLZ77ZYQACMQ7WU4546MEU/5043/index.m3u8
-#EXTINF:0 group-title="GOLF GERMANY" tvg-rec="3",Sky Sport Golf HD DE13
-http://gm5p7bwu.rostelekom.xyz/iptv/9AMRED239WP37GPX6DLC3AD4/5043/index.m3u8
-#EXTINF:0 group-title="GOLF GERMANY" tvg-rec="3",Sky Sport Golf HD DE14
-http://238071de.rostelekom.xyz/iptv/QNKP368YM8HMHKUU6G9EDBSL/5043/index.m3u8
-#EXTINF:0 group-title="GOLF GERMANY" tvg-rec="3",Sky Sport Golf HD DE15
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/DWCPNKUKWA5A25/5043/index.m3u8
-#EXTINF:0 group-title="GOLF GERMANY" tvg-rec="3",Sky Sport Golf HD DE16
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/5043/index.m3u8
-#EXTINF:0 group-title="GOLF GERMANY" tvg-rec="3",Sky Sport Golf HD DE17
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PNNKRBU7SZ2C54/5043/index.m3u8
-#EXTINF:0 group-title="GOLF GERMANY" tvg-rec="3",Sky Sport Golf HD DE18
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/5043/index.m3u8
-#EXTINF:0 group-title="GOLF GERMANY" tvg-rec="3",Sky Sport Golf HD DE19
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/83HUZRHVU7LZA2/5043/index.m3u8
-#EXTINF:0 group-title="GOLF GERMANY" tvg-rec="3",Sky Sport Golf HD DE20
-http://gthp8lio.tvclub.xyz/iptv/VZL5TK4EKTYM2DYT7B8V5PXT/5043/index.m3u8
-#EXTINF:0 group-title="GOLF GERMANY" tvg-rec="3",Sky Sport Golf HD DE21
-http://uvg0ga35.tvclub.xyz/iptv/33RWU7D7E7Z2VG/5043/index.m3u8
-#EXTINF:0 group-title="GOLF GERMANY" tvg-rec="3",Sky Sport Golf HD DE22
-http://ae325328.ucomist.net/iptv/GKTT8YW6E9SFM2/5043/index.m3u8
-#EXTINF:0 group-title="GOLF GERMANY" tvg-rec="3",Sky Sport Golf HD DE23
-http://ae325328.ucomist.net/iptv/RL8MVW8UX8NNXK/5043/index.m3u8
-#EXTINF:0 group-title="GOLF GERMANY" tvg-rec="3",Sky Sport Golf HD DE24
-http://tqsxcvnh.ukminlt.fun/iptv/WCSZMUM84X4689VHGC7UDAQQ/5043/index.m3u8
+
 
 #========GOLF SPAIN =====================================
 #EXTINF:0 group-title="GOLF SPAIN" tvg-id="3104" tvg-logo="http://epg.one/img/3104.png" tvg-rec="0",M+ Golf HD ES01
@@ -259,68 +321,22 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KANKBLUDA77CA22LB5AVK7G8
 
 
 
-#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 5 HD CA
-http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/6517/index.m3u8
+
+http://fc1qlunj.tvclub.xyz/iptv/275EP3V8V4MZHG8KQGLFDPSK/6517/index.m3u8
 #EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 5 HD CA
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/6517/index.m3u8
-#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 5 HD CA
-http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/6517/index.m3u8
-#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 5 HD CA
-http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/6517/index.m3u8
-#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 1 HD CA
-http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/6521/index.m3u8
 #EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 1 HD CA
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/6521/index.m3u8
 #EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 1 HD CA
 http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/6521/index.m3u8
 #EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 2 HD CA
-http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/6492/index.m3u8
-#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 2 HD CA
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/6492/index.m3u8
-#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 2 HD CA
-http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/6492/index.m3u8
-#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 3 HD CA
-http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/6522/index.m3u8
 #EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 3 HD CA
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/6522/index.m3u8
-#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 3 HD CA
-http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/6522/index.m3u8
-#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 4 HD CA
-http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/6445/index.m3u8
 #EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 4 HD CA
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/6445/index.m3u8
 #EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 5 HD CA
-http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/6517/index.m3u8
-#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 5 HD CA
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/6517/index.m3u8
-#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 5 HD CA
-http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/6517/index.m3u8
-#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 1 HD CA
-http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/6521/index.m3u8
-#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 3 HD CA
-http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/6522/index.m3u8
-#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 2 HD CA
-http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/6492/index.m3u8
-#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 4 HD CA
-http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/6445/index.m3u8
-#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 5 HD CA
-http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/6517/index.m3u8
-#EXTINF:-1 tvg-id="tsn1.ca" tvg-name="CA TSN 1 (E)" tvg-logo="https://pbs.twimg.com/profile_images/2763584720/a7abe58518e68500a7a4bf509fbd903c.png" group-title="CANADA SPORTS",CA TSN 1 (E)
-http://trytv.icu:8080/96066144/96066144/57292
-#EXTINF:-1 tvg-id="tsn1.ca" tvg-name="CA TSN 1 (R)" tvg-logo="" group-title="CANADA SPORTS",CA TSN 1 (R)
-http://trytv.icu:8080/96066144/96066144/47440
-#EXTINF:-1 tvg-id="tsn2.ca" tvg-name="CA TSN 2 HD " tvg-logo="" group-title="CANADA SPORTS",CA TSN 2 HD 
-http://trytv.icu:8080/96066144/96066144/47442
-#EXTINF:-1 tvg-id="tsn2.ca" tvg-name="CA TSN 2 (R)" tvg-logo="https://pbs.twimg.com/profile_images/2763584720/a7abe58518e68500a7a4bf509fbd903c.png" group-title="CANADA SPORTS",CA TSN 2 (R)
-http://trytv.icu:8080/96066144/96066144/16129
-#EXTINF:-1 tvg-id="tsn3.ca" tvg-name="CA TSN 3 HD " tvg-logo="https://pbs.twimg.com/profile_images/2763584720/a7abe58518e68500a7a4bf509fbd903c.png" group-title="CANADA SPORTS",CA TSN 3 HD 
-http://trytv.icu:8080/96066144/96066144/10389
-#EXTINF:-1 tvg-id="tsn3.ca" tvg-name="CA TSN 3 HD " tvg-logo="" group-title="CANADA SPORTS",CA TSN 3 HD 
-http://trytv.icu:8080/96066144/96066144/47444
-#EXTINF:-1 tvg-id="tsn4.ca" tvg-name="CA TSN 4 HD " tvg-logo="https://pbs.twimg.com/profile_images/2763584720/a7abe58518e68500a7a4bf509fbd903c.png" group-title="CANADA SPORTS",CA TSN 4 HD 
-http://trytv.icu:8080/96066144/96066144/16130
-#EXTINF:-1 tvg-id="tsn4.ca" tvg-name="CA TSN 4 " tvg-logo="" group-title="CANADA SPORTS",CA TSN 4 
-http://trytv.icu:8080/96066144/96066144/66783
 #EXTINF:-1 tvg-id="tsn4.ca" tvg-name="CA TSN 4 " tvg-logo="" group-title="CANADA SPORTS",CA TSN 4 
 http://bgdc.live:25461/merlet1835/1835/38239
 #EXTINF:-1 tvg-id="tsn4.ca" tvg-name="CA TSN 4 " tvg-logo="" group-title="CANADA SPORTS",CA TSN 4 
@@ -330,14 +346,6 @@ http://trytv.icu:8080/96066144/96066144/16131
 #EXTINF:-1 tvg-id="tsn5.ca" tvg-name="CA TSN 5 " tvg-logo="" group-title="CANADA SPORTS",CA TSN 5 
 http://trytv.icu:8080/96066144/96066144/57467
 
-
-
-
-
-
-
-#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",Sky Sport Golf HD IT
-http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/19132/index.m3u8
 
 #EXTINF:0 group-title="GOLF US OPEN2026" tvg-rec="3",Sky Sport Golf HD DE
 http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/5043/index.m3u8
@@ -350,12 +358,7 @@ http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/30089/index.m3u8
 http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/12077/index.m3u8
 
 
-#EXTINF:0 group-title="Germany Golf" tvg-id="9114" tvg-logo="http://epg.one/img/9114.png" tvg-rec="3",Sky Sport Golf HD DE
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PNNKRBU7SZ2C54/5043/index.m3u8
-#EXTINF:0 group-title="Germany Golf" tvg-id="9114" tvg-logo="http://epg.one/img/9114.png" tvg-rec="3",Sky Sport Golf HD DE
-http://gthp8lio.tvclub.xyz/iptv/VZL5TK4EKTYM2DYT7B8V5PXT/5043/index.m3u8
-#EXTINF:0 group-title="Germany Golf" tvg-id="﻿sky.sports.golf.gb" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-golf-uk.png?raw=true",﻿Sky Sports Golf HD DE
-http://bpl.online24.pm/play/924/C9673C54F58EE26/video.m3u8
+
 
 #=====GOLF CROATIA ===========
 
