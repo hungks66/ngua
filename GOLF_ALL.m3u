@@ -1,5 +1,49 @@
 #EXTM3U
 
+#EXTINF:0 group-title="GOLF TỔNG HỢP" tvg-rec="3",Sky Sport Golf HD DE
+http://2f1e7a14.ucomist.net/iptv/B688ZRWEXBBLA8N67T4E3VD4/5043/index.m3u8
+#EXTINF:0 group-title="GOLF TỔNG HỢP" tvg-rec="3",Sky Sport Golf HD DE
+http://5baaleto.otttv.pw/iptv/8P7MBSH7RRPL53/5043/index.m3u8
+#EXTINF:0 group-title="GOLF TỔNG HỢP" tvg-rec="3",Sky Sport Golf HD DE
+http://paexzosk.otttv.pw/iptv/N38U657879GPVVDFAYZ26AX5/5043/index.m3u8
+#EXTINF:0 group-title="GOLF TỔNG HỢP" tvg-rec="3",Sky Sport Golf HD DE
+http://cb22cdb9.rossteleccom.net/iptv/LY9PHWZHRXA5SE/5043/index.m3u8
+
+#EXTINF:0 group-title="GOLF TỔNG HỢP" tvg-id="4578" tvg-logo="http://epg.one/img2/4578.png" tvg-rec="0",Sky Sports Golf HD UK
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/7344/index.m3u8
+#EXTINF:0 group-title="GOLF TỔNG HỢP" tvg-id="4578" tvg-logo="http://epg.one/img2/4578.png" tvg-rec="0",Sky Sports Golf HD UK
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/YSSM7RW8HGUETY/7344/index.m3u8
+#EXTINF:0 group-title="GOLF TỔNG HỢP" tvg-rec="0",Sky Sports Golf HD UK
+http://5baaleto.otttv.pw/iptv/8P7MBSH7RRPL53/7344/index.m3u8
+#EXTINF:0 group-title="GOLF TỔNG HỢP" tvg-rec="0",Sky Sports Golf HD UK
+http://paexzosk.otttv.pw/iptv/N38U657879GPVVDFAYZ26AX5/7344/index.m3u8
+#EXTINF:0 group-title="GOLF TỔNG HỢP" tvg-rec="0",Sky Sports Golf HD UK
+http://2f1e7a14.ucomist.net/iptv/B688ZRWEXBBLA8N67T4E3VD4/7344/index.m3u8
+#EXTINF:0 group-title="GOLF TỔNG HỢP" tvg-rec="0",Sky Sports Golf HD UK
+http://cb22cdb9.rossteleccom.net/iptv/LY9PHWZHRXA5SE/7344/index.m3u8
+
+#EXTINF:0 group-title="GOLF TỔNG HỢP" tvg-rec="0",M+ Golf HD ES
+http://cb22cdb9.rossteleccom.net/iptv/LY9PHWZHRXA5SE/31844/index.m3u8
+#EXTINF:0 group-title="GOLF TỔNG HỢP" tvg-rec="0",M+ Golf HD ES
+http://paexzosk.otttv.pw/iptv/N38U657879GPVVDFAYZ26AX5/31844/index.m3u8
+#EXTINF:0 group-title="GOLF TỔNG HỢP" tvg-rec="0",M+ Golf HD ES
+http://5baaleto.otttv.pw/iptv/8P7MBSH7RRPL53/31844/index.m3u8
+#EXTINF:0 group-title="GOLF TỔNG HỢP" tvg-rec="0",M+ Golf HD ES
+http://2f1e7a14.ucomist.net/iptv/B688ZRWEXBBLA8N67T4E3VD4/31844/index.m3u8
+
+#EXTINF:0 group-title="GOLF TỔNG HỢP" tvg-rec="0",Sport Klub Golf HR
+http://5baaleto.otttv.pw/iptv/8P7MBSH7RRPL53/7277/index.m3u8
+#EXTINF:0 group-title="GOLF TỔNG HỢP" tvg-rec="0",Sport Klub Golf HR
+http://paexzosk.otttv.pw/iptv/N38U657879GPVVDFAYZ26AX5/7277/index.m3u8
+#EXTINF:0 group-title="GOLF TỔNG HỢP" tvg-rec="0",Sport Klub Golf HR
+http://2f1e7a14.ucomist.net/iptv/B688ZRWEXBBLA8N67T4E3VD4/7277/index.m3u8
+#EXTINF:0 group-title="GOLF TỔNG HỢP" tvg-id="4544" tvg-logo="http://epg.one/img2/4544.png" tvg-rec="0",Sport Klub Golf HR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/YSSM7RW8HGUETY/7277/index.m3u8
+#EXTINF:0 group-title="GOLF TỔNG HỢP" tvg-rec="0",Sport Klub Golf HR
+http://cb22cdb9.rossteleccom.net/iptv/LY9PHWZHRXA5SE/7277/index.m3u8
+#EXTINF:0 group-title="GOLF TỔNG HỢP" tvg-id="4544" tvg-logo="http://epg.one/img2/4544.png" tvg-rec="0",Sport Klub Golf HR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/7277/index.m3u8
+
 #=====GOLF GERMANY  ===========
 #EXTINF:0 group-title="GOLF GERMANY" tvg-rec="3",Sky Sport Golf HD DE
 http://kws04u9a.rostelekom.xyz/iptv/MCHUP9AS7DBP5W/5043/index.m3u8
@@ -15,14 +59,311 @@ http://c401060e.edemist.com/iptv/EALSZW4ETTMUPS/5043/index.m3u8
 http://jitzck3l.alfalt.fun/iptv/2C8SDFXMMW67FC/5043/index.m3u8
 
 #EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 1 HD CA
+http://8dc3df04.edemist.com/iptv/VAU8656NGQ3EH65RVBWZ85PF/6521/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 1 HD CA
+http://c401060e.edemist.com/iptv/EALSZW4ETTMUPS/6521/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 1 HD CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/6521/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 1 HD CA
+http://n1rdpsvf.akciatv.ru/iptv/4FTZPLGMP4HGAF/6521/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 1 HD CA
+http://jitzck3l.alfalt.fun/iptv/2C8SDFXMMW67FC/6521/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 1 HD CA
+http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/6521/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 1 HD CA
+http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/6521/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 1 HD CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/U3PFTYPG76MSLWDDT2ZW8A6H/6521/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 1 HD CA
+http://cthutq13.kazaktelekom.com/iptv/Q2CMP8BPU7VYTFR3BUKZDFR4/6521/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 1 HD CA
+http://5baaleto.otttv.pw/iptv/8P7MBSH7RRPL53/6521/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 1 HD CA
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/6521/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 1 HD CA
+http://ybk5mmr2.russtv.net/iptv/9A4A5D6WCXS4XF/6521/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 1 HD CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/6FGDEDXUM6V7RD/6521/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 1 HD CA
 http://fc1qlunj.tvclub.xyz/iptv/275EP3V8V4MZHG8KQGLFDPSK/6521/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 1 HD CA
+http://c3d09d96.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6521/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 1 HD CA
+http://j14erxmo.virelloso.top/iptv/96FNZHEUB9GK66/6521/index.m3u8
+
+
+#=========PAUSE CHANNELS1=======================================
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 1 HD CAf
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/LY9PHWZHRXA5SE/6521/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 1 HD CAf
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SG8C8622DS5BUX/6521/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 1 HD CAf
+http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/6521/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 1 HD CAf
+http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/6521/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 1 HD CAf
+http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/6521/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 1 HD CAf
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BMXKTN5RXYDNXT/6521/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 1 HD CAf
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HPU4XQWWSST7R87SD2T4LN5F/6521/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 1 HD CAf
+http://4os6vafy.ottclub.xyz/iptv/537NNVVWZKBA78CVP32VE66E/6521/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 1 HD CAf
+http://4os6vafy.ottclub.xyz/iptv/DGA4DR4RCNKMNR4GR3LH5A8M/6521/index.m3u8
+
+
+#====TSN2===================================================
+
+
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 2 HD CA
+http://8dc3df04.edemist.com/iptv/VAU8656NGQ3EH65RVBWZ85PF/6492/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 2 HD CA
+http://j14erxmo.virelloso.top/iptv/96FNZHEUB9GK66/6492/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 2 HD CA
+http://n1rdpsvf.akciatv.ru/iptv/4FTZPLGMP4HGAF/6492/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 2 HD CA
+http://c3d09d96.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6492/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 2 HD CA
+http://fc1qlunj.tvclub.xyz/iptv/275EP3V8V4MZHG8KQGLFDPSK/6492/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 2 HD CA
+http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/6492/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 2 HD CA
+http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/6492/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 2 HD CA
+http://ybk5mmr2.russtv.net/iptv/9A4A5D6WCXS4XF/6492/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 2 HD CA
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/6492/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 2 HD CA
+http://5baaleto.otttv.pw/iptv/8P7MBSH7RRPL53/6492/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 2 HD CA
+http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/6492/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 2 HD CA
+http://jitzck3l.alfalt.fun/iptv/2C8SDFXMMW67FC/6492/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 2 HD CA
+http://cthutq13.kazaktelekom.com/iptv/Q2CMP8BPU7VYTFR3BUKZDFR4/6492/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 2 HD CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/6FGDEDXUM6V7RD/6492/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 2 HD CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/U3PFTYPG76MSLWDDT2ZW8A6H/6492/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 2 HD CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/6492/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 2 HD CA
+http://c401060e.edemist.com/iptv/EALSZW4ETTMUPS/6492/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 2 HD CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/LY9PHWZHRXA5SE/6492/index.m3u8
+
+#=====PAUSE CHANNELS2===========================================
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 2 HD CAf
+http://4os6vafy.ottclub.xyz/iptv/537NNVVWZKBA78CVP32VE66E/6492/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 2 HD CAf
+http://4os6vafy.ottclub.xyz/iptv/DGA4DR4RCNKMNR4GR3LH5A8M/6492/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 2 HD CAf
+http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/6492/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 2 HD CAf
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BMXKTN5RXYDNXT/6492/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 2 HD CAf
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SG8C8622DS5BUX/6492/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 2 HD CAf
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HPU4XQWWSST7R87SD2T4LN5F/6492/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 2 HD CAf
+http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/6492/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 2 HD CAf
+http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/6492/index.m3u8
+
+#====TSN3===================================================
+
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 3 HD CA
+http://fc1qlunj.tvclub.xyz/iptv/275EP3V8V4MZHG8KQGLFDPSK/6522/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 3 HD CA
+http://c3d09d96.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6522/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 3 HD CA
+http://j14erxmo.virelloso.top/iptv/96FNZHEUB9GK66/6522/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 3 HD CA
+http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/6522/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 3 HD CA
+http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/6522/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 3 HD CA
+http://8dc3df04.edemist.com/iptv/VAU8656NGQ3EH65RVBWZ85PF/6522/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 3 HD CA
+http://c401060e.edemist.com/iptv/EALSZW4ETTMUPS/6522/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 3 HD CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/LY9PHWZHRXA5SE/6522/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 3 HD CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/6522/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 3 HD CA
+http://n1rdpsvf.akciatv.ru/iptv/4FTZPLGMP4HGAF/6522/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 3 HD CA
+http://jitzck3l.alfalt.fun/iptv/2C8SDFXMMW67FC/6522/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 3 HD CA
+http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/6522/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 3 HD CA
+http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/6522/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 3 HD CA
+http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/6522/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 3 HD CA
+http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/6522/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 3 HD CA
+http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/6522/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 3 HD CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/U3PFTYPG76MSLWDDT2ZW8A6H/6522/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 3 HD CA
+http://cthutq13.kazaktelekom.com/iptv/Q2CMP8BPU7VYTFR3BUKZDFR4/6522/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 3 HD CA
+http://4os6vafy.ottclub.xyz/iptv/537NNVVWZKBA78CVP32VE66E/6522/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 3 HD CA
+http://4os6vafy.ottclub.xyz/iptv/DGA4DR4RCNKMNR4GR3LH5A8M/6522/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 3 HD CA
+http://4os6vafy.ottclub.xyz/iptv/537NNVVWZKBA78CVP32VE66E/6522/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 3 HD CA
+http://5baaleto.otttv.pw/iptv/8P7MBSH7RRPL53/6522/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 3 HD CA
+http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/6522/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 3 HD CA
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/6522/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 3 HD CA
+http://ybk5mmr2.russtv.net/iptv/9A4A5D6WCXS4XF/6522/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 3 HD CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BMXKTN5RXYDNXT/6522/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 3 HD CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SG8C8622DS5BUX/6522/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 3 HD CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HPU4XQWWSST7R87SD2T4LN5F/6522/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 3 HD CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/6FGDEDXUM6V7RD/6522/index.m3u8
+
+
+#===TSN4===================================================================================
+
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 4 HD CA
+http://n1rdpsvf.akciatv.ru/iptv/4FTZPLGMP4HGAF/6445/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 4 HD CA
+http://fc1qlunj.tvclub.xyz/iptv/275EP3V8V4MZHG8KQGLFDPSK/6445/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 4 HD CA
+http://c3d09d96.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6445/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 4 HD CA
+http://j14erxmo.virelloso.top/iptv/96FNZHEUB9GK66/6445/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 4 HD CA
+http://jitzck3l.alfalt.fun/iptv/2C8SDFXMMW67FC/6445/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 4 HD CA
+http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/6445/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 4 HD CA
+http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/6445/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 4 HD CA
+http://8dc3df04.edemist.com/iptv/VAU8656NGQ3EH65RVBWZ85PF/6445/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 4 HD CA
+http://c401060e.edemist.com/iptv/EALSZW4ETTMUPS/6445/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 4 HD CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/LY9PHWZHRXA5SE/6445/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 4 HD CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/6445/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 4 HD CA
+http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/6445/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 4 HD CA
+http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/6445/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 4 HD CA
+http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/6445/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 4 HD CA
+http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/6445/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 4 HD CA
+http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/6445/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 4 HD CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/U3PFTYPG76MSLWDDT2ZW8A6H/6445/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 4 HD CA
+http://cthutq13.kazaktelekom.com/iptv/Q2CMP8BPU7VYTFR3BUKZDFR4/6445/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 4 HD CA
+http://4os6vafy.ottclub.xyz/iptv/537NNVVWZKBA78CVP32VE66E/6445/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 4 HD CA
+http://4os6vafy.ottclub.xyz/iptv/DGA4DR4RCNKMNR4GR3LH5A8M/6445/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 4 HD CA
+http://4os6vafy.ottclub.xyz/iptv/537NNVVWZKBA78CVP32VE66E/6445/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 4 HD CA
+http://5baaleto.otttv.pw/iptv/8P7MBSH7RRPL53/6445/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 4 HD CA
+http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/6445/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 4 HD CA
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/6445/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 4 HD CA
+http://ybk5mmr2.russtv.net/iptv/9A4A5D6WCXS4XF/6445/index.m3u8
+
+#===TSN5=====================================================================
+
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 5 HD CA
+http://jitzck3l.alfalt.fun/iptv/2C8SDFXMMW67FC/6517/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 5 HD CA
+http://fc1qlunj.tvclub.xyz/iptv/275EP3V8V4MZHG8KQGLFDPSK/6517/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 5 HD CA
+http://5baaleto.otttv.pw/iptv/8P7MBSH7RRPL53/6517/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 5 HD CA
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/6517/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 5 HD CA
+http://ybk5mmr2.russtv.net/iptv/9A4A5D6WCXS4XF/6517/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 5 HD CA
+http://c3d09d96.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6517/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 5 HD CA
+http://j14erxmo.virelloso.top/iptv/96FNZHEUB9GK66/6517/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 5 HD CA
+http://8dc3df04.edemist.com/iptv/VAU8656NGQ3EH65RVBWZ85PF/6517/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 5 HD CA
+http://c401060e.edemist.com/iptv/EALSZW4ETTMUPS/6517/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 5 HD CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/LY9PHWZHRXA5SE/6517/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 5 HD CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/6517/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 5 HD CA
+http://n1rdpsvf.akciatv.ru/iptv/4FTZPLGMP4HGAF/6517/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 5 HD CA
+http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/6517/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 5 HD CA
+http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/6517/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 5 HD CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/U3PFTYPG76MSLWDDT2ZW8A6H/6517/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 5 HD CA
+http://cthutq13.kazaktelekom.com/iptv/Q2CMP8BPU7VYTFR3BUKZDFR4/6517/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 5 HD CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BMXKTN5RXYDNXT/6517/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 5 HD CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SG8C8622DS5BUX/6517/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 5 HD CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/6FGDEDXUM6V7RD/6517/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 5 HD CAf
+http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/6517/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 5 HD CAf
+http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/6517/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 5 HD CAf
+http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/6517/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 5 HD CAf
+http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/6517/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 5 HD CAf
+http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/6517/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 5 HD CAf
+http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/6517/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 5 HD CAf
+http://4os6vafy.ottclub.xyz/iptv/537NNVVWZKBA78CVP32VE66E/6517/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 5 HD CAf
+http://4os6vafy.ottclub.xyz/iptv/DGA4DR4RCNKMNR4GR3LH5A8M/6517/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 5 HD CAf
+http://4os6vafy.ottclub.xyz/iptv/537NNVVWZKBA78CVP32VE66E/6517/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 5 HD CAf
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HPU4XQWWSST7R87SD2T4LN5F/6517/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 1 HD CA
+http://fc1qlunj.tvclub.xyz/iptv/275EP3V8V4MZHG8KQGLFDPSK/6521/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 1 HD CA
+http://azavildzr543.ucomist.net/iptv/UB5822TU3WCEY6/6521/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 2 HD CA
+http://azavildzr543.ucomist.net/iptv/UB5822TU3WCEY6/6492/index.m3u8
 #EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 2 HD CA
 http://fc1qlunj.tvclub.xyz/iptv/275EP3V8V4MZHG8KQGLFDPSK/6492/index.m3u8
 #EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 3 HD CA
+http://azavildzr543.ucomist.net/iptv/UB5822TU3WCEY6/6522/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 3 HD CA
 http://fc1qlunj.tvclub.xyz/iptv/275EP3V8V4MZHG8KQGLFDPSK/6522/index.m3u8
+#EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 4 HD CA
+http://azavildzr543.ucomist.net/iptv/UB5822TU3WCEY6/6445/index.m3u8
 #EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 4 HD CA
 http://fc1qlunj.tvclub.xyz/iptv/275EP3V8V4MZHG8KQGLFDPSK/6445/index.m3u8
 #EXTINF:0 group-title="CANADA SPORTS" tvg-rec="0",TSN 5 HD CA
+http://azavildzr543.ucomist.net/iptv/UB5822TU3WCEY6/6517/index.m3u8
 
 
 #EXTINF:0 group-title="GOLF GERMANY" tvg-rec="3",Sky Sport Golf HD DE6
