@@ -42,6 +42,60 @@ http://69985ba4.rossteleccom.net/iptv/23CDBTZB35F8TAKGVRQGC3H6/30089/index.m3u8
 #EXTINF:0 group-title="GOLF TV NEW" tvg-id="4907" tvg-rec="0",GOLF CHANNEL HD US
 http://ybk5mmr2.russtv.net/iptv/FM2YENVSTBPDB8TVMWRDHWGP/30089/index.m3u8
 
+#===============SKY SPORTS ============================================================================
+#EXTINF:0 group-title="SKY SPOTS UK", UK: Sky Sports Premier League HD 50fps
+http://6.team.ga:80/ch2451/mono.m3u8?token=falcondemo66.l6YUaNOCFBgitSMyt6I2NPlCL7RQWmLL7Dol4zm3AGa6F5hC8Z5cTfqtfsQCksNk
+#EXTINF:0 group-title="SKY SPOTS UK",UK: Sky Sports Premier League HD
+http://6.team.ga:80/ch1554/mono.m3u8?token=falcondemo66.l6YUaNOCFBgitSMyt6I2NHHreNfdHlSENRl-jc7pifPewELqHdXlR_1i6qeWJ9z5
+#EXTINF:0 group-title="SKY SPOTS UK",UK: Sky Sports News HD 50fps
+http://6.team.ga:80/ch2450/mono.m3u8?token=falcondemo66.l6YUaNOCFBgitSMyt6I2NDSgThqi2SeWTPJkukeO_5pcjdOjBo9BqkKQxCF8b_IY
+#EXTINF:0 group-title="SKY SPOTS UK",UK: Sky Sports News HD
+http://6.team.ga:80/ch1061/mono.m3u8?token=falcondemo66.l6YUaNOCFBgitSMyt6I2NCnV1gqQbJSvLUQy3s6HKTn7Aon9KdTD03B7ICN5EQKi
+#EXTINF:0 group-title="SKY SPOTS UK",UK: Sky Sports Football HD 50fps
+http://6.team.ga:80/ch2446/mono.m3u8?token=falcondemo66.l6YUaNOCFBgitSMyt6I2NCKJt1Am5IHhOq336ma44vroN2SlZ7diDs7yOHm1PSQn
+#EXTINF:0 group-title="SKY SPOTS UK",UK: Sky Sports Football HD
+http://6.team.ga:80/ch314/mono.m3u8?token=falcondemo66.l6YUaNOCFBgitSMyt6I2NAWgsu7TLPzJFEeRqnrIcuhTXGBUmf0NgcfkauYT8tmo
+#EXTINF:0 group-title="SKY SPOTS UK",UK: Sky Sports Mix HD 50fps
+http://6.team.ga:80/ch2449/mono.m3u8?token=falcondemo66.l6YUaNOCFBgitSMyt6I2NIunjup-nmowTW4KAikhz8wGLmbVJM-3sMOrKcR_cArG
+#EXTINF:0 group-title="SKY SPOTS UK",UK: Sky Sports Mix HD
+http://6.team.ga:80/ch234/mono.m3u8?token=falcondemo66.l6YUaNOCFBgitSMyt6I2NEITs8Sth13H6xTdcfbKPATwnNkTt29oiOX2QACHb3bD
+#EXTINF:0 group-title="SKY SPOTS UK",UK: Sky Sports Cricket HD 50fps
+http://6.team.ga:80/ch2444/mono.m3u8?token=falcondemo66.l6YUaNOCFBgitSMyt6I2NMGVU7pk2p9bK7M7xBxxrCLLo1fSUY1ZbFpfNXqoakxj
+#EXTINF:0 group-title="SKY SPOTS UK",UK: Sky Sports Cricket HD
+http://6.team.ga:80/ch235/mono.m3u8?token=falcondemo66.l6YUaNOCFBgitSMyt6I2NHYGzH-qIRTV2ppNu2mHLzZvr5ATw5vbu5G-DV1-pGaF
+#EXTINF:0 group-title="SKY SPOTS UK",UK: Sky Sports Main Event UHD
+http://6.team.ga:80/ch1508/mono.m3u8?token=falcondemo66.l6YUaNOCFBgitSMyt6I2NMXMmrpPAAz9422zy1HEBpg2pa-7OG5XDUPqNbjv_aN5
+#EXTINF:0 group-title="SKY SPOTS UK",Sky UK: Sports Main Event HD 50fps
+http://6.team.ga:80/ch2448/mono.m3u8?token=falcondemo66.l6YUaNOCFBgitSMyt6I2NMWhLEhFzFytGGn-TZm1XvFWAbKj1K5s-m8g3I36hk3R
+#EXTINF:0 group-title="SKY SPOTS UK",UK: Sky Sports Main Event HD
+http://6.team.ga:80/ch335/mono.m3u8?token=falcondemo66.l6YUaNOCFBgitSMyt6I2NG2FM-CMYE1OW3bIwn6q5HaRO2pTUTWtY0P0qQPXezEa
+#EXTINF:0 group-title="SKY SPOTS UK",UK: Sky Sports Golf HD 50fps
+http://6.team.ga:80/ch2447/mono.m3u8?token=falcondemo66.l6YUaNOCFBgitSMyt6I2NP4wCzD6T_omZ91sC20vVW1QQcMpFd549HDDtouz1zia
+#EXTINF:0 group-title="SKY SPOTS UK",UK: Sky Sports Golf HD
+http://6.team.ga:80/ch306/mono.m3u8?token=falcondemo66.l6YUaNOCFBgitSMyt6I2NHTuCYZZ_osaLo93VgYDXLvEnEQ8ENz7-HqGNkX6ofNg
+#EXTINF:0 group-title="SKY SPOTS UK",UK: Sky Sports Racing HD 50fps
+http://6.team.ga:80/ch2452/mono.m3u8?token=falcondemo66.l6YUaNOCFBgitSMyt6I2NN_tUPmSQKVfGThq6zJi01p73seUY0u8I8Edm4DXmW0t
+#EXTINF:0 group-title="SKY SPOTS UK",UK: Sky Sports Racing HD
+http://6.team.ga:80/ch1100/mono.m3u8?token=falcondemo66.l6YUaNOCFBgitSMyt6I2NJtcxc9lBslN3AqBvHytYyAxAHTyJjGFwpsIrirX5950
+#EXTINF:0 group-title="SKY SPOTS UK",UK: Sky Sports Action HD 50fps
+http://6.team.ga:80/ch2442/mono.m3u8?token=falcondemo66.l6YUaNOCFBgitSMyt6I2NEOkJJLPTE7E6HtTKfvFIOUNK4Z1yCA_GC8DcBLc_4Za
+#EXTINF:0 group-title="SKY SPOTS UK",UK: Sky Sports Action HD
+http://6.team.ga:80/ch2105/mono.m3u8?token=falcondemo66.l6YUaNOCFBgitSMyt6I2NDCKIYl2ZqaPSuA7hfrFbD3gWyRqFZ047adui7a4NE6t
+#EXTINF:0 group-title="SKY SPOTS UK",UK: Sky Sports Plus HD 50fps
+http://6.team.ga:80/ch2443/mono.m3u8?token=falcondemo66.l6YUaNOCFBgitSMyt6I2ND09eqS_hjuHh6f6xMxkH3urlEmOVEYSei3L4pbaCwHe
+#EXTINF:0 group-title="SKY SPOTS UK",UK: Sky Sports Plus HD
+http://6.team.ga:80/ch074/mono.m3u8?token=falcondemo66.l6YUaNOCFBgitSMyt6I2NIdfmehOp_qumqRaVKHGji39AEv_agxCHVo6SbwWWG8B
+#EXTINF:0 group-title="SKY SPOTS UK",UK: Sky Sports F1 UHD
+http://6.team.ga:80/ch1517/mono.m3u8?token=falcondemo66.l6YUaNOCFBgitSMyt6I2ND3N1osuTp4AgJNFp_vnWYuYc60IRvy8cMjprPo_95_0
+#EXTINF:0 group-title="SKY SPOTS UK",UK: Sky Sports F1 HD 50fps
+http://6.team.ga:80/ch2445/mono.m3u8?token=falcondemo66.l6YUaNOCFBgitSMyt6I2NNRK5FHxLmGEl7U_QvRR2FJMrw4tSg-LOUnFIAEJqw0w
+#EXTINF:0 group-title="SKY SPOTS UK",UK: Sky Sports F1 HD
+http://6.team.ga:80/ch513/mono.m3u8?token=falcondemo66.l6YUaNOCFBgitSMyt6I2NCmKExmpDPBtYFoWI0zZeQOpY7QGmZTefM5r6KDX4B9c
+#EXTINF:0 group-title="SKY SPOTS UK",UK: Sky Sports Tennis HD
+http://6.team.ga:80/ch1498/mono.m3u8?token=falcondemo66.l6YUaNOCFBgitSMyt6I2NFLAJp3LS8ioL08YxLbrbVFlLgxPAABK4URxoUGbFSOX
+#EXTINF:0 group-title="SKY SPOTS UK",UK: Sky News HD
+http://6.team.ga:80/ch1018/mono.m3u8?token=falcondemo66.l6YUaNOCFBgitSMyt6I2NDn3YATHz4io4mR80ekAQjqL8af3aifNzSq9FWyW5tRp
+
 
 #EXTINF:0 group-title="GOLF TỔNG HỢP" tvg-rec="3",Sky Sport Golf HD DE
 http://2f1e7a14.ucomist.net/iptv/B688ZRWEXBBLA8N67T4E3VD4/5043/index.m3u8
