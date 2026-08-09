@@ -41,6 +41,14 @@ http://ybk5mmr2.russtv.net/iptv/FM2YENVSTBPDB8TVMWRDHWGP/32024/index.m3u8
 http://69985ba4.rossteleccom.net/iptv/23CDBTZB35F8TAKGVRQGC3H6/30089/index.m3u8
 #EXTINF:0 group-title="GOLF TV NEW" tvg-id="4907" tvg-rec="0",GOLF CHANNEL HD US
 http://ybk5mmr2.russtv.net/iptv/FM2YENVSTBPDB8TVMWRDHWGP/30089/index.m3u8
+#EXTINF:-1 group-title="GOLF TV NEW" tvg-logo="https://go4.pw/CANADA/tsn.png",CA - TSN+ 01 : Golf1
+http://engui.us:80/D4C018A37DD2587/2skMVuvlgp/1119188
+#EXTINF:-1 group-title="GOLF TV NEW" tvg-logo="https://go4.pw/CANADA/tsn.png",CA - TSN+ 02 : Golf2
+http://engui.us:80/D4C018A37DD2587/2skMVuvlgp/1119189
+#EXTINF:-1 group-title="GOLF TV NEW+" tvg-logo="https://go4.pw/CANADA/tsn.png",CA - TSN+ 03 : Golf3
+http://engui.us:80/D4C018A37DD2587/2skMVuvlgp/1119190
+#EXTINF:-1 group-title="GOLF TV NEW" tvg-logo="https://go4.pw/CANADA/tsn.png",CA - TSN+ 04 : Golf4
+http://engui.us:80/D4C018A37DD2587/2skMVuvlgp/1119191
 
 #===============SKY SPORTS ============================================================================
 #EXTINF:0 group-title="SKY SPOTS UK", UK: Sky Sports Premier League HD 50fps
