@@ -45,10 +45,33 @@ http://ybk5mmr2.russtv.net/iptv/FM2YENVSTBPDB8TVMWRDHWGP/30089/index.m3u8
 http://engui.us:80/D4C018A37DD2587/2skMVuvlgp/1119188
 #EXTINF:-1 group-title="GOLF TV NEW" tvg-logo="https://go4.pw/CANADA/tsn.png",CA - TSN+ 02 : Golf2
 http://engui.us:80/D4C018A37DD2587/2skMVuvlgp/1119189
-#EXTINF:-1 group-title="GOLF TV NEW+" tvg-logo="https://go4.pw/CANADA/tsn.png",CA - TSN+ 03 : Golf3
+#EXTINF:-1 group-title="GOLF TV NEW" tvg-logo="https://go4.pw/CANADA/tsn.png",CA - TSN+ 03 : Golf3
 http://engui.us:80/D4C018A37DD2587/2skMVuvlgp/1119190
 #EXTINF:-1 group-title="GOLF TV NEW" tvg-logo="https://go4.pw/CANADA/tsn.png",CA - TSN+ 04 : Golf4
 http://engui.us:80/D4C018A37DD2587/2skMVuvlgp/1119191
+
+#EXTINF:-1 group-title="GOLF TV NEW",US - ESPN+ 001 HD 
+http://line.tslion.xyz:80/a065829a/e4642318/1324067
+#EXTINF:-1 group-title="GOLF TV NEW",US - ESPN+ 001 HD 
+http://line.tvlion.xyz:80/2Da93251/6Ruh4656/1324067
+#EXTINF:-1 group-title="GOLF TV NEW",US - ESPN+ 002 HD 
+http://line.tslion.xyz:80/a065829a/e4642318/1324066
+#EXTINF:-1 group-title="GOLF TV NEW",US - ESPN+ 002 HD 
+http://line.tvlion.xyz:80/2Da93251/6Ruh4656/1324066
+#EXTINF:-1 group-title="GOLF TV NEW",US - ESPN+ 003 HD
+http://line.tslion.xyz:80/a065829a/e4642318/1324065
+#EXTINF:-1 group-title="GOLF TV NEW",US - ESPN+ 003 HD
+http://line.tvlion.xyz:80/0acff6e8/3e23a292/1324065
+#EXTINF:-1 group-title="GOLF TV NEW",US - ESPN+ 003 HD
+http://line.tvlion.xyz:80/2Da93251/6Ruh4656/1324065
+#EXTINF:-1 group-title="GOLF TV NEW",US - ESPN+ 004 HD
+http://line.tslion.xyz:80/a065829a/e4642318/1324064
+#EXTINF:-1 group-title="GOLF TV NEW",US - ESPN+ 004 HD
+http://line.tvlion.xyz:80/0acff6e8/3e23a292/1324064
+#EXTINF:-1 group-title="GOLF TV NEW",US - ESPN+ 004 HD
+http://line.tvlion.xyz:80/2Da93251/6Ruh4656/1324064
+
+
 
 #===============SKY SPORTS ============================================================================
 #EXTINF:0 group-title="SKY SPOTS UK", UK: Sky Sports Premier League HD 50fps
@@ -1590,6 +1613,40 @@ http://2f1e7a14.ucomist.net/iptv/9AMRED239WP37GPX6DLC3AD4/6123/index.m3u8
 #EXTINF:0 group-title="BEIN SPORT" tvg-rec="0",beIN Sports 3 HD QA
 http://2f1e7a14.ucomist.net/iptv/9AMRED239WP37GPX6DLC3AD4/6124/index.m3u8
 
+#============================CBS SPORTS NETWORK================================
+#EXTINF:-1 group-title="CBS SPORTS NETWORK" tvg-logo="https://go4.pw/AMERICA/USA/CBS.png",US - CBS SPORTS NETWORK HD
+http://engui.us:80/C6354500A497430/V4UFFVLfT0/213920
+#EXTINF:-1 group-title="CBS SPORTS NETWORK" tvg-logo="https://go4.pw/AMERICA/USA/CBS.png",US - CBS SPORTS NETWORK HD
+http://servicepro4.shop:80/5385862981D5179/ypvEHME3vZ/213920
+#EXTINF:-1 group-title="CBS SPORTS NETWORK" tvg-logo="https://go4.pw/AMERICA/USA/CBS.png",US - CBS SPORTS NETWORK HD
+http://engui.us:80/D4C018A37DD2587/2skMVuvlgp/213920
+#EXTINF:-1 group-title="CBS SPORTS NETWORKS" tvg-logo="https://go4.pw/AMERICA/USA/CBS.png",US - CBS SPORTS NETWORK HD
+http://engui.us:80/7BVKRJ5F9X9UG9G/z9fIzlRTnX/213920
+#EXTINF:-1 group-title="CBS SPORTS NETWORK" tvg-logo="https://go4.pw/AMERICA/USA/CBS.png",US - CBS SPORTS NETWORK HD
+http://engui.us:80/04HE79JCQ8G43EM/ol5mFuRpRZ/213920
+#EXTINF:-1 group-title="CBS SPORTS NETWORK" tvg-logo="https://go4.pw/AMERICA/USA/CBS.png",US - CBS SPORTS NETWORK HD
+http://engui.us:80/PD5HZGVJ4R997JG/p6Y3AksSLp/213920
+#EXTINF:-1 group-title="CBS SPORTS NETWORK" tvg-logo="https://go4.pw/AMERICA/USA/CBS.png",US - CBS SPORTS NETWORK HD
+http://engui.us:80/PD5HZGVJ4R997JG/p6Y3AksSLp/213920
+#EXTINF:-1 group-title="CBS SPORTS NETWORK" tvg-logo="https://go4.pw/AMERICA/USA/CBS.png",US - CBS SPORTS NETWORK HD
+http://engui.us:80/FAAFC9C68DC0D00/4BZwT6oYkz/213920
+
+#EXTINF:-1 group-title="CBS SPORTS NETWORK" tvg-logo="https://go4.pw/usa/Cbs_Sports_Golazo_Network_Hd.png",US - CBS SPORTS GOLAZO NETWORK HD ◉
+http://engui.us:80/C6354500A497430/V4UFFVLfT0/521106
+#EXTINF:-1 group-title="CBS SPORTS NETWORK" tvg-logo="https://go4.pw/usa/Cbs_Sports_Golazo_Network_Hd.png",US - CBS SPORTS GOLAZO NETWORK HD ◉
+http://engui.us:80/FAAFC9C68DC0D00/4BZwT6oYkz/521106
+#EXTINF:-1 group-title="CBS SPORTS NETWORK" tvg-logo="https://go4.pw/usa/Cbs_Sports_Golazo_Network_Hd.png",US - CBS SPORTS GOLAZO NETWORK HD ◉
+http://engui.us:80/PD5HZGVJ4R997JG/p6Y3AksSLp/521106
+#EXTINF:-1 group-title="CBS SPORTS NETWORK" tvg-logo="https://go4.pw/usa/Cbs_Sports_Golazo_Network_Hd.png",US - CBS SPORTS GOLAZO NETWORK HD ◉
+http://engui.us:80/PD5HZGVJ4R997JG/p6Y3AksSLp/521106
+#EXTINF:-1 group-title="CBS SPORTS NETWORK" tvg-logo="https://go4.pw/usa/Cbs_Sports_Golazo_Network_Hd.png",US - CBS SPORTS GOLAZO NETWORK HD ◉
+http://servicepro4.shop:80/5385862981D5179/ypvEHME3vZ/521106
+#EXTINF:-1 group-title="CBS SPORTS NETWORK" tvg-logo="https://go4.pw/usa/Cbs_Sports_Golazo_Network_Hd.png",US - CBS SPORTS GOLAZO NETWORK HD ◉
+http://engui.us:80/D4C018A37DD2587/2skMVuvlgp/521106
+#EXTINF:-1 group-title="CBS SPORTS NETWORK" tvg-logo="https://go4.pw/usa/Cbs_Sports_Golazo_Network_Hd.png",US - CBS SPORTS GOLAZO NETWORK HD ◉
+http://engui.us:80/7BVKRJ5F9X9UG9G/z9fIzlRTnX/521106
+#EXTINF:-1 group-title="CBS SPORTS NETWORK" tvg-logo="https://go4.pw/usa/Cbs_Sports_Golazo_Network_Hd.png",US - CBS SPORTS GOLAZO NETWORK HD ◉
+http://engui.us:80/04HE79JCQ8G43EM/ol5mFuRpRZ/521106
 
 #EXTINF:0 group-title="BÓNG ĐÁ WC2026" tvg-rec="0",Go3 Sport 1 HD LV
 http://kws04u9a.rostelekom.xyz/iptv/MCHUP9AS7DBP5W/18011/index.m3u8
