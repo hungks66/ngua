@@ -2,22 +2,43 @@
 
 #EXTINF:0 group-title="GOLF TỔNG HỢP",UK: Sky Sports Golf HD 50fps
 http://6.team.ga:80/ch2447/mono.m3u8?token=falcondemo66.l6YUaNOCFBgitSMyt6I2NP4wCzD6T_omZ91sC20vVW1QQcMpFd549HDDtouz1zia
+
 #EXTINF:0 group-title="GOLF TỔNG HỢP" tvg-id="4578" tvg-logo="http://epg.one/img/4578.png" tvg-rec="0",Sky Sports Golf HD UK
 http://v5yxxgnc.ottclub.xyz/iptv/RSMK3M249QP2BL/7344/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GOLF TỔNG HỢP" tvg-logo="" group-title="FRANCE | NETHERLANDS",FR: GOLF+ CHANNEL FHD
+
+#EXTINF:-1 tvg-id="" tvg-name="GOLF+ FRENCH" tvg-logo="" group-title="GOLF TỔNG HỢP",FR: GOLF+ CHANNEL FHD
 http://smar8-tv.xyz:8880/at80@sb13.org/uuRucKWT3d/633777
+
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT GOLF DE" tvg-logo="" group-title="GOLF TỔNG HỢP", SKY SPORT GOLF DE
+http://smar8-tv.xyz:8880/at80@sb13.org/uuRucKWT3d/690836
+
 #EXTINF:0 group-title="GOLF TỔNG HỢP" tvg-id="4907" tvg-rec="0",M+ GOLF HD ES
 http://ybk5mmr2.russtv.net/iptv/FM2YENVSTBPDB8TVMWRDHWGP/31844/index.m3u8
+
 #EXTINF:-1 group-title="GOLF TỔNG HỢP" tvg-logo="https://go4.pw/UK/supersport.png",UK - SUPERSPORT GOLF HD
 http://engui.us:80/04HE79JCQ8G43EM/ol5mFuRpRZ/348281
-#EXTINF:-1 tvg-id="" tvg-name="NL: ZIGGO SPORT GOLF" tvg-logo="" group-title="FRANCE | NETHERLANDS",NL: ZIGGO SPORT GOLF
+
+#EXTINF:-1 tvg-id="" tvg-name="NL: ZIGGO SPORT GOLF" tvg-logo="" group-title="GOLF TỔNG HỢP",NL: ZIGGO SPORT GOLF
 http://smar8-tv.xyz:8880/at80@sb13.org/uuRucKWT3d/634097
+
+#EXTINF:-1 tvg-id="2592" tvg-name="Sky Sport Golf HD [IT]" tvg-logo="http://tvfor.pro/img/images/Chanels/skysport_golf.png" group-title="GOLF TỔNG HỢP" catchup-days="0",Sky Sport Golf HD IT
+http://tinyurl.com/TvZaTak31/p396SFCd2b/cnb0y9n3633wb3wnppri4wg6?|User-Agent=http-user-agent=Lavf/56.15.102
+
+#EXTINF:-1 tvg-id="" tvg-name="MY: GOLF CHANNEL" tvg-logo="http://wikistars.xyz:8880/images/zn0cpluEeMp_BiUSo15nCj2Bm7dAI9HsUGypxZ6t9meb9zPy4W2hJ69aTeUDg8uWTVq8fGeSqEA9B_4KIRNKhw.png" group-title="GOLF TỔNG HỢP",ASTRO GOLF MYANMA
+http://smar8-tv.xyz:8880/at80@sb13.org/uuRucKWT3d/622605
+
+#EXTINF:-1 tvg-id="" tvg-name="PL: GOLF CHANNEL POLSKA" tvg-logo="" group-title="GOLF TỔNG HỢP", GOLF CHANNEL POLSKA
+http://smar8-tv.xyz:8880/at80@sb13.org/uuRucKWT3d/629066
+
 #EXTINF:0 group-title="GOLF TỔNG HỢP" tvg-id="4907" tvg-logo="http://epg.one/img/4907.png" tvg-rec="0",V Sport Golf SE
 http://v5yxxgnc.ottclub.xyz/iptv/RSMK3M249QP2BL/12077/index.m3u8
+
 #EXTINF:0 group-title="GOLF TỔNG HỢP" tvg-id="4578" tvg-logo="http://epg.one/img/4578.png" tvg-rec="0",Sky Sports Golf HD UK
 http://2hoqrvgn.russtv.net/iptv/R3A7B6MZZFDCUL/7344/index.m3u8
+
 #EXTINF:0 group-title="GOLF TỔNG HỢP" tvg-id="4578" tvg-logo="http://epg.one/img/4578.png" tvg-rec="0",Sky Sports Golf HD UK
 http://0eb58002.amazzin.pw/iptv/CWL2N4KECYYAXS/7344/index.m3u8
+
 #EXTINF:0 group-title="GOLF TỔNG HỢP" tvg-id="4578" tvg-logo="http://epg.one/img/4578.png" tvg-rec="0",Sky Sports Golf HD UK
 http://f53c3733.akadatel.com/iptv/TF4HC57RYNUUFV/7344/index.m3u8
 #EXTINF:0 group-title="GOLF TỔNG HỢP" tvg-id="4578" tvg-logo="http://epg.one/img/4578.png" tvg-rec="0",Sky Sports Golf HD UK
