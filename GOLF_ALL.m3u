@@ -531,7 +531,43 @@ http://typicamn.russtv.net/iptv/7PV43BXZ9XEN88P4A88E8HBV/7268/index.m3u8
 #EXTINF:0 group-title="ARENA SPORTS" tvg-id="4568" tvg-logo="http://epg.one/img2/4568.png" tvg-rec="0",Arena Sport 6 FHD HR
 http://ybk5mmr2.russtv.net/iptv/FM2YENVSTBPDB8TVMWRDHWGP/7268/index.m3u8
 
-
+#============================SPORT KLUB HR================================
+#EXTINF:0 group-title="SPORT KLUB HR" tvg-rec="0",Sport Klub 1 HD HR
+http://7e401b76.rossteleccom.net/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/7269/index.m3u8
+#EXTINF:0 group-title="SPORT KLUB HR" tvg-rec="0",Sport Klub 2 HD HR
+http://7e401b76.rossteleccom.net/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/7270/index.m3u8
+#EXTINF:0 group-title="SPORT KLUB HR" tvg-rec="0",Sport Klub 3 HD HR
+http://7e401b76.rossteleccom.net/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/7271/index.m3u8
+#EXTINF:0 group-title="SPORT KLUB HR" tvg-rec="0",Sport Klub 4 HD HR
+http://7e401b76.rossteleccom.net/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/7272/index.m3u8
+#EXTINF:0 group-title="SPORT KLUB HR" tvg-rec="0",Sport Klub 5 HD HR
+http://7e401b76.rossteleccom.net/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/7273/index.m3u8
+#EXTINF:0 group-title="SPORT KLUB HR" tvg-rec="0",Sport Klub 6 HD HR
+http://7e401b76.rossteleccom.net/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/7274/index.m3u8
+#EXTINF:0 group-title="SPORT KLUB HR" tvg-rec="0",Sport Klub 7 HD HR
+http://7e401b76.rossteleccom.net/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/7275/index.m3u8
+#EXTINF:0 group-title="SPORT KLUB HR" tvg-rec="0",Sport Klub 8 HD HR
+http://7e401b76.rossteleccom.net/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/7276/index.m3u8
+#EXTINF:0 group-title="SPORT KLUB HR" tvg-rec="0",Sport Klub 1 HD HR
+http://bd46906a.edemist.com/iptv/7TLM6FFAYGGL4N/7269/index.m3u8
+#EXTINF:0 group-title="SPORT KLUB HR" tvg-rec="0",Sport Klub 2 HD HR
+http://bd46906a.edemist.com/iptv/7TLM6FFAYGGL4N/7270/index.m3u8
+#EXTINF:0 group-title="SPORT KLUB HR" tvg-rec="0",Sport Klub 3 HD HR
+http://bd46906a.edemist.com/iptv/7TLM6FFAYGGL4N/7271/index.m3u8
+#EXTINF:0 group-title="SPORT KLUB HR" tvg-rec="0",Sport Klub 4 HD HR
+http://bd46906a.edemist.com/iptv/7TLM6FFAYGGL4N/7272/index.m3u8
+#EXTINF:0 group-title="SPORT KLUB HR" tvg-rec="0",Sport Klub 5 HD HR
+http://bd46906a.edemist.com/iptv/7TLM6FFAYGGL4N/7273/index.m3u8
+#EXTINF:0 group-title="SPORT KLUB HR" tvg-rec="0",Sport Klub 6 HD HR
+http://bd46906a.edemist.com/iptv/7TLM6FFAYGGL4N/7274/index.m3u8
+#EXTINF:0 group-title="SPORT KLUB HR" tvg-rec="0",Sport Klub 7 HD HR
+http://bd46906a.edemist.com/iptv/7TLM6FFAYGGL4N/7275/index.m3u8
+#EXTINF:0 group-title="SPORT KLUB HR" tvg-rec="0",Sport Klub 8 HD HR
+http://bd46906a.edemist.com/iptv/7TLM6FFAYGGL4N/7276/index.m3u8
+#EXTINF:0 group-title="SPORT KLUB HR" tvg-rec="0",Sport Klub Golf HR
+http://bd46906a.edemist.com/iptv/7TLM6FFAYGGL4N/7277/index.m3u8
+#EXTINF:0 group-title="SPORT KLUB HR" tvg-rec="0",Sport Klub Golf HR
+http://7c8a829a.kazaktelekom.com/iptv/7S2CSHMSXHFB4T/7277/index.m3u8
 
 
 #EXTINF:0 group-title="PREMIER LEAGUE" tvg-rec="3",Sky Sport Premier League
