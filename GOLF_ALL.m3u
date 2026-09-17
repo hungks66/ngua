@@ -2,9 +2,18 @@
 
 #EXTINF:0 group-title="GOLF TỔNG HỢP",UK: Sky Sports Golf HD 50fps
 http://6.team.ga:80/ch2447/mono.m3u8?token=falcondemo66.l6YUaNOCFBgitSMyt6I2NP4wCzD6T_omZ91sC20vVW1QQcMpFd549HDDtouz1zia
-
-#EXTINF:0 group-title="GOLF TỔNG HỢP" tvg-id="4578" tvg-logo="http://epg.one/img/4578.png" tvg-rec="0",Sky Sports Golf HD UK
-http://v5yxxgnc.ottclub.xyz/iptv/RSMK3M249QP2BL/7344/index.m3u8
+#EXTINF:-1 group-title="GOLF TỔNG HỢP" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSGOLF.png",[UK] SKY SPORTS GOLF UHD
+http://line.tslion.xyz:80/e4b92614/25cbe4e6/577987
+#EXTINF:-1 group-title="GOLF TỔNG HỢP" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSGOLF.png",[UK] SKY SPORTS GOLF FHD
+http://line.tslion.xyz:80/e4b92614/25cbe4e6/577971
+#EXTINF:-1 group-title="GOLF TỔNG HỢP" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSGOLF.png",[UK] SKY SPORTS GOLF
+http://line.tslion.xyz:80/e4b92614/25cbe4e6/577940
+#EXTINF:-1 group-title="GOLF TỔNG HỢP" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSGOLF.png",[UK] SKY SPORTS GOLF UHD
+http://line.tslion.xyz:80/a065829a/e4642318/577987
+#EXTINF:-1 group-title="GOLF TỔNG HỢP" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSGOLF.png",[UK] SKY SPORTS GOLF FHD
+http://line.tslion.xyz:80/a065829a/e4642318/577971
+#EXTINF:-1 group-title="GOLF TỔNG HỢP" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSGOLF.png",[UK] SKY SPORTS GOLF
+http://line.tslion.xyz:80/a065829a/e4642318/577940
 
 #EXTINF:-1 tvg-id="" tvg-name="GOLF+ FRENCH" tvg-logo="" group-title="GOLF TỔNG HỢP",FR: GOLF+ CHANNEL FHD
 http://smar8-tv.xyz:8880/at80@sb13.org/uuRucKWT3d/633777
@@ -14,10 +23,26 @@ http://smar8-tv.xyz:8880/at80@sb13.org/uuRucKWT3d/690836
 
 #EXTINF:0 group-title="GOLF TỔNG HỢP" tvg-id="4907" tvg-rec="0",M+ GOLF HD ES
 http://ybk5mmr2.russtv.net/iptv/FM2YENVSTBPDB8TVMWRDHWGP/31844/index.m3u8
-
+#EXTINF:-1 group-title="GOLF TỔNG HỢP" tvg-logo="https://go4.pw/SPAIN/golfm.png",M+ GOLF HD ES
+http://engui.us:80/PD5HZGVJ4R997JG/p6Y3AksSLp/76708
 #EXTINF:-1 group-title="GOLF TỔNG HỢP" tvg-logo="https://go4.pw/UK/supersport.png",UK - SUPERSPORT GOLF HD
 http://engui.us:80/04HE79JCQ8G43EM/ol5mFuRpRZ/348281
-
+#EXTINF:-1 group-title="GOLF TỔNG HỢP" tvg-logo="https://go4.pw/UK/supersport.png",UK:SUPERSPORT GOLF HD
+http://engui.us:80/04HE79JCQ8G43EM/ol5mFuRpRZ/348281
+#EXTINF:-1 group-title="GOLF TỔNG HỢP" tvg-logo="https://go4.pw/UK/supersport.png",UK:SUPERSPORT GOLF HD
+http://engui.us:80/7BVKRJ5F9X9UG9G/z9fIzlRTnX/348281
+#EXTINF:-1 group-title="GOLF TỔNG HỢP" tvg-logo="https://go4.pw/UK/supersport.png",UK:SUPERSPORT GOLF HD
+http://engui.us:80/PD5HZGVJ4R997JG/p6Y3AksSLp/348281
+#EXTINF:-1 group-title="GOLF TỔNG HỢP" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png",GOLF CHANNEL UK
+http://line.tslion.xyz:80/e4b92614/25cbe4e6/577925
+#EXTINF:-1 group-title="GOLF TỔNG HỢP" tvg-logo="https://go4.pw/AMERICA/USA/NBCGOLFCHANNEL.png",GOLF CHANNEL CA
+http://engui.us:80/04HE79JCQ8G43EM/ol5mFuRpRZ/71920
+#EXTINF:-1 group-title="AM | CA | SPORTS" tvg-logo="https://go4.pw/EUROPE/FRANCE/GOLF%20FHD.png",GOLF CHANNEL CA
+http://engui.us:80/D4C018A37DD2587/2skMVuvlgp/30452
+#EXTINF:-1 group-title="GOLF TỔNG HỢP" tvg-logo="https://go4.pw/LATINO/Golf_Channel_Logo_2018.png",GOLF CHANNEL LATINO
+http://servicepro4.shop:80/5385862981D5179/ypvEHME3vZ/273338
+#EXTINF:-1 group-title="GOLF TỔNG HỢP" tvg-logo="https://go4.pw/LATINO/Golf_Channel_Logo_2018.png",GOLF CHANNEL LATINO
+http://engui.us:80/PD5HZGVJ4R997JG/p6Y3AksSLp/273338
 #EXTINF:-1 tvg-id="" tvg-name="NL: ZIGGO SPORT GOLF" tvg-logo="" group-title="GOLF TỔNG HỢP",NL: ZIGGO SPORT GOLF
 http://smar8-tv.xyz:8880/at80@sb13.org/uuRucKWT3d/634097
 
@@ -33,67 +58,13 @@ http://smar8-tv.xyz:8880/at80@sb13.org/uuRucKWT3d/629066
 #EXTINF:0 group-title="GOLF TỔNG HỢP" tvg-id="4907" tvg-logo="http://epg.one/img/4907.png" tvg-rec="0",V Sport Golf SE
 http://v5yxxgnc.ottclub.xyz/iptv/RSMK3M249QP2BL/12077/index.m3u8
 
+#EXTINF:-1 group-title="[US] USA SPORTS" tvg-logo="http://51.158.145.100/picons/logos/USA/1920212.png",SP - GOLFPASS
+http://line.tslion.xyz:80/a065829a/e4642318/1374574
+#EXTINF:-1 group-title="[US] USA SPORTS" tvg-logo="http://51.158.145.100/picons/logos/USA/1920212.png",SP - GOLFPASS
+http://line.tslion.xyz:80/e4b92614/25cbe4e6/1374574
+
 #EXTINF:0 group-title="GOLF TỔNG HỢP" tvg-id="4578" tvg-logo="http://epg.one/img/4578.png" tvg-rec="0",Sky Sports Golf HD UK
 http://2hoqrvgn.russtv.net/iptv/R3A7B6MZZFDCUL/7344/index.m3u8
-
-#EXTINF:0 group-title="GOLF TỔNG HỢP" tvg-id="4578" tvg-logo="http://epg.one/img/4578.png" tvg-rec="0",Sky Sports Golf HD UK
-http://0eb58002.amazzin.pw/iptv/CWL2N4KECYYAXS/7344/index.m3u8
-
-#EXTINF:0 group-title="GOLF TỔNG HỢP" tvg-id="4578" tvg-logo="http://epg.one/img/4578.png" tvg-rec="0",Sky Sports Golf HD UK
-http://f53c3733.akadatel.com/iptv/TF4HC57RYNUUFV/7344/index.m3u8
-#EXTINF:0 group-title="GOLF TỔNG HỢP" tvg-id="4578" tvg-logo="http://epg.one/img/4578.png" tvg-rec="0",Sky Sports Golf HD UK
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZRHYWX3HESY8SCRYGTGD685D/7344/index.m3u8
-#EXTINF:0 group-title="GOLF TỔNG HỢP" tvg-id="4578" tvg-logo="http://epg.one/img/4578.png" tvg-rec="0",Sky Sports Golf HD UK
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VK7YCHHWNDD8XC/7344/index.m3u8
-#EXTINF:0 group-title="GOLF TỔNG HỢP" tvg-id="4578" tvg-logo="http://epg.one/img/4578.png" tvg-rec="0",Sky Sports Golf HD UK
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/LQ6QKXZBKK7RNM/7344/index.m3u8
-#EXTINF:0 group-title="GOLF TỔNG HỢP" tvg-id="4578" tvg-logo="http://epg.one/img/4578.png" tvg-rec="0",Sky Sports Golf HD UK
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/CRT49UT6A7R9R9/7344/index.m3u8
-#EXTINF:0 group-title="GOLF TỔNG HỢP" tvg-id="4578" tvg-logo="http://epg.one/img/4578.png" tvg-rec="0",Sky Sports Golf HD UK
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KVYY3LCALLTXGT/7344/index.m3u8
-#EXTINF:0 group-title="GOLF TỔNG HỢP" tvg-id="4578" tvg-logo="http://epg.one/img/4578.png" tvg-rec="0",Sky Sports Golf HD UK
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7S2CSHMSXHFB4T/7344/index.m3u8
-#EXTINF:0 group-title="GOLF TỔNG HỢP" tvg-id="4578" tvg-logo="http://epg.one/img/4578.png" tvg-rec="0",Sky Sports Golf HD UK
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/96FNZHEUB9GK66/7344/index.m3u8
-#EXTINF:0 group-title="GOLF TỔNG HỢP" tvg-id="4578" tvg-logo="http://epg.one/img2/4578.png" tvg-rec="0",Sky Sports Golf HD UK
-http://062392e2.ottolok.net/iptv/YQQA7VC8267GXG75EM7QN79S/7344/index.m3u8
-#EXTINF:0 group-title="GOLF TỔNG HỢP" tvg-id="4578" tvg-logo="http://epg.one/img2/4578.png" tvg-rec="0",Sky Sports Golf HD UK
-http://ybk5mmr2.russtv.net/iptv/FM2YENVSTBPDB8TVMWRDHWGP/7344/index.m3u8
-#EXTINF:0 group-title="GOLF TỔNG HỢP" tvg-rec="0",Sky Sports Golf HD UK
-http://5baaleto.otttv.pw/iptv/8P7MBSH7RRPL53/7344/index.m3u8
-#EXTINF:0 group-title="GOLF TỔNG HỢP" tvg-rec="0",Sky Sports Golf HD UK
-http://paexzosk.otttv.pw/iptv/N38U657879GPVVDFAYZ26AX5/7344/index.m3u8
-#EXTINF:0 group-title="GOLF TỔNG HỢP" tvg-rec="0",Sky Sports Golf HD UK
-http://2f1e7a14.ucomist.net/iptv/B688ZRWEXBBLA8N67T4E3VD4/7344/index.m3u8
-#EXTINF:0 group-title="GOLF TỔNG HỢP" tvg-rec="0",Sky Sports Golf HD UK
-http://cb22cdb9.rossteleccom.net/iptv/LY9PHWZHRXA5SE/7344/index.m3u8
-
-
-
-
-#EXTINF:0 group-title="GOLF TỔNG HỢP" tvg-id="9114" tvg-logo="http://epg.one/img/9114.png" tvg-rec="3",Sky Sport Golf HD DE
-http://v5yxxgnc.ottclub.xyz/iptv/RSMK3M249QP2BL/5043/index.m3u8
-#EXTINF:0 group-title="GOLF TỔNG HỢP" tvg-id="9114" tvg-logo="http://epg.one/img/9114.png" tvg-rec="3",Sky Sport Golf HD DE
-http://2hoqrvgn.russtv.net/iptv/R3A7B6MZZFDCUL/5043/index.m3u8
-#EXTINF:0 group-title="GOLF TỔNG HỢP" tvg-id="9114" tvg-logo="http://epg.one/img/9114.png" tvg-rec="3",Sky Sport Golf HD DE
-http://0eb58002.amazzin.pw/iptv/CWL2N4KECYYAXS/5043/index.m3u8
-#EXTINF:0 group-title="GOLF TỔNG HỢP" tvg-id="9114" tvg-logo="http://epg.one/img/9114.png" tvg-rec="3",Sky Sport Golf HD DE
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VK7YCHHWNDD8XC/5043/index.m3u8
-#EXTINF:0 group-title="GOLF TỔNG HỢP" tvg-id="9114" tvg-logo="http://epg.one/img/9114.png" tvg-rec="3",Sky Sport Golf HD DE
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/LQ6QKXZBKK7RNM/5043/index.m3u8
-#EXTINF:0 group-title="GOLF TỔNG HỢP" tvg-id="9114" tvg-logo="http://epg.one/img/9114.png" tvg-rec="3",Sky Sport Golf HD DE
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZRHYWX3HESY8SCRYGTGD685D/5043/index.m3u8
-#EXTINF:0 group-title="GOLF TỔNG HỢP" tvg-id="9114" tvg-logo="http://epg.one/img/9114.png" tvg-rec="3",Sky Sport Golf HD DE
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KVYY3LCALLTXGT/5043/index.m3u8
-#EXTINF:0 group-title="GOLF TỔNG HỢP" tvg-id="9114" tvg-logo="http://epg.one/img/9114.png" tvg-rec="3",Sky Sport Golf HD DE
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/96FNZHEUB9GK66/5043/index.m3u8
-#EXTINF:0 group-title="GOLF TỔNG HỢP" tvg-id="9114" tvg-logo="http://epg.one/img/9114.png" tvg-rec="3",Sky Sport Golf HD DE
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7S2CSHMSXHFB4T/5043/index.m3u8
-#EXTINF:0 group-title="GOLF TỔNG HỢP" tvg-id="9114" tvg-logo="http://epg.one/img/9114.png" tvg-rec="3",Sky Sport Golf HD DE
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/CRT49UT6A7R9R9/5043/index.m3u8
-#EXTINF:0 group-title="GOLF TỔNG HỢP" tvg-id="9114" tvg-logo="http://epg.one/img/9114.png" tvg-rec="3",Sky Sport Golf HD DE
-http://f53c3733.akadatel.com/iptv/TF4HC57RYNUUFV/5043/index.m3u8
-
 
 #EXTINF:0 group-title="GOLF TỔNG HỢP" tvg-id="3104" tvg-logo="http://epg.one/img/3104.png" tvg-rec="0",M+ Golf HD ES
 http://v5yxxgnc.ottclub.xyz/iptv/RSMK3M249QP2BL/31844/index.m3u8
@@ -117,9 +88,6 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KVYY3LCALLTXGT/31844/ind
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/LQ6QKXZBKK7RNM/31844/index.m3u8
 #EXTINF:0 group-title="GOLF TỔNG HỢP" tvg-id="3104" tvg-logo="http://epg.one/img/3104.png" tvg-rec="0",M+ Golf HD ES
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VK7YCHHWNDD8XC/31844/index.m3u8
-
-
-
 
 #EXTINF:0 group-title="GOLF TỔNG HỢP" tvg-id="4907" tvg-logo="http://epg.one/img/4907.png" tvg-rec="0",V Sport Golf SE
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7S2CSHMSXHFB4T/12077/index.m3u8
