@@ -623,6 +623,30 @@ http://typicamn.russtv.net/iptv/7PV43BXZ9XEN88P4A88E8HBV/7268/index.m3u8
 #EXTINF:0 group-title="ARENA SPORTS" tvg-id="4568" tvg-logo="http://epg.one/img2/4568.png" tvg-rec="0",Arena Sport 6 FHD HR
 http://ybk5mmr2.russtv.net/iptv/FM2YENVSTBPDB8TVMWRDHWGP/7268/index.m3u8
 
+#===============================Матч! Футбол============================================
+
+#EXTINF:0 group-title="ARENA SPORTS" tvg-rec="3",Матч! Футбол 1 FHD
+http://bk1r4ly2.virelloso.top/iptv/VAU8656NGQ3EH65RVBWZ85PF/2407/index.m3u8
+#EXTINF:0 group-title="ARENA SPORTS" tvg-rec="3",Матч! Футбол 1 FHD
+http://c5497742.ottrast.com/iptv/HBWPN23GZMELXN/2407/index.m3u8
+#EXTINF:0 group-title="ARENA SPORTS" tvg-rec="3",Матч! Футбол 1 FHD
+http://f9ohqcqv.megogo.xyz/iptv/WKH4UCY7ZDL84NDB8RLC3ZXS/2407/index.m3u
+
+#EXTINF:0 group-title="ARENA SPORTS" tvg-rec="3",Матч! Футбол 2 FHD
+http://bk1r4ly2.virelloso.top/iptv/VAU8656NGQ3EH65RVBWZ85PF/2420/index.m3u8
+#EXTINF:0 group-title="ARENA SPORTS" tvg-rec="3",Матч! Футбол 2 FHD
+http://c5497742.ottrast.com/iptv/HBWPN23GZMELXN/2420/index.m3u8
+#EXTINF:0 group-title="ARENA SPORTS" tvg-rec="3",Матч! Футбол 2 FHD
+http://f9ohqcqv.megogo.xyz/iptv/WKH4UCY7ZDL84NDB8RLC3ZXS/2420/index.m3u
+
+
+#EXTINF:0 group-title="ARENA SPORTS" tvg-rec="3",Матч! Футбол 3 FHD
+http://c5497742.ottrast.com/iptv/HBWPN23GZMELXN/2408/index.m3u8
+#EXTINF:0 group-title="ARENA SPORTS" tvg-rec="3",Матч! Футбол 3 FHD
+http://f9ohqcqv.megogo.xyz/iptv/WKH4UCY7ZDL84NDB8RLC3ZXS/2408/index.m3u
+#EXTINF:0 group-title="ARENA SPORTS" tvg-rec="3",Матч! Футбол 3 FHD
+http://bk1r4ly2.virelloso.top/iptv/VAU8656NGQ3EH65RVBWZ85PF/2408/index.m3u8
+
 #============================SPORT KLUB HR================================
 #EXTINF:0 group-title="SPORT KLUB HR" tvg-rec="0",Sport Klub 1 HD HR
 http://7e401b76.rossteleccom.net/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/7269/index.m3u8
