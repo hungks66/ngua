@@ -1,5 +1,25 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="GOLF TỔNG HỢP" tvg-id="chnl-306" tvg-name="UK | Sky Sports Golf HD" tvg-logo="[img]http://ru1.plist.link/plepg/img/channels/306.png[/img]?6ab4011796425" tvg-rec="0" timeshift="0", UK | Sky Sports Golf HD
+http://ru1.plist.link:3355/HNruN257Trd4306/index.m3u8?token=uoteoIi858gcp9QknOHferZcahcUUlN-VM1KJ6r1q7rie7JgpMI5UfiQGJ1qBYdA.tg5643136335
+#EXTINF:-1 group-title="GOLF TỔNG HỢP" tvg-id="chnl-306" tvg-name="UK | Sky Sports Golf HD" tvg-logo="[img]http://ru1.plist.link/plepg/img/channels/306.png[/img]?6ab4011796425" tvg-rec="0" timeshift="0", UK | Sky Sports Golf HD
+http://ru1.plist.link:3355/HNruN257Trd4306/index.m3u8?token=uoteoIi858gcp9QknOHferZcahcUUlN-VM1KJ6r1q7rie7JgpMI5UfiQGJ1qBYdA.tg5643136335
+#EXTINF:-1 group-title="GOLF TỔNG HỢP",UK| SKY SPORTS GOLF HD
+http://line.shadowbest.org:80/79cdce7aa7/75167e3a4bb5/83451
+#EXTINF:-1 group-title="GOLF TỔNG HỢP",UK| SKY SPORTS GOLF FHD
+http://line.shadowbest.org:80/79cdce7aa7/75167e3a4bb5/30497
+#EXTINF:-1 group-title="GOLF TỔNG HỢP"1,UK| SKY SPORTS GOLF
+http://line.shadowbest.org:80/79cdce7aa7/75167e3a4bb5/79477
+#EXTINF:-1 group-title="GOLF TỔNG HỢP",UK| SKY SPORTS GOLF HEVC FHD
+http://line.shadowbest.org:80/79cdce7aa7/75167e3a4bb5/1458673
+#EXTINF:-1 group-title="GOLF TỔNG HỢP",UK| SKY SPORTS GOLF HEVC HD
+http://line.shadowbest.org:80/79cdce7aa7/75167e3a4bb5/1458659
+#EXTINF:-1 group-title="GOLF TỔNG HỢP",UK| SUPERSPORTS GOLF HD
+http://line.shadowbest.org:80/79cdce7aa7/75167e3a4bb5/425667
+#EXTINF:-1 group-title="GOLF TỔNG HỢP",UK-SKY SPORTS GOLF HD
+http://line.shadowbest.org:80/79cdce7aa7/75167e3a4bb5/1905854
+#EXTINF:-1 group-title="GOLF TỔNG HỢP",UK-SKY SPORTS GOLF HD
+http://line.shadowbest.org:80/79cdce7aa7/75167e3a4bb5/1905855
 #EXTINF:-1 group-title="GOLF TỔNG HỢP" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSGOLF.png",[UK] SKY SPORTS GOLF FHD
 http://line.tslion.xyz:80/a065829a/e4642318/577971
 #EXTINF:0 group-title="GOLF UK" tvg-name="﻿UK Sky Sports Golf FHD " tvg-id="﻿sky.sports.golf.gb" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-golf-uk.png?raw=true" group-title="GOLF UK",﻿Sky Sports Golf 01
