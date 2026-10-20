@@ -726,6 +726,24 @@ http://6.team.ga:80/ch513/mono.m3u8?token=falcondemo66.l6YUaNOCFBgitSMyt6I2NCmKE
 http://6.team.ga:80/ch1498/mono.m3u8?token=falcondemo66.l6YUaNOCFBgitSMyt6I2NFLAJp3LS8ioL08YxLbrbVFlLgxPAABK4URxoUGbFSOX
 #EXTINF:0 group-title="SKY SPOTS UK",UK: Sky News HD
 http://6.team.ga:80/ch1018/mono.m3u8?token=falcondemo66.l6YUaNOCFBgitSMyt6I2NDn3YATHz4io4mR80ekAQjqL8af3aifNzSq9FWyW5tRp
+
+
+
+
+#EXTINF:0 group-title="ARENA SPORTS" tvg-logo="http://epg.one/img2/4563.png" tvg-rec="0",Arena Sport 1 FHD HR
+http://waldi.ottrast.com/iptv/BYLVWVF26T7ZPE/7263/index.m3u8
+#EXTINF:0 group-title="ARENA SPORTS" tvg-logo="http://epg.one/img2/4564.png" tvg-rec="0",Arena Sport 2 FHD HR
+http://waldi.ottrast.com/iptv/BYLVWVF26T7ZPE/7264/index.m3u8
+#EXTINF:0 group-title="ARENA SPORTS" tvg-logo="http://epg.one/img2/4565.png" tvg-rec="0",Arena Sport 3 FHD HR
+http://waldi.ottrast.com/iptv/BYLVWVF26T7ZPE/7265/index.m3u8
+#EXTINF:0 group-title="ARENA SPORTS" tvg-logo="http://epg.one/img2/4566.png" tvg-rec="0",Arena Sport 4 FHD HR
+http://waldi.ottrast.com/iptv/BYLVWVF26T7ZPE/7266/index.m3u8
+#EXTINF:0 group-title="ARENA SPORTS" tvg-logo="http://epg.one/img2/4567.png" tvg-rec="0",Arena Sport 5 FHD HR
+http://waldi.ottrast.com/iptv/BYLVWVF26T7ZPE/7267/index.m3u8
+#EXTINF:0 group-title="ARENA SPORTS" tvg-logo="http://epg.one/img2/4568.png" tvg-rec="0",Arena Sport 6 FHD HR
+http://waldi.ottrast.com/iptv/BYLVWVF26T7ZPE/7268/index.m3u8
+
+
 #EXTINF:0 group-title="ARENA SPORTS" tvg-rec="0",Arena Premium 1 HD RS
 http://9d33a541.ucomist.net/iptv/LX5XP9Q4LAY25EPEELQBVCTS/31599/index.m3u8
 #EXTINF:0 group-title="ARENA SPORTS" tvg-rec="0",Arena Premium 3 HD RS
@@ -770,6 +788,8 @@ http://ybk5mmr2.russtv.net/iptv/FM2YENVSTBPDB8TVMWRDHWGP/7268/index.m3u8
 #===============================Матч! Футбол============================================
 
 #EXTINF:0 group-title="ARENA SPORTS" tvg-rec="3",Матч! Футбол 1 FHD
+http://waldi.ottrast.com/iptv/BYLVWVF26T7ZPE/2407/index.m3u8
+#EXTINF:0 group-title="ARENA SPORTS" tvg-rec="3",Матч! Футбол 1 FHD
 http://bk1r4ly2.virelloso.top/iptv/VAU8656NGQ3EH65RVBWZ85PF/2407/index.m3u8
 #EXTINF:0 group-title="ARENA SPORTS" tvg-rec="3",Матч! Футбол 1 FHD
 http://c5497742.ottrast.com/iptv/HBWPN23GZMELXN/2407/index.m3u8
@@ -777,13 +797,16 @@ http://c5497742.ottrast.com/iptv/HBWPN23GZMELXN/2407/index.m3u8
 http://f9ohqcqv.megogo.xyz/iptv/WKH4UCY7ZDL84NDB8RLC3ZXS/2407/index.m3u
 
 #EXTINF:0 group-title="ARENA SPORTS" tvg-rec="3",Матч! Футбол 2 FHD
+http://waldi.ottrast.com/iptv/BYLVWVF26T7ZPE/2420/index.m3u8
+#EXTINF:0 group-title="ARENA SPORTS" tvg-rec="3",Матч! Футбол 2 FHD
 http://bk1r4ly2.virelloso.top/iptv/VAU8656NGQ3EH65RVBWZ85PF/2420/index.m3u8
 #EXTINF:0 group-title="ARENA SPORTS" tvg-rec="3",Матч! Футбол 2 FHD
 http://c5497742.ottrast.com/iptv/HBWPN23GZMELXN/2420/index.m3u8
 #EXTINF:0 group-title="ARENA SPORTS" tvg-rec="3",Матч! Футбол 2 FHD
 http://f9ohqcqv.megogo.xyz/iptv/WKH4UCY7ZDL84NDB8RLC3ZXS/2420/index.m3u
 
-
+#EXTINF:0 group-title="ARENA SPORTS" tvg-rec="3",Матч! Футбол 3 FHD
+http://waldi.ottrast.com/iptv/BYLVWVF26T7ZPE/2408/index.m3u8
 #EXTINF:0 group-title="ARENA SPORTS" tvg-rec="3",Матч! Футбол 3 FHD
 http://c5497742.ottrast.com/iptv/HBWPN23GZMELXN/2408/index.m3u8
 #EXTINF:0 group-title="ARENA SPORTS" tvg-rec="3",Матч! Футбол 3 FHD
