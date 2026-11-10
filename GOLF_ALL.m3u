@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS GOLF FHD" tvg-logo="https://www.logolarimiz.com/Toplu/England/sky-sports-golf-icon-alt-uk.png" group-title="UK • SKY SPORT",SKY SPORTS GOLF FHD
+http://stop1.xyz:8080/694d4439f/6272da53h/1104851
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS GOLF HD" tvg-logo="https://www.logolarimiz.com/Toplu/England/sky-sports-golf-icon-alt-uk.png" group-title="UK • SKY SPORT",SKY SPORTS GOLF HD
+http://stop1.xyz:8080/694d4439f/6272da53h/1104850
 #EXTINF:-1 group-title="SSA41026 UK-GOLF" tvg-logo="https://go4.pw/UK/skygolff.png",UK - SKY SPORTS GOLF HD
 http://engui.us:80/PD5HZGVJ4R997JG/p6Y3AksSLp/348304
 #EXTINF:-1 group-title="SSA41026 UK-GOLF" tvg-logo="https://go4.pw/UK/skygolff.png",UK - SKY SPORTS GOLF HD
@@ -1125,3 +1129,137 @@ http://engui.us:80/FAAFC9C68DC0D00/4BZwT6oYkz/521106
 http://servicepro4.shop:80/5385862981D5179/ypvEHME3vZ/521106
 #EXTINF:-1 group-title="CBS SPORTS NETWORK" tvg-logo="https://go4.pw/usa/Cbs_Sports_Golazo_Network_Hd.png",US - CBS SPORTS GOLAZO NETWORK HD ◉
 http://engui.us:80/7BVKRJ5F9X9UG9G/z9fIzlRTnX/521106
+#EXTINF:-1 group-title="GOLF THẬP CẨM",FR|GOLF+ FHD (H.265) (Drop: 0.00%)
+http://kingtv.net:8080/Abdell@h123/9cf4z6ZRmTxtlV7/77916
+#EXTINF:-1 group-title="GOLF THẬP CẨM",FR|GOLF+ HD (Drop: 0.00%)
+http://kingtv.net:8080/Abdell@h123/9cf4z6ZRmTxtlV7/5876
+#EXTINF:-1 group-title="GOLF THẬP CẨM",FR|GOLF+ FHD (Drop: 0.00%)
+http://kingtv.net:8080/Abdell@h123/9cf4z6ZRmTxtlV7/6395
+#EXTINF:-1 group-title="GOLF THẬP CẨM",FR: GOLF+ (Drop: 0.00%)
+http://31.43.191.125:8080/vip9731767352167/2238456883f4/624
+#EXTINF:-1 group-title="GOLF THẬP CẨM",FR: GOLF+ (Drop: 0.00%)
+http://31.43.191.125:8080/vip8931789986580/b35d04dd756e/624
+
+#EXTINF:-1 group-title="GOLF THẬP CẨM",FR|GOLF CHANNEL FHD (Drop: 0.00%)
+http://kingtv.net:8080/Abdell@h123/9cf4z6ZRmTxtlV7/36777
+#EXTINF:-1 group-title="GOLF THẬP CẨM",FR|GOLF CHANNEL HD (Drop: 0.00%)
+http://kingtv.net:8080/Abdell@h123/9cf4z6ZRmTxtlV7/5875
+#EXTINF:-1 group-title="GOLF THẬP CẨM",FR|GOLF CHANNEL FHD (H.265) (Drop: 100.00%)
+http://kingtv.net:8080/Abdell@h123/9cf4z6ZRmTxtlV7/77915
+
+#EXTINF:-1 group-title="GOLF THẬP CẨM",UK: SKY SPORTS GOLF VIP (Match Time) (Drop: 0.00%)
+http://falcon-sa.xyz:80/5987441942/3275942594/771365
+#EXTINF:-1 group-title="GOLF THẬP CẨM",UK: VIP SKY SPORTS GOLF (Drop: 0.00%)
+http://31.43.191.125:8080/vip1891772742365/c34028892bd2/1669
+#EXTINF:-1 group-title="GOLF THẬP CẨM",UK: VIP SKY SPORTS GOLF (Drop: 0.00%)
+http://31.43.191.125:8080/vip8931789986580/b35d04dd756e/1669
+#EXTINF:-1 group-title="GOLF THẬP CẨM",UK: VIP SKY SPORTS GOLF (Drop: 0.00%)
+http://31.43.191.125:8080/vip8451787127988/cdf29aaa9bc1/1669
+#EXTINF:-1 group-title="GOLF THẬP CẨM",UK|SKY SPORTS GOLF HD (Drop: 0.00%)
+http://kingtv.net:8080/Abdell@h123/9cf4z6ZRmTxtlV7/237527
+#EXTINF:-1 group-title="GOLF THẬP CẨM",UK: VIP SKY SPORTS GOLF (Drop: 0.00%)
+http://31.43.191.125:8080/vip9731767352167/2238456883f4/1669
+
+#EXTINF:-1 group-title="GOLF THẬP CẨM",CA: GOLF CHANNEL (Drop: 0.00%)
+http://31.43.191.125:8080/vip8931789986580/b35d04dd756e/5461
+#EXTINF:-1 group-title="GOLF THẬP CẨM",CA: GOLF CHANNEL (Drop: 0.00%)
+http://31.43.191.125:8080/vip9731767352167/2238456883f4/5461
+#EXTINF:-1 group-title="GOLF THẬP CẨM",CA: GOLF CHANNEL (Drop: 0.00%)
+http://31.43.191.125:8080/vip1891772742365/c34028892bd2/5461
+
+#EXTINF:-1 group-title="GOLF THẬP CẨM",DE| SKY SPORT Golf (Drop: 0.00%)
+http://kingtv.net:8080/Abdell@h123/9cf4z6ZRmTxtlV7/180222
+#EXTINF:-1 group-title="GOLF THẬP CẨM",DE| SKY SPORT Golf FHD (Drop: 0.00%)
+http://kingtv.net:8080/Abdell@h123/9cf4z6ZRmTxtlV7/180221
+#EXTINF:-1 group-title="GOLF THẬP CẨM",DE: SKY SPORT GOLF  720P (Drop: 0.00%)
+http://31.43.191.125:8080/vip8451787127988/cdf29aaa9bc1/135342
+#EXTINF:-1 group-title="GOLF THẬP CẨM",DE: SKY SPORT GOLF  720P (Drop: 0.00%)
+http://31.43.191.125:8080/vip8931789986580/b35d04dd756e/135342
+
+
+#EXTINF:-1,IT: SKY SPORT GOLF HD (Drop: 0.00%)
+http://31.43.191.125:8080/vip9731767352167/2238456883f4/136487
+#EXTINF:-1,IT: SKY SPORT GOLF HD (Drop: 0.00%)
+http://31.43.191.125:8080/vip1891772742365/c34028892bd2/136487
+#EXTINF:-1,IT: SKY SPORT GOLF HD (Drop: 0.00%)
+http://31.43.191.125:8080/vip8931789986580/b35d04dd756e/136487
+#EXTINF:-1,IT: SKY SPORT GOLF HD (Drop: 0.00%)
+http://31.43.191.125:8080/vip8451787127988/cdf29aaa9bc1/136487
+
+#EXTINF:-1 group-title="GOLF THẬP CẨM",DK: VIASAT GOLF (Drop: 0.00%)
+http://31.43.191.125:8080/vip8451787127988/cdf29aaa9bc1/3752
+#EXTINF:-1 group-title="GOLF THẬP CẨM",SWE: VIASAT GOLF (Drop: 0.00%)
+http://31.43.191.125:8080/vip8931789986580/b35d04dd756e/2269
+#EXTINF:-1 group-title="GOLF THẬP CẨM",SE| VIA SPORT golf (Drop: 0.00%)
+http://kingtv.net:8080/Abdell@h123/9cf4z6ZRmTxtlV7/240990
+
+
+#EXTINF:-1 group-title="GOLF THẬP CẨM",AR|STARZPLAY GOLF (Drop: 0.00%)
+http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/202152
+#EXTINF:-1 group-title="GOLF THẬP CẨM",AR|STARZPLAY GOLF (Drop: 0.00%)
+http://kingtv.net:8080/Abdell@h123/9cf4z6ZRmTxtlV7/202152
+
+
+#EXTINF:-1 group-title="GOLF THẬP CẨM",CZ: GOLF CHANNEL (Drop: 0.00%)
+http://31.43.191.125:8080/vip8931789986580/b35d04dd756e/2195
+#EXTINF:-1 group-title="GOLF THẬP CẨM",CZ: GOLF CHANNEL (Drop: 0.00%)
+http://31.43.191.125:8080/vip8451787127988/cdf29aaa9bc1/2195
+#EXTINF:-1 group-title="GOLF THẬP CẨM",CZ: GOLF CHANNEL (Drop: 0.00%)
+http://31.43.191.125:8080/vip1891772742365/c34028892bd2/2195
+
+#EXTINF:-1 group-title="GOLF THẬP CẨM",AF: SUPERSPORT GOLF (Drop: 0.00%)
+http://31.43.191.125:8080/vip9731767352167/2238456883f4/157806
+#EXTINF:-1 group-title="GOLF THẬP CẨM",AF: SUPERSPORT GOLF (Drop: 0.00%)
+http://31.43.191.125:8080/vip1891772742365/c34028892bd2/157806
+#EXTINF:-1 group-title="GOLF THẬP CẨM",AF: SUPERSPORT Golf (Drop: 0.00%)
+http://falcon-sa.xyz:80/5987441942/3275942594/529834
+#EXTINF:-1 group-title="GOLF THẬP CẨM",AF: SUPERSPORT GOLF (Drop: 0.00%)
+http://31.43.191.125:8080/vip8451787127988/cdf29aaa9bc1/157806
+
+#EXTINF:-1 group-title="GOLF THẬP CẨM",NL| Ziggo Sport Golf 4K (Drop: 0.00%)
+http://kingtv.net:8080/Abdell@h123/9cf4z6ZRmTxtlV7/172702
+
+#EXTINF:-1 group-title="GOLF THẬP CẨM",DK: VIASAT GOLF (Drop: 0.00%)
+http://31.43.191.125:8080/vip9731767352167/2238456883f4/3752
+#EXTINF:-1 group-title="GOLF THẬP CẨM",DK: VIASAT GOLF (Drop: 0.00%)
+http://31.43.191.125:8080/vip1891772742365/c34028892bd2/3752
+
+#EXTINF:-1 group-title="GOLF THẬP CẨM",SWE: VIASAT GOLF (Drop: 0.00%)
+http://31.43.191.125:8080/vip1891772742365/c34028892bd2/2269
+#EXTINF:-1 group-title="GOLF THẬP CẨM",SWE: VIASAT GOLF (Drop: 0.00%)
+http://31.43.191.125:8080/vip8451787127988/cdf29aaa9bc1/2269
+
+#EXTINF:-1 group-title="GOLF THẬP CẨM",MY: GOLF CHANNEL (Drop: 0.00%)
+http://31.43.191.125:8080/vip9731767352167/2238456883f4/34613
+#EXTINF:-1 group-title="GOLF THẬP CẨM",MY: GOLF CHANNEL (Drop: 0.00%)
+http://31.43.191.125:8080/vip1891772742365/c34028892bd2/34613
+#EXTINF:-1 group-title="GOLF THẬP CẨM",MY: GOLF CHANNEL (Drop: 0.00%)
+http://31.43.191.125:8080/vip8931789986580/b35d04dd756e/34613
+
+#EXTINF:-1 group-title="GOLF THẬP CẨM",TW: Bosch Golf 1 博斯高球1 (Drop: 0.00%)
+http://31.43.191.125:8080/vip8931789986580/b35d04dd756e/158778
+#EXTINF:-1 group-title="GOLF THẬP CẨM",TW: Bosch Golf 1 博斯高球1 (Drop: 0.00%)
+http://31.43.191.125:8080/vip9731767352167/2238456883f4/158778
+#EXTINF:-1 group-title="GOLF THẬP CẨM",TW: Bosch Golf 1 博斯高球1 (Drop: 0.00%)
+http://31.43.191.125:8080/vip1891772742365/c34028892bd2/158778
+
+#EXTINF:-1 group-title="GOLF THẬP CẨM",ARG: GOLF CHANNEL (Drop: 0.00%)
+http://31.43.191.125:8080/vip9731767352167/2238456883f4/4771
+#EXTINF:-1 group-title="GOLF THẬP CẨM",PL: GOLF ZONE (Drop: 0.00%)
+http://31.43.191.125:8080/vip9731767352167/2238456883f4/953
+
+#EXTINF:-1 group-title="GOLF THẬP CẨM",Ex-Yu| Srb: Sport Klub Golf (Drop: 0.00%)
+http://kingtv.net:8080/Abdell@h123/9cf4z6ZRmTxtlV7/171346
+#EXTINF:-1 group-title="GOLF THẬP CẨM",EX-YU: SPORT KLUB GOLF (Drop: 0.00%)
+http://falcon-sa.xyz:80/5987441942/3275942594/530186
+
+#EXTINF:-1 group-title="GOLF THẬP CẨM",ES: M+ GOLF 2 (Drop: 0.00%)
+http://31.43.191.125:8080/vip8451787127988/cdf29aaa9bc1/58727
+#EXTINF:-1 group-title="GOLF THẬP CẨM",ES: M+ GOLF (Drop: 0.00%)
+http://31.43.191.125:8080/vip8451787127988/cdf29aaa9bc1/285
+#EXTINF:-1 group-title="GOLF THẬP CẨM",ES: M+ GOLF 2 (Drop: 0.00%)
+http://31.43.191.125:8080/vip9731767352167/2238456883f4/58727
+#EXTINF:-1 group-title="GOLF THẬP CẨM",ES: M+ GOLF 2 (Drop: 0.00%)
+http://31.43.191.125:8080/vip8931789986580/b35d04dd756e/58727
+#EXTINF:-1 group-title="GOLF THẬP CẨM",ES: M+ GOLF (Drop: 0.00%)
+http://31.43.191.125:8080/vip9731767352167/2238456883f4/285
