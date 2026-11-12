@@ -3,22 +3,20 @@
 http://stop1.xyz:8080/694d4439f/6272da53h/1104851
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS GOLF HD" tvg-logo="https://www.logolarimiz.com/Toplu/England/sky-sports-golf-icon-alt-uk.png" group-title="UK • SKY SPORT",SKY SPORTS GOLF HD
 http://stop1.xyz:8080/694d4439f/6272da53h/1104850
+#EXTINF:-1 group-title="EU | UK | SPORTS" tvg-logo="https://go4.pw/UK/skygolff.png",UK - SKY SPORTS GOLF FHD ◉
+http://engui.us:80/PD5HZGVJ4R997JG/p6Y3AksSLp/17287
+#EXTINF:-1 group-title="EU | UK | SPORTS" tvg-logo="https://go4.pw/UK/skygolff.png",UK - SKY SPORTS GOLF HD
+http://engui.us:80/PD5HZGVJ4R997JG/p6Y3AksSLp/348304
+#EXTINF:-1 group-title="EU | UK | SPORTS" tvg-logo="https://go4.pw/UK/skygolff.png",UK - SKY SPORTS GOLF SD
+http://engui.us:80/PD5HZGVJ4R997JG/p6Y3AksSLp/348303
+#EXTINF:-1 group-title="EU | UK | SPORTS" tvg-logo="https://go4.pw/UK/supersport.png",UK - SUPERSPORT GOLF HD
+http://engui.us:80/PD5HZGVJ4R997JG/p6Y3AksSLp/348281
 #EXTINF:-1 group-title="SSA41026 UK-GOLF" tvg-logo="https://go4.pw/UK/skygolff.png",UK - SKY SPORTS GOLF HD
 http://engui.us:80/PD5HZGVJ4R997JG/p6Y3AksSLp/348304
 #EXTINF:-1 group-title="SSA41026 UK-GOLF" tvg-logo="https://go4.pw/UK/skygolff.png",UK - SKY SPORTS GOLF HD
 http://engui.us:80/04HE79JCQ8G43EM/ol5mFuRpRZ/348304
 #EXTINF:-1 group-title="SSA41026 UK-GOLF" tvg-logo="https://go4.pw/UK/skygolff.png",UK - SKY SPORTS GOLF HD
-http://engui.us:80/PD5HZGVJ4R997JG/p6Y3AksSLp/348304
-#EXTINF:-1 group-title="SSA41026 UK-GOLF" tvg-logo="https://go4.pw/UK/skygolff.png",UK - SKY SPORTS GOLF HD
 http://engui.us:80/7BVKRJ5F9X9UG9G/z9fIzlRTnX/348304
-#EXTINF:-1 group-title="SSA41026 UK-GOLF" tvg-logo="https://go4.pw/UK/skygolff.png",UK - SKY SPORTS GOLF FHD ◉
-http://engui.us:80/PD5HZGVJ4R997JG/p6Y3AksSLp/17287
-#EXTINF:-1 group-title="SSA41026 UK-GOLF" tvg-logo="https://go4.pw/UK/skygolff.png",UK - SKY SPORTS GOLF FHD ◉
-http://engui.us:80/PD5HZGVJ4R997JG/p6Y3AksSLp/17287
-#EXTINF:-1 group-title="SSA41026 UK-GOLF" tvg-logo="https://go4.pw/UK/skygolff.png",UK - SKY SPORTS GOLF FHD ◉
-http://engui.us:80/7BVKRJ5F9X9UG9G/z9fIzlRTnX/17287
-#EXTINF:-1 group-title="SSA41026 UK-GOLF" tvg-logo="https://go4.pw/UK/skygolff.png",UK - SKY SPORTS GOLF FHD ◉
-http://engui.us:80/PD5HZGVJ4R997JG/p6Y3AksSLp/17287
 #EXTINF:-1 group-title="SSA41026 UK-GOLF" tvg-logo="https://go4.pw/UK/skygolff.png",UK - SKY SPORTS GOLF FHD ◉
 http://engui.us:80/04HE79JCQ8G43EM/ol5mFuRpRZ/17287
 #EXTINF:-1 group-title="SSA41026 UK-GOLF" tvg-logo="https://go4.pw/UK/skygolff.png",UK - SKY SPORTS GOLF HEVC
@@ -587,6 +585,23 @@ http://bd46906a.edemist.com/iptv/7TLM6FFAYGGL4N/7276/index.m3u8
 http://bd46906a.edemist.com/iptv/7TLM6FFAYGGL4N/7277/index.m3u8
 #EXTINF:0 group-title="SPORT KLUB HR" tvg-rec="0",Sport Klub Golf HR
 http://7c8a829a.kazaktelekom.com/iptv/7S2CSHMSXHFB4T/7277/index.m3u8
+
+#EXTINF:-1 group-title="UK | SPORTS" tvg-logo="https://go4.pw/UK/skyns.png",UK - SKY SPORTS NEWS HEVC²
+http://engui.us:80/PD5HZGVJ4R997JG/p6Y3AksSLp/980403
+#EXTINF:-1 group-title="UK | SPORTS" tvg-logo="https://go4.pw/UK/skyns.png",UK - SKY SPORTS NEWS HD²
+http://engui.us:80/PD5HZGVJ4R997JG/p6Y3AksSLp/17283
+#EXTINF:-1 group-title="UK | SPORTS" tvg-logo="https://go4.pw/UK/skyamainevent.png",UK - SKY SPORTS MAIN EVENT HD
+http://engui.us:80/PD5HZGVJ4R997JG/p6Y3AksSLp/365037
+#EXTINF:-1 group-title="UK | SPORTS" tvg-logo="https://go4.pw/UK/skyfoot.png",UK - SKY SPORTS FOOTBALL FHD ◉
+http://engui.us:80/PD5HZGVJ4R997JG/p6Y3AksSLp/17288
+#EXTINF:-1 group-title="UK | SPORTS" tvg-logo="https://go4.pw/UK/skysportste.png",UK - SKY SPORTS TENNIS HD
+http://engui.us:80/PD5HZGVJ4R997JG/p6Y3AksSLp/664452
+#EXTINF:-1 group-title="UK | SPORTS" tvg-logo="https://go4.pw/UK/skyracingg.png",UK - SKY SPORTS RACING FHD ◉
+http://engui.us:80/PD5HZGVJ4R997JG/p6Y3AksSLp/304708
+#EXTINF:-1 group-title="UK | SPORTS" tvg-logo="https://go4.pw/UK/skyracingg.png",UK - SKY SPORTS RACING HEVC
+http://engui.us:80/PD5HZGVJ4R997JG/p6Y3AksSLp/980434
+#EXTINF:-1 group-title="UK | SPORTS" tvg-logo="https://go4.pw/UK/CRICKET.png",UK - SKY SPORTS CRICKET SD
+
 #EXTINF:0 group-title="PREMIER LEAGUE" tvg-rec="3",Sky Sport Premier League
 http://cb903f0d.cbilant.com/iptv/NL8AFWHTBC2LEK/9334/index.m3u8
 #EXTINF:0 group-title="PREMIER LEAGUE" tvg-rec="3",Sky Sport Premier League
@@ -1117,6 +1132,14 @@ http://dff13dfa.ottrast.com/iptv/HC4N5S599E8CWK/6124/index.m3u8
 http://2f1e7a14.ucomist.net/iptv/9AMRED239WP37GPX6DLC3AD4/6123/index.m3u8
 #EXTINF:0 group-title="BEIN SPORT" tvg-rec="0",beIN Sports 3 HD QA
 http://2f1e7a14.ucomist.net/iptv/9AMRED239WP37GPX6DLC3AD4/6124/index.m3u8
+
+#EXTINF:-1 group-title="ESPN | CARIBBIEAN" tvg-logo="https://go4.pw/AMERICA/CARIBBIEAN/ESPN.png",ESPN HD CARIBBIEAN
+http://engui.us:80/7BVKRJ5F9X9UG9G/z9fIzlRTnX/110215
+#EXTINF:-1 group-title="ESPN | CARIBBIEAN" tvg-logo="https://go4.pw/AMERICA/CARIBBIEAN/ESPN2.png",ESPN 2 HD CARIBBIEAN
+http://engui.us:80/7BVKRJ5F9X9UG9G/z9fIzlRTnX/110214
+#EXTINF:-1 group-title="ESPN | CARIBBIEAN" tvg-logo="https://go4.pw/LATINO/MEXICO/ESPN3.png",ESPN 3 HD CARIBBIEAN
+http://engui.us:80/7BVKRJ5F9X9UG9G/z9fIzlRTnX/906704
+
 #EXTINF:-1 group-title="CBS SPORTS NETWORK" tvg-logo="https://go4.pw/AMERICA/USA/CBS.png",US - CBS SPORTS NETWORK HD
 http://servicepro4.shop:80/5385862981D5179/ypvEHME3vZ/213920
 #EXTINF:-1 group-title="CBS SPORTS NETWORK" tvg-logo="https://go4.pw/AMERICA/USA/CBS.png",US - CBS SPORTS NETWORK HD
