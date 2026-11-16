@@ -1,8 +1,30 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS GOLF FHD" tvg-logo="https://www.logolarimiz.com/Toplu/England/sky-sports-golf-icon-alt-uk.png" group-title="UK • SKY SPORT",SKY SPORTS GOLF FHD
-http://stop1.xyz:8080/694d4439f/6272da53h/1104851
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS GOLF HD" tvg-logo="https://www.logolarimiz.com/Toplu/England/sky-sports-golf-icon-alt-uk.png" group-title="UK • SKY SPORT",SKY SPORTS GOLF HD
-http://stop1.xyz:8080/694d4439f/6272da53h/1104850
+
+
+#EXTINF:0 group-title="EU | UK | SPORTS",Sky Sports Golf HD UK
+http://ru1.plist.link:3355/HNruN257Trd4306/index.m3u8?token=uoteoIi858gcp9QknOHferZcahcUUlN-VM1KJ6r1q7rie7JgpMI5UfiQGJ1qBYdA.tg5643136335
+#EXTINF:0 group-title="EU | UK | SPORTS",SKY SPORTS GOLF HD UK
+http://31.43.191.125:8080/vip8451787127988/cdf29aaa9bc1/1669
+#EXTINF:0 group-title="EU | UK | SPORTS",SKY SPORTS GOLF UK
+http://31.43.191.125:8080/vip9731767352167/2238456883f4/1669
+#EXTINF:0 group-title="EU | UK | SPORTS",SKY SPORT GOLF UK
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/19132/index.m3u8
+#EXTINF:0 group-title="EU | UK | SPORTS",SKY SPORT GOLF UK
+http://tr.babo01.com:8080/@Karsten/@Meise/672525
+#EXTINF:0 group-title="EU | UK | SPORTS",SKY SPORT GOLF UK
+http://sahri4x5.tvclub.xyz/iptv/MMMNMXMBCGWMZQ/19132/index.m3u8
+#EXTINF:0 group-title="EU | UK | SPORTS",SKY SPORT GOLF UK
+http://tr.babo01.com:8080/@Emrah54/@SakaryA/672525
+#EXTINF:0 group-title="EU | UK | SPORTS",SKY SPORT GOLF FHD UK
+http://tr.babo01.com:8080/@Emrah54/@SakaryA/703257
+#EXTINF:0 group-title="EU | UK | SPORTS",SKY SPORT GOLF RAW UK
+http://tr.babo01.com:8080/@Karsten/@Meise/703258
+#EXTINF:0 group-title="EU | UK | SPORTS",SKY SPORT GOLF RAW UK
+http://tr.babo01.com:8080/@Emrah54/@SakaryA/703258
+#EXTINF:0 group-title="EU | UK | SPORTS",SKY SPORTS GOLF UK
+http://tr.babo01.com:8080/@Karsten/@Meise/665085
+#EXTINF:0 group-title="EU | UK | SPORTS",SKY SPORTS GOLF UK
+http://tr.babo01.com:8080/@Emrah54/@SakaryA/665085
 #EXTINF:-1 group-title="EU | UK | SPORTS" tvg-logo="https://go4.pw/UK/skygolff.png",UK - SKY SPORTS GOLF FHD ◉
 http://engui.us:80/PD5HZGVJ4R997JG/p6Y3AksSLp/17287
 #EXTINF:-1 group-title="EU | UK | SPORTS" tvg-logo="https://go4.pw/UK/skygolff.png",UK - SKY SPORTS GOLF HD
@@ -1286,3 +1308,712 @@ http://31.43.191.125:8080/vip9731767352167/2238456883f4/58727
 http://31.43.191.125:8080/vip8931789986580/b35d04dd756e/58727
 #EXTINF:-1 group-title="GOLF THẬP CẨM",ES: M+ GOLF (Drop: 0.00%)
 http://31.43.191.125:8080/vip9731767352167/2238456883f4/285
+
+#EXTINF:0 group-title="GOLF Live17Nov",Sky Sports Golf HD UK
+http://ru1.plist.link:3355/HNruN257Trd4306/index.m3u8?token=uoteoIi858gcp9QknOHferZcahcUUlN-VM1KJ6r1q7rie7JgpMI5UfiQGJ1qBYdA.tg5643136335
+#EXTINF:0 group-title="GOLF Live17Nov",SKY SPORTS GOLF HD UK
+http://31.43.191.125:8080/vip8451787127988/cdf29aaa9bc1/1669
+#EXTINF:0 group-title="GOLF Live17Nov",SKY SPORTS GOLF UK
+http://31.43.191.125:8080/vip9731767352167/2238456883f4/1669
+#EXTINF:0 group-title="GOLF Live17Nov",SKY SPORT GOLF UK
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/19132/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",SKY SPORT GOLF UK
+http://tr.babo01.com:8080/@Karsten/@Meise/672525
+#EXTINF:0 group-title="GOLF Live17Nov",SKY SPORT GOLF UK
+http://sahri4x5.tvclub.xyz/iptv/MMMNMXMBCGWMZQ/19132/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",SKY SPORT GOLF UK
+http://tr.babo01.com:8080/@Emrah54/@SakaryA/672525
+#EXTINF:0 group-title="GOLF Live17Nov",SKY SPORT GOLF FHD UK
+http://tr.babo01.com:8080/@Emrah54/@SakaryA/703257
+#EXTINF:0 group-title="GOLF Live17Nov",SKY SPORT GOLF RAW UK
+http://tr.babo01.com:8080/@Karsten/@Meise/703258
+#EXTINF:0 group-title="GOLF Live17Nov",SKY SPORT GOLF RAW UK
+http://tr.babo01.com:8080/@Emrah54/@SakaryA/703258
+#EXTINF:0 group-title="GOLF Live17Nov",SKY SPORTS GOLF UK
+http://tr.babo01.com:8080/@Karsten/@Meise/665085
+#EXTINF:0 group-title="GOLF Live17Nov",SKY SPORTS GOLF UK
+http://tr.babo01.com:8080/@Emrah54/@SakaryA/665085
+
+
+#EXTINF:0 group-title="GOLF Live17Nov",[Spectrum] Golf Channel HD  
+http://iyh5mlxw.klaipedalt.org/iptv/38KCLU4X4D9KL495GVMAWNPH/30089/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",AF: SUPERSPORT GOLF  
+http://31.43.191.125:8080/vip9731767352167/2238456883f4/157806
+#EXTINF:0 group-title="GOLF Live17Nov",ARG: GOLF CHANNEL  
+http://31.43.191.125:8080/vip8451787127988/cdf29aaa9bc1/4771
+#EXTINF:0 group-title="GOLF Live17Nov",AR|STARZPLAY GOLF  
+http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/202152
+#EXTINF:0 group-title="GOLF Live17Nov",C MORE GOLF HD SE  
+http://sahri4x5.tvclub.xyz/iptv/MMMNMXMBCGWMZQ/12033/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",CA: GOLF CHANNEL  
+http://31.43.191.125:8080/vip9731767352167/2238456883f4/5461
+#EXTINF:0 group-title="GOLF Live17Nov",CA: GOLF CHANNEL  
+http://31.43.191.125:8080/vip1891772742365/c34028892bd2/5461
+#EXTINF:0 group-title="GOLF Live17Nov",CA: GOLF CHANNEL  
+http://31.43.191.125:8080/vip8451787127988/cdf29aaa9bc1/5461
+#EXTINF:0 group-title="GOLF Live17Nov",CA: GOLF CHANNEL  
+http://31.43.191.125:8080/vip8931789986580/b35d04dd756e/5461
+#EXTINF:0 group-title="GOLF Live17Nov",CCTV-Golf & Tennis  
+http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
+#EXTINF:0 group-title="GOLF Live17Nov",CZ: GOLF CHANNEL  
+http://smar8-tv.xyz:8880/at80@sb13.org/uuRucKWT3d/634545
+#EXTINF:0 group-title="GOLF Live17Nov",DE: SKY SPORT GOLF  720P  
+http://31.43.191.125:8080/vip9731767352167/2238456883f4/135342
+#EXTINF:0 group-title="GOLF Live17Nov",ES: M+ GOLF  
+http://31.43.191.125:8080/vip1891772742365/c34028892bd2/285
+#EXTINF:0 group-title="GOLF Live17Nov",ES: M+ GOLF  
+http://31.43.191.125:8080/vip8451787127988/cdf29aaa9bc1/285
+#EXTINF:0 group-title="GOLF Live17Nov",ES: M+ GOLF  
+http://31.43.191.125:8080/vip8931789986580/b35d04dd756e/285
+#EXTINF:0 group-title="GOLF Live17Nov",EXYU: SPORT KLUB GOLF  
+http://31.43.191.125:8080/vip1891772742365/c34028892bd2/144555
+#EXTINF:0 group-title="GOLF Live17Nov",EXYU: SPORT KLUB GOLF  
+http://31.43.191.125:8080/vip9731767352167/2238456883f4/144555
+#EXTINF:0 group-title="GOLF Live17Nov",Golf Channel  
+http://rr3.tvdosug.net/~201b2702b09834a95269621a483e7134a0e/26781/hls/pl.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Golf Channel  
+https://dash4.antik.sk/live/test_golf_channel/playlist.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Golf Channel CANADA  
+http://i0ckghar.otttv.pw/iptv/FFNN3S9DFEX5SCZMRNY2SH3P/6481/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Golf Channel HD CA  
+http://u2ecwzbj.megatv.fun/iptv/HSD8UEK6E2AENH/6481/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Golf Channel HD CA  
+http://timk7ypx.lunexas.top/iptv/P4WDDSHKH7M3A9/6481/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Golf Channel HD CA  
+http://d7e289ab.edmonst.net/iptv/Y64FMSPU68BNV2/6481/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Golf Channel HD CA  
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/6481/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Golf Channel HD CA  
+http://vadimka1.rossteleccom.net/iptv/USNLREALA72Y3T/6481/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Golf Channel HD CA  
+http://iyh5mlxw.klaipedalt.org/iptv/38KCLU4X4D9KL495GVMAWNPH/6481/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Golf Channel HD CA  
+http://368faae2.megatv.fun/iptv/6WFU8A7UDNU4YX/6481/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Golf Channel HD CA  
+http://typicamn.russtv.net/iptv/7PV43BXZ9XEN88P4A88E8HBV/6481/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Golf Channel HD CA  
+http://3db7a891.kartoshkaka.ru/iptv/N7H9M3GCUWG5LN2AFN9D7ZBB/6481/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Golf Channel HD CA  
+http://3db7a891.kartoshkaka.ru/iptv/9H8BWF6YYTVH5DZ2EU9W4XYE/6481/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Golf Channel HD CA  
+http://3db7a891.kartoshkaka.ru/iptv/VRTC2LAHBSG2YS/6481/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Golf Channel HD CA  
+http://3db7a891.kartoshkaka.ru/iptv/SCWLD8275RXLQ8/6481/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Golf Channel HD CA  
+http://28ee3a6f.kablakaka.ru/iptv/9FVBWENB9GGB326YAVUDTBMB/6481/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Golf Channel HD CA  
+http://9d33a541.ucomist.net/iptv/LX5XP9Q4LAY25EPEELQBVCTS/6481/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Golf Channel HD CA  
+http://dc24261a.ucomist.net/iptv/AVNFCNQBEC9VQU/6481/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Golf Channel HD CA  
+http://c66f3225.kazmazpaz.ru/iptv/GY2RQ3KPZQVWCU/6481/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Golf Channel HD CA  
+http://f4220e44.krasnafhg.ru/iptv/R8NWCD8LXTYMK7/6481/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Golf Channel HD CA  
+http://jitzck3l.alfalt.fun/iptv/2C8SDFXMMW67FC/6481/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Golf Channel HD CA  
+http://68a1eddf.suklakakl.ru/iptv/9LDQ87VWPTW4LH/6481/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Golf Channel HD CA  
+http://32518a56.machkalan.ru/iptv/DM5Z5ZG799WVM2/6481/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Golf Channel HD CA  
+http://rtsxb2la.megatv.fun/iptv/SPVHTAGZY6ZM7C/6481/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Golf Channel HD CA  
+http://dcqsurjj.siauliairsavlt.com/iptv/Y37W4QZF2XTZ6QNRFXEZMY6X/6481/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Golf Channel HD CA  
+http://e5b2a725.kazaktelekom.com/iptv/EMWXZNVZ7CG7RH/6481/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Golf Channel HD CA  
+http://65aa3878.edemist.com/iptv/72KTA63QZYEQRS/6481/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Golf Channel HD CA  
+http://54fytrui.dienalt.org/iptv/2BSF2D3GSRTAVM4ABSQG3GYX/6481/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Golf Channel HD CA  
+http://54fytrui.dienalt.org/iptv/ZBE628EP2BYBP5/6481/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Golf Channel HD CA  
+http://ac5f81e9.krasnafhg.ru/iptv/D9BC6XPYWMW2EPDGFQ5MNNFE/6481/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Golf Channel HD CA  
+http://5bd98e0c.kazaktelekom.com/iptv/UQBUXP7ZGEMQ5P/6481/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Golf Channel HD CA  
+http://ac5f81e9.krasnafhg.ru/iptv/H2D2PZRSF54ZEE/6481/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Golf Channel HD CA  
+http://b35530d5.kazaktelekom.com/iptv/EAMZWV3TFEVWL3/6481/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Golf Channel HD CA  
+http://5bd98e0c.kazaktelekom.com/iptv/XLLWS47TLMFBMWCP56MEZD43/6481/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Golf Channel HD CA  
+http://1f93dd99.cbilant.com/iptv/P64RZHSS5RBEWK/6481/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Golf Channel HD CA  
+http://c401060e.edemist.com/iptv/EALSZW4ETTMUPS/6481/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Golf Channel HD CA  
+http://lutik.kazaktelekom.com/iptv/UWYR8B7C6URZM3EAR5Z5GCFP/6481/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Golf Channel HD CA    
+http://mjgqifcx.lunexas.top/iptv/ERM6K5D369UQBY/6481/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Golf Channel HD CA    
+http://iyh5mlxw.klaipedalt.org/iptv/H9APP9BNY3LCP8/6481/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Golf Channel HD CA    
+http://qe7abbli.megatv.fun/iptv/FUAEYSSZZ4VLP4/6481/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Golf Channel HD CA    
+http://fe3d3e4f.kazaktelekom.com/iptv/FG5EGGEU2X7RLWZFG9VQARNY/6481/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Golf Channel HD US  
+http://d7e289ab.edmonst.net/iptv/Y64FMSPU68BNV2/30089/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Golf Channel HD US  
+http://vadimka1.rossteleccom.net/iptv/USNLREALA72Y3T/30089/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Golf Channel HD US  
+http://f9ohqcqv.megogo.xyz/iptv/WKH4UCY7ZDL84NDB8RLC3ZXS/30089/index.m3u
+#EXTINF:0 group-title="GOLF Live17Nov",Golf Channel HD US  
+http://3db7a891.kartoshkaka.ru/iptv/VRTC2LAHBSG2YS/30089/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Golf Channel HD US  
+http://28ee3a6f.kablakaka.ru/iptv/7FLHKDDHRCWEE8/30089/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Golf Channel HD US  
+http://9d33a541.ucomist.net/iptv/LX5XP9Q4LAY25EPEELQBVCTS/30089/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Golf Channel HD US  
+http://elnh9osy.russtv.net/iptv/U8VGFNCKR4XDKSAHAQHEW37N/30089/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Golf Channel HD US  
+http://f4220e44.krasnafhg.ru/iptv/R8NWCD8LXTYMK7/30089/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Golf Channel HD US  
+http://59d4ed5e.rossteleccom.net/iptv/YQQA7VC8267GXG75EM7QN79S/30089/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Golf Channel HD US  
+http://jitzck3l.alfalt.fun/iptv/2C8SDFXMMW67FC/30089/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Golf Channel HD US  
+http://i0ckghar.otttv.pw/iptv/FFNN3S9DFEX5SCZMRNY2SH3P/30089/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Golf Channel HD US  
+http://68a1eddf.suklakakl.ru/iptv/9LDQ87VWPTW4LH/30089/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Golf Channel HD US  
+http://rtsxb2la.megatv.fun/iptv/SPVHTAGZY6ZM7C/30089/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Golf Channel HD US  
+http://lbx0hyzs.nexeraso.top/iptv/L7BU8TTPL73T8LQHW7MYBXZ3/30089/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Golf Channel HD US  
+http://54fytrui.dienalt.org/iptv/LQ6QKXZBKK7RNM/30089/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Golf Channel HD US  
+http://5bd98e0c.kazaktelekom.com/iptv/UQBUXP7ZGEMQ5P/30089/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Golf Channel HD US  
+http://t49rvy2n.ottclub.xyz/iptv/VAU8656NGQ3EH65RVBWZ85PF/30089/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Golf Channel HD US  
+http://c401060e.edemist.com/iptv/EALSZW4ETTMUPS/30089/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Golf Channel HD US  
+http://iwdpuuis.socminlt.com/iptv/M9MN473ULZPRPW/30089/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Golf Channel HD US  
+http://2eb0e85f.kazaktelekom.com/iptv/R4TEFE4NBHTTPK/30089/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Golf Channel HD US  
+http://bk1r4ly2.virelloso.top/iptv/VAU8656NGQ3EH65RVBWZ85PF/30089/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Golf Channel HD US    
+http://timk7ypx.lunexas.top/iptv/P4WDDSHKH7M3A9/30089/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Golf Channel HD US    
+http://wu6o1ur9.megatv.fun/iptv/5RE3AXHR8394T4/30089/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Golf Channel HD US    
+http://fe3d3e4f.kazaktelekom.com/iptv/FG5EGGEU2X7RLWZFG9VQARNY/30089/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov", GOLF CHANNEL POLSKA  
+http://smar8-tv.xyz:8880/at80@sb13.org/uuRucKWT3d/629066
+#EXTINF:0 group-title="GOLF Live17Nov",GOLF LIFE (FAST)  
+https://livetv.fastv.jp/channel_assembly/69607D5C725E103DDF9D/master.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Golf TV HD  
+http://57.128.196.99/10417/index.m3u8?token=6AC15D94169C
+#EXTINF:0 group-title="GOLF Live17Nov",Golf TV HD  
+http://s1.00x00.es/10417/index.m3u8?token=6AC15D94169C
+#EXTINF:0 group-title="GOLF Live17Nov",GolfPass (1080p)  
+https://d2icntm6fhxrry.cloudfront.net/master.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",HR⚜️ SPORT KLUB GOLF HD  
+http://tr.babo01.com:8080/@Karsten/@Meise/640522
+#EXTINF:0 group-title="GOLF Live17Nov",IT: SKY SPORT GOLF HD  
+http://31.43.191.125:8080/vip8451787127988/cdf29aaa9bc1/136487
+#EXTINF:0 group-title="GOLF Live17Nov",IT: SKY SPORT GOLF HD  
+http://31.43.191.125:8080/vip9731767352167/2238456883f4/136487
+#EXTINF:0 group-title="GOLF Live17Nov",IT: SKY SPORT GOLF HD  
+http://31.43.191.125:8080/vip1891772742365/c34028892bd2/136487
+#EXTINF:0 group-title="GOLF Live17Nov",JTBC Golf  
+http://124.222.153.240/kakaotv/get_channel.php?channel=j_golf#.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",M+ Golf 2 HD ES  
+http://rtsxb2la.megatv.fun/iptv/SPVHTAGZY6ZM7C/31878/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",M+ Golf 2 HD ES  
+http://lnzb2mvw.megatv.fun/iptv/S4RW42HTQT54GQ/31878/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",M+ Golf 2 HD ES  
+http://lnzb2mvw.megatv.fun/iptv/SPVHTAGZY6ZM7C/31878/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",M+ Golf 2 HD ES  
+http://dc24261a.ucomist.net/iptv/AVNFCNQBEC9VQU/31878/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",M+ Golf 2 HD ES  
+http://59d4ed5e.rossteleccom.net/iptv/YQQA7VC8267GXG75EM7QN79S/31878/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",M+ Golf 2 HD ES  
+http://nx2ktjf3.lunexas.top/iptv/6MZKXCDKBA6XGW/31878/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",M+ Golf 2 HD ES  
+http://7eb4219d.megatv.fun/iptv/T89BGWZG9TWC9R/31878/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",M+ Golf 2 HD ES  
+http://68a1eddf.suklakakl.ru/iptv/9LDQ87VWPTW4LH/31878/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",M+ Golf 2 HD ES  
+http://8dc3df04.edemist.com/iptv/VAU8656NGQ3EH65RVBWZ85PF/31878/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",M+ Golf 2 HD ES  
+http://ybk5mmr2.russtv.net/iptv/FM2YENVSTBPDB8TVMWRDHWGP/31878/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",M+ Golf 2 HD ES  
+http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/31878/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",M+ Golf 2 HD ES  
+http://c401060e.edemist.com/iptv/EALSZW4ETTMUPS/31878/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",M+ Golf 2 HD ES  
+http://typicamn.russtv.net/iptv/7PV43BXZ9XEN88P4A88E8HBV/31878/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",M+ Golf 2 HD ES  
+http://xnd4z1yi.zyntras.top/iptv/8CRSD2LYR34LUNV9NTWAURPS/31878/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",M+ Golf 2 HD ES  
+http://czsnah5d.otttv.pw/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/31878/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",M+ Golf 2 HD ES    
+http://mjgqifcx.lunexas.top/iptv/ERM6K5D369UQBY/31878/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",M+ Golf 2 HD ES    
+http://c66f3225.kazmazpaz.ru/iptv/GY2RQ3KPZQVWCU/31878/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",M+ Golf 2 HD ES    
+http://7c8a829a.kazaktelekom.com/iptv/AUEE8M23ZRE6UP/31878/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",M+ Golf 2 HD ES    
+http://nuzacecq.lunexas.top/iptv/VFELB2T7Q5SP52/31878/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",M+ Golf 2 HD ES    
+http://fe3d3e4f.kazaktelekom.com/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31878/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",M+ Golf 2 HD ES    
+http://0etdvjuu.lunexas.top/iptv/AUEE8M23ZRE6UP/31878/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",M+ Golf 2 HD ES    
+http://f4220e44.krasnafhg.ru/iptv/R8NWCD8LXTYMK7/31878/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",M+ Golf 2 HD ES    
+http://wu6o1ur9.megatv.fun/iptv/5RE3AXHR8394T4/31878/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",M+ Golf 2 HD ES    
+http://50c5c2f7.kazmazpaz.org/iptv/C2ZD74USHVQ9BE/31878/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",M+ Golf 2 HD ES    
+http://u2ecwzbj.megatv.fun/iptv/HSD8UEK6E2AENH/31878/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",M+ Golf 2 HD ES    
+http://timk7ypx.lunexas.top/iptv/P4WDDSHKH7M3A9/31878/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",M+ Golf 2 HD ES    
+http://wu6o1ur9.megatv.fun/iptv/33RWU7D7E7Z2VG/31878/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",M+ Golf 2 HD ES    
+http://aa11bab1.megatv.fun/iptv/Y64FMSPU68BNV2/31878/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",M+ Golf 2 HD ES    
+http://pfnwl2av.lunexas.top/iptv/CMKU7NZGG6DQE9/31878/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",M+ Golf 2 HD ES    
+http://pd0ib21f.megatv.fun/iptv/TKX47DLQZUWNEZNLS5A973ZU/31878/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",M+ Golf 2 HD ES    
+http://3db7a891.kartoshkaka.ru/iptv/N7H9M3GCUWG5LN2AFN9D7ZBB/31878/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",M+ Golf 2 HD ES    
+http://28ee3a6f.kablakaka.ru/iptv/7FLHKDDHRCWEE8/31878/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",M+ Golf 2 HD ES    
+http://ogrluijm.megatv.fun/iptv/LQ6QKXZBKK7RNM/31878/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",M+ Golf 2 HD ES    
+http://32518a56.machkalan.ru/iptv/XP8SBECFCV6X3Q/31878/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",M+ Golf 2 HD ES    
+http://lutik.kazaktelekom.com/iptv/UWYR8B7C6URZM3EAR5Z5GCFP/31878/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",M+ Golf 2 HD ES    
+http://ilookdbronx.megatv.fun/iptv/6QECVVUC7SQUSC/31878/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",M+ Golf 2 HD ES    
+http://d57e9eeb.kazaktelekom.com/iptv/Y37W4QZF2XTZ6QNRFXEZMY6X/31878/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",M+ Golf 2 HD ES    
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31878/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",M+ Golf 2 HD ES    
+http://d56664ef.kazaktelekom.com/iptv/7PV43BXZ9XEN88P4A88E8HBV/31878/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",M+ Golf 2 HD ES    
+http://b35530d5.kazaktelekom.com/iptv/EAMZWV3TFEVWL3/31878/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",M+ Golf 2 HD ES    
+http://e5b2a725.kazaktelekom.com/iptv/EMWXZNVZ7CG7RH/31878/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",M+ Golf 2 HD ES    
+http://cthutq13.kazaktelekom.com/iptv/Q2CMP8BPU7VYTFR3BUKZDFR4/31878/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",M+ Golf 2 HD ES    
+http://d7f5a407.kazaktelekom.com/iptv/CYGAE7R9F42LUB/31878/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",M+ Golf 2 HD ES    
+http://4369ebe9.kazaktelekom.com/iptv/DBCQZVNTEKV3PM/31878/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",M+ Golf 2 HD ES    
+http://acd168fd.kazaktelekom.com/iptv/B2K5AN96BTGKWZEXVA5A65DU/31878/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",M+ Golf 2 HD ES    
+http://47bce011.kazaktelekom.com/iptv/D57DXXPP469XZ2/31878/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",M+ Golf ES  
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/6075/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",M+ Golf ES  
+http://50c5c2f7.kazmazpaz.org/iptv/6A6GZ4R66BG7T67Q3MN3VLMT/6075/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",M+ Golf ES  
+http://50c5c2f7.kazmazpaz.org/iptv/53SN9A7HGA7BV8/6075/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",M+ Golf ES  
+http://3db7a891.kartoshkaka.ru/iptv/VRTC2LAHBSG2YS/6075/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",M+ Golf ES  
+http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/6075/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",M+ Golf ES  
+http://wu6o1ur9.megatv.fun/iptv/33RWU7D7E7Z2VG/6075/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",M+ Golf ES  
+http://iyh5mlxw.klaipedalt.org/iptv/HSD8UEK6E2AENH/6075/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",M+ Golf ES  
+http://32518a56.machkalan.ru/iptv/XP8SBECFCV6X3Q/6075/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",M+ Golf ES  
+http://timk7ypx.lunexas.top/iptv/P4WDDSHKH7M3A9/6075/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",M+ Golf ES  
+http://54fytrui.dienalt.org/iptv/ZBE628EP2BYBP5/6075/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",M+ Golf ES  
+http://ac5f81e9.krasnafhg.ru/iptv/D9BC6XPYWMW2EPDGFQ5MNNFE/6075/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",M+ Golf ES  
+http://68a1eddf.suklakakl.ru/iptv/9LDQ87VWPTW4LH/6075/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",M+ Golf ES  
+http://c401060e.edemist.com/iptv/EALSZW4ETTMUPS/6075/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",M+ Golf ES  
+http://lbx0hyzs.nexeraso.top/iptv/L7BU8TTPL73T8LQHW7MYBXZ3/6075/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",M+ Golf ES  
+http://vz2tmkdw.otttv.pw/iptv/KE2C82KZRQGEC4/6075/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",M+ Golf ES  
+http://t49rvy2n.ottclub.xyz/iptv/VAU8656NGQ3EH65RVBWZ85PF/6075/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",M+ Golf ES  
+http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/6075/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",M+ Golf ES  
+http://khalid.ottrast.com/iptv/9XRQY39QKZPFFG/6075/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",M+ Golf ES  
+http://7f45d932.ottolok.net/iptv/YYNF7B4CUGPTQY/6075/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",M+ Golf ES  
+http://y3fqd48g.megatv.fun/iptv/5PEDN3VA439B8KTVXUL7LXBR/6075/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",M+ Golf ES  
+http://65aa3878.edemist.com/iptv/72KTA63QZYEQRS/6075/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",M+ Golf ES  
+http://758774d3.kazaktelekom.com/iptv/26DSRE9Z7VD8NV/6075/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",M+ Golf ES  
+http://1fya27im.zyntras.top/iptv/EBBDX25MF7G6MC/6075/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",M+ Golf ES  
+http://xhgl9mnv.megatv.fun/iptv/RDXD2KKG257QK5/6075/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",M+ Golf ES  
+http://fc1qlunj.tvclub.xyz/iptv/275EP3V8V4MZHG8KQGLFDPSK/6075/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",M+ Golf ES    
+http://lutik.kazaktelekom.com/iptv/UWYR8B7C6URZM3EAR5Z5GCFP/6075/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",M+ Golf ES    
+http://5bd98e0c.kazaktelekom.com/iptv/UQBUXP7ZGEMQ5P/6075/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",M+ Golf ES    
+http://32518a56.machkalan.ru/iptv/FYVHPP8EW4GBS5/6075/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",M+ Golf HD ES  
+http://vadimka1.rossteleccom.net/iptv/USNLREALA72Y3T/31844/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",M+ Golf HD ES  
+http://3db7a891.kartoshkaka.ru/iptv/SCWLD8275RXLQ8/31844/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",M+ Golf HD ES  
+http://3db7a891.kartoshkaka.ru/iptv/VRTC2LAHBSG2YS/31844/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",M+ Golf HD ES  
+http://c66f3225.kazmazpaz.ru/iptv/GY2RQ3KPZQVWCU/31844/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",M+ Golf HD ES  
+http://54fytrui.dienalt.org/iptv/LQ6QKXZBKK7RNM/31844/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",M+ Golf HD ES  
+http://lbx0hyzs.nexeraso.top/iptv/L7BU8TTPL73T8LQHW7MYBXZ3/31844/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",M+ Golf HD ES  
+http://v5yxxgnc.ottclub.xyz/iptv/RSMK3M249QP2BL/31844/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",M+ Golf HD ES    
+http://ilookdbronx.megatv.fun/iptv/6QECVVUC7SQUSC/31844/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",M+ Golf HD ES    
+http://rtsxb2la.megatv.fun/iptv/SPVHTAGZY6ZM7C/31844/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",M+ Golf HD ES11  
+http://i0ckghar.otttv.pw/iptv/FFNN3S9DFEX5SCZMRNY2SH3P/31844/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",M+ Golf HD ES20  
+http://uvg0ga35.tvclub.xyz/iptv/33RWU7D7E7Z2VG/31844/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Movistar Golf HD ES  
+http://acfyhqeg.akciatv.ru/iptv/BQETB7GS453AKA/6075/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",MS GOLF 1 FHD  
+http://tr.babo01.com:8080/@Emrah54/@SakaryA/867879
+#EXTINF:0 group-title="GOLF Live17Nov",MS GOLF 1 FHD  
+http://tr.babo01.com:8080/@Karsten/@Meise/867879
+#EXTINF:0 group-title="GOLF Live17Nov",MS GOLF 1 HD  
+http://tr.babo01.com:8080/@Karsten/@Meise/867880
+#EXTINF:0 group-title="GOLF Live17Nov",MS GOLF 1 HD  
+http://tr.babo01.com:8080/@Emrah54/@SakaryA/867880
+#EXTINF:0 group-title="GOLF Live17Nov",MS GOLF 2 FHD  
+http://tr.babo01.com:8080/@Karsten/@Meise/867877
+#EXTINF:0 group-title="GOLF Live17Nov",MS GOLF 2 FHD  
+http://tr.babo01.com:8080/@Emrah54/@SakaryA/867877
+#EXTINF:0 group-title="GOLF Live17Nov",MS GOLF 2 HD  
+http://tr.babo01.com:8080/@Karsten/@Meise/867878
+#EXTINF:0 group-title="GOLF Live17Nov",MS GOLF 2 HD  
+http://tr.babo01.com:8080/@Emrah54/@SakaryA/867878
+#EXTINF:0 group-title="GOLF Live17Nov",MY: GOLF CHANNEL  
+http://31.43.191.125:8080/vip9731767352167/2238456883f4/34613
+#EXTINF:0 group-title="GOLF Live17Nov",PL: GOLF ZONE  
+http://31.43.191.125:8080/vip8451787127988/cdf29aaa9bc1/953
+#EXTINF:0 group-title="GOLF Live17Nov",SBS Golf  
+http://124.222.153.240/kakaotv/get_channel.php?channel=sbs_golf#.m3u8
+
+#EXTINF:0 group-title="GOLF Live17Nov",Sky Sport Golf HD DE  
+http://paexzosk.otttv.pw/iptv/N38U657879GPVVDFAYZ26AX5/5043/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Sky Sport Golf HD DE  
+http://d7e289ab.edmonst.net/iptv/Y64FMSPU68BNV2/5043/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Sky Sport Golf HD DE  
+http://9d33a541.ucomist.net/iptv/LX5XP9Q4LAY25EPEELQBVCTS/5043/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Sky Sport Golf HD DE  
+http://dff13dfa.ottrast.com/iptv/HC4N5S599E8CWK/5043/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Sky Sport Golf HD DE  
+http://lbx0hyzs.nexeraso.top/iptv/L7BU8TTPL73T8LQHW7MYBXZ3/5043/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Sky Sport Golf HD DE  
+http://3db7a891.kartoshkaka.ru/iptv/VRTC2LAHBSG2YS/5043/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Sky Sport Golf HD DE  
+http://f9ohqcqv.megogo.xyz/iptv/WKH4UCY7ZDL84NDB8RLC3ZXS/5043/index.m3u
+#EXTINF:0 group-title="GOLF Live17Nov",Sky Sport Golf HD DE  
+http://54fytrui.dienalt.org/iptv/LQ6QKXZBKK7RNM/5043/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Sky Sport Golf HD DE  
+http://iyh5mlxw.klaipedalt.org/iptv/38KCLU4X4D9KL495GVMAWNPH/5043/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Sky Sport Golf HD DE  
+http://nuzacecq.lunexas.top/iptv/VFELB2T7Q5SP52/5043/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Sky Sport Golf HD DE  
+http://lutik.kazaktelekom.com/iptv/UWYR8B7C6URZM3EAR5Z5GCFP/5043/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Sky Sport Golf HD DE  
+http://c66f3225.kazmazpaz.ru/iptv/GY2RQ3KPZQVWCU/5043/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Sky Sport Golf HD DE  
+http://f4220e44.krasnafhg.ru/iptv/R8NWCD8LXTYMK7/5043/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Sky Sport Golf HD DE  
+http://28ee3a6f.kablakaka.ru/iptv/7FLHKDDHRCWEE8/5043/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Sky Sport Golf HD DE  
+http://rtsxb2la.megatv.fun/iptv/SPVHTAGZY6ZM7C/5043/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Sky Sport Golf HD DE  
+http://khalid.ottrast.com/iptv/9XRQY39QKZPFFG/5043/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Sky Sport Golf HD DE  
+http://b639b845.otttv.pw/iptv/F5GDYXTUM2QBV3/5043/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Sky Sport Golf HD DE  
+http://bk1r4ly2.virelloso.top/iptv/VAU8656NGQ3EH65RVBWZ85PF/5043/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Sky Sport Golf HD DE  
+http://5sybvbdj.ottclub.xyz/iptv/AVNFCNQBEC9VQU/5043/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Sky Sport Golf HD DE  
+http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/5043/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Sky Sport Golf HD DE  
+http://iwdpuuis.socminlt.com/iptv/M9MN473ULZPRPW/5043/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Sky Sport Golf HD DE  
+http://b35530d5.kazaktelekom.com/iptv/EAMZWV3TFEVWL3/5043/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Sky Sport Golf HD DE  
+http://xv5myned.otttv.pw/iptv/ZFMBTT94BTSVQMFVDASEV6XS/5043/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Sky Sport Golf HD DE  
+http://tqw3yctd.ottclub.xyz/iptv/HHUDGU7E3N2U55YMS69GAK8H/5043/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Sky Sport Golf HD DE  
+http://tjsgvfzc.lunexas.top/iptv/HHUDGU7E3N2U55YMS69GAK8H/5043/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Sky Sport Golf HD DE  
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/5043/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Sky Sport Golf HD DE    
+http://timk7ypx.lunexas.top/iptv/P4WDDSHKH7M3A9/5043/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Sky Sport Golf HD DE    
+http://iyh5mlxw.klaipedalt.org/iptv/H9APP9BNY3LCP8/5043/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Sky Sport Golf HD DE    
+http://aa11bab1.megatv.fun/iptv/Y64FMSPU68BNV2/5043/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Sky Sport Golf HD DE    
+http://fe3d3e4f.kazaktelekom.com/iptv/FG5EGGEU2X7RLWZFG9VQARNY/5043/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Sky Sport Golf HD DE    
+http://4b053c51.kazaktelekom.com/iptv/KQTSK88YKQKEEE/5043/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Sky Sport Golf HD DE20  
+http://d4c32486.ucomist.net/iptv/LVFGLXHUW45A8PBECGUURD6K/5043/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Sky Sport Golf HD DE21  
+http://uvg0ga35.tvclub.xyz/iptv/33RWU7D7E7Z2VG/5043/index.m3u8
+
+#EXTINF:0 group-title="GOLF Live17Nov",Sky Sports Mix UK  
+http://3db7a891.kartoshkaka.ru/iptv/N7H9M3GCUWG5LN2AFN9D7ZBB/9293/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Sky Sports Mix UK   
+http://mjgqifcx.lunexas.top/iptv/ERM6K5D369UQBY/9293/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Sky Sports Mix UK  
+http://iyh5mlxw.klaipedalt.org/iptv/H9APP9BNY3LCP8/9293/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Sky Sports Mix UK  
+http://timk7ypx.lunexas.top/iptv/P4WDDSHKH7M3A9/9293/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Sky Sports Mix UK  
+http://wu6o1ur9.megatv.fun/iptv/33RWU7D7E7Z2VG/9293/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Sky Sports Golf HD 50 UK  
+http://c66f3225.kazmazpaz.ru/iptv/GY2RQ3KPZQVWCU/9293/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Sky Sports Golf HD 50 UK  
+http://jitzck3l.alfalt.fun/iptv/2C8SDFXMMW67FC/9293/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Sky Sports Golf HD 50 UK  
+http://t49rvy2n.ottclub.xyz/iptv/VAU8656NGQ3EH65RVBWZ85PF/9293/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Sky Sports Golf HD 50 UK  
+http://xv5myned.otttv.pw/iptv/ZFMBTT94BTSVQMFVDASEV6XS/9293/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Sky Sports Golf HD 50 UK  
+http://bd46906a.edemist.com/iptv/7TLM6FFAYGGL4N/9293/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Sky Sports Golf HD 50 UK    
+http://f4220e44.krasnafhg.ru/iptv/R8NWCD8LXTYMK7/9293/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Sky Sports Golf HD 50 UK    
+http://lutik.kazaktelekom.com/iptv/UWYR8B7C6URZM3EAR5Z5GCFP/9293/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Sky Sports Golf HD 50 UK    
+http://aa11bab1.megatv.fun/iptv/Y64FMSPU68BNV2/9293/index.m3u8
+
+#EXTINF:0 group-title="GOLF Live17Nov",Sport Klub Golf HR  
+http://9d33a541.ucomist.net/iptv/LX5XP9Q4LAY25EPEELQBVCTS/7277/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Sport Klub Golf HR  
+http://f9ohqcqv.megogo.xyz/iptv/WKH4UCY7ZDL84NDB8RLC3ZXS/7277/index.m3u
+#EXTINF:0 group-title="GOLF Live17Nov",Sport Klub Golf HR  
+http://3db7a891.kartoshkaka.ru/iptv/VRTC2LAHBSG2YS/7277/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Sport Klub Golf HR  
+http://28ee3a6f.kablakaka.ru/iptv/7FLHKDDHRCWEE8/7277/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Sport Klub Golf HR  
+http://32518a56.machkalan.ru/iptv/DM5Z5ZG799WVM2/7277/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Sport Klub Golf HR  
+http://32518a56.machkalan.ru/iptv/F5GDYXTUM2QBV3/7277/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Sport Klub Golf HR  
+http://306eaec4.edmonst.net/iptv/KZS7B6N7U3WHHWLTDNAV7AZ5/7277/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Sport Klub Golf HR  
+http://a76bb802.akadatel.com/iptv/XLLWS47TLMFBMWCP56MEZD43/7277/index.m3u
+#EXTINF:0 group-title="GOLF Live17Nov",Sport Klub Golf HR  
+http://wu6o1ur9.megatv.fun/iptv/33RWU7D7E7Z2VG/7277/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Sport Klub Golf HR  
+http://50c5c2f7.kazmazpaz.org/iptv/6A6GZ4R66BG7T67Q3MN3VLMT/7277/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Sport Klub Golf HR  
+http://tf4s9b8t.velstraso.top/iptv/4P8RER8PRLFTYC6C3HLESQXB/7277/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Sport Klub Golf HR  
+http://tf4s9b8t.velstraso.top/iptv/VAU8656NGQ3EH65RVBWZ85PF/7277/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Sport Klub Golf HR  
+http://bd46906a.edemist.com/iptv/7TLM6FFAYGGL4N/7277/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Sport Klub Golf HR  
+http://vadimka1.rossteleccom.net/iptv/USNLREALA72Y3T/7277/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Sport Klub Golf HR  
+http://sahri4x5.tvclub.xyz/iptv/MMMNMXMBCGWMZQ/7277/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Sport Klub Golf HR  
+http://3db7a891.kartoshkaka.ru/iptv/SCWLD8275RXLQ8/7277/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Sport Klub Golf HR  
+http://elnh9osy.russtv.net/iptv/U8VGFNCKR4XDKSAHAQHEW37N/7277/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Sport Klub Golf HR  
+http://54fytrui.dienalt.org/iptv/ZBE628EP2BYBP5/7277/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Sport Klub Golf HR  
+http://rtsxb2la.megatv.fun/iptv/SPVHTAGZY6ZM7C/7277/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Sport Klub Golf HR  
+http://qe7abbli.megatv.fun/iptv/2VLF3G39GK7LBH/7277/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Sport Klub Golf HR  
+http://5bd98e0c.kazaktelekom.com/iptv/UQBUXP7ZGEMQ5P/7277/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Sport Klub Golf HR  
+http://062392e2.ottolok.net/iptv/YQQA7VC8267GXG75EM7QN79S/7277/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Sport Klub Golf HR  
+http://t49rvy2n.ottclub.xyz/iptv/VAU8656NGQ3EH65RVBWZ85PF/7277/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Sport Klub Golf HR  
+http://bk1r4ly2.virelloso.top/iptv/VAU8656NGQ3EH65RVBWZ85PF/7277/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Sport Klub Golf HR  
+http://lbx0hyzs.nexeraso.top/iptv/L7BU8TTPL73T8LQHW7MYBXZ3/7277/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Sport Klub Golf HR  
+http://je7stli5.tvclub.xyz/iptv/UWYR8B7C6URZM3EAR5Z5GCFP/7277/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Sport Klub Golf HR  
+http://jitzck3l.alfalt.fun/iptv/2C8SDFXMMW67FC/7277/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Sport Klub Golf HR  
+http://paexzosk.otttv.pw/iptv/N38U657879GPVVDFAYZ26AX5/7277/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Sport Klub Golf HR  
+http://redalert.rossteleccom.net/iptv/458MPWD8UEBKE9/7277/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Sport Klub Golf HR  
+http://dff13dfa.ottrast.com/iptv/HC4N5S599E8CWK/7277/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Sport Klub Golf HR  
+http://acfyhqeg.akciatv.ru/iptv/2B66LP3XUDST6T2SN3UAUUHR/7277/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Sport Klub Golf HR  
+http://b639b845.otttv.pw/iptv/F5GDYXTUM2QBV3/7277/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Sport Klub Golf HR 
+http://wu6o1ur9.megatv.fun/iptv/5RE3AXHR8394T4/7277/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Sport Klub Golf HR 
+http://lutik.kazaktelekom.com/iptv/UWYR8B7C6URZM3EAR5Z5GCFP/7277/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Sport Klub Golf HR 
+http://32518a56.machkalan.ru/iptv/FYVHPP8EW4GBS5/7277/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Sport Klub Golf HR 
+http://c66f3225.kazmazpaz.ru/iptv/GY2RQ3KPZQVWCU/7277/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Sport Klub Golf HR 
+http://nuzacecq.lunexas.top/iptv/VFELB2T7Q5SP52/7277/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Sport Klub Golf HR 
+http://einhywoc.lunexas.top/iptv/74BMFRC6QVM6QK/7277/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",SPOTV Golf & Health 
+http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_golf_health#.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",TV Golfo Uraba 
+https://stmv7.voxtvhd.com.br/golfo/golfo/playlist.m3u8
+
+#EXTINF:0 group-title="GOLF Live17Nov",USA: GOLF CHANNEL (L)
+http://smar8-tv.xyz:8880/at80@sb13.org/uuRucKWT3d/89443
+#EXTINF:0 group-title="GOLF Live17Nov",V Sport Golf HD SK 
+http://f4220e44.krasnafhg.ru/iptv/R8NWCD8LXTYMK7/32024/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",V Sport Golf HD SK  
+http://c66f3225.kazmazpaz.ru/iptv/GY2RQ3KPZQVWCU/32024/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",V Sport Golf HD SK  
+http://bk1r4ly2.virelloso.top/iptv/VAU8656NGQ3EH65RVBWZ85PF/32024/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",V Sport Golf HD SK  
+http://54fytrui.dienalt.org/iptv/ZBE628EP2BYBP5/32024/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",V Sport Golf HD SK  
+http://wu6o1ur9.megatv.fun/iptv/5RE3AXHR8394T4/32024/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",V Sport Golf HD SK  
+http://a76bb802.akadatel.com/iptv/XLLWS47TLMFBMWCP56MEZD43/32024/index.m3u
+#EXTINF:0 group-title="GOLF Live17Nov",V Sport Golf HD SK    
+http://28ee3a6f.kablakaka.ru/iptv/7FLHKDDHRCWEE8/32024/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",V Sport Golf SE  
+http://ybk5mmr2.russtv.net/iptv/FM2YENVSTBPDB8TVMWRDHWGP/12077/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",V Sport Golf SE  
+http://vadimka1.rossteleccom.net/iptv/USNLREALA72Y3T/12077/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",V Sport Golf SE  
+http://d7e289ab.edmonst.net/iptv/Y64FMSPU68BNV2/12077/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",V Sport Golf SE  
+http://f9ohqcqv.megogo.xyz/iptv/WKH4UCY7ZDL84NDB8RLC3ZXS/12077/index.m3u
+#EXTINF:0 group-title="GOLF Live17Nov",V Sport Golf SE  
+http://3db7a891.kartoshkaka.ru/iptv/SCWLD8275RXLQ8/12077/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",V Sport Golf SE  
+http://54fytrui.dienalt.org/iptv/ZBE628EP2BYBP5/12077/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",V Sport Golf SE  
+http://54fytrui.dienalt.org/iptv/2BSF2D3GSRTAVM4ABSQG3GYX/12077/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",V Sport Golf SE  
+http://iyh5mlxw.klaipedalt.org/iptv/38KCLU4X4D9KL495GVMAWNPH/12077/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",V Sport Golf SE  
+http://ogrluijm.megatv.fun/iptv/LQ6QKXZBKK7RNM/12077/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",V Sport Golf SE  
+http://fe3d3e4f.kazaktelekom.com/iptv/FG5EGGEU2X7RLWZFG9VQARNY/12077/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",V Sport Golf SE  
+http://lnzb2mvw.megatv.fun/iptv/SPVHTAGZY6ZM7C/12077/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",V Sport Golf SE  
+http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/12077/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",V Sport Golf SE  
+http://68a1eddf.suklakakl.ru/iptv/9LDQ87VWPTW4LH/12077/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",V Sport Golf SE  
+http://je7stli5.tvclub.xyz/iptv/UWYR8B7C6URZM3EAR5Z5GCFP/12077/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",V Sport Golf SE  
+http://dc24261a.ucomist.net/iptv/AVNFCNQBEC9VQU/12077/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",V Sport Golf SE  
+http://jitzck3l.alfalt.fun/iptv/2C8SDFXMMW67FC/12077/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",V Sport Golf SE  
+http://paexzosk.otttv.pw/iptv/N38U657879GPVVDFAYZ26AX5/12077/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",V Sport Golf SE  
+http://acfyhqeg.akciatv.ru/iptv/2B66LP3XUDST6T2SN3UAUUHR/12077/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",V Sport Golf SE  
+http://ycxpgdbz.ottclub.xyz/iptv/N7H9M3GCUWG5LN2AFN9D7ZBB/12077/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",V Sport Golf SE  
+http://bk1r4ly2.virelloso.top/iptv/VAU8656NGQ3EH65RVBWZ85PF/12077/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",V Sport Golf SE  
+http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/12077/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",V Sport Golf SE  
+http://tf4s9b8t.velstraso.top/iptv/VAU8656NGQ3EH65RVBWZ85PF/12077/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",V Sport Golf SE  
+http://tf4s9b8t.velstraso.top/iptv/4P8RER8PRLFTYC6C3HLESQXB/12077/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",V Sport Golf SE  
+http://iwdpuuis.socminlt.com/iptv/M9MN473ULZPRPW/12077/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",V Sport Golf SE  
+http://i0ckghar.otttv.pw/iptv/FFNN3S9DFEX5SCZMRNY2SH3P/12077/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",V Sport Golf SE
+http://heffiz.amazzin.pw/iptv/PRD4WPRUDE2EUQ/12077/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",V Sport Golf SE 
+http://xv5myned.otttv.pw/iptv/ZFMBTT94BTSVQMFVDASEV6XS/12077/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",V Sport Golf SE 
+http://ul7satsn.ottclub.xyz/iptv/BL5FEWMS5UETHN66HTBAZN2R/12077/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",V Sport Golf SE 
+http://cb903f0d.cbilant.com/iptv/NL8AFWHTBC2LEK/12077/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",V Sport Golf SE 
+http://28ee3a6f.kablakaka.ru/iptv/7FLHKDDHRCWEE8/12077/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",V Sport Golf SE 
+http://iyh5mlxw.klaipedalt.org/iptv/H9APP9BNY3LCP8/12077/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",V Sport Golf SE 
+http://28ee3a6f.kablakaka.ru/iptv/7SNG7VT8GNURP6/12077/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",V Sport Golf SE 
+http://3db7a891.kartoshkaka.ru/iptv/9H8BWF6YYTVH5DZ2EU9W4XYE/12077/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",V Sport Golf SE 
+http://f4220e44.krasnafhg.ru/iptv/R8NWCD8LXTYMK7/12077/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",V Sport Golf SE 
+http://c66f3225.kazmazpaz.ru/iptv/GY2RQ3KPZQVWCU/12077/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",V Sport Golf SE 
+http://32518a56.machkalan.ru/iptv/FYVHPP8EW4GBS5/12077/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",V Sport Golf SE 
+http://timk7ypx.lunexas.top/iptv/P4WDDSHKH7M3A9/12077/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",V Sport Golf SE 
+http://pd0ib21f.megatv.fun/iptv/TKX47DLQZUWNEZNLS5A973ZU/12077/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",V Sport Golf SE 
+http://0etdvjuu.lunexas.top/iptv/AUEE8M23ZRE6UP/12077/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",V Sport Golf SE 
+http://wu6o1ur9.megatv.fun/iptv/33RWU7D7E7Z2VG/12077/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",V Sport Golf SE 
+http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/12077/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",V Sport Golf SE 
+http://wu6o1ur9.megatv.fun/iptv/5RE3AXHR8394T4/12077/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",V Sport Golf SE 
+http://ilookdbronx.megatv.fun/iptv/6QECVVUC7SQUSC/12077/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",V Sport Golf SE 
+http://qe7abbli.megatv.fun/iptv/FUAEYSSZZ4VLP4/12077/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",V Sport Golf SE 
+http://b35530d5.kazaktelekom.com/iptv/EAMZWV3TFEVWL3/12077/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",V Sport Golf SE 
+http://ac5f81e9.krasnafhg.ru/iptv/H2D2PZRSF54ZEE/12077/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",V Sport Golf SE 
+http://ac5f81e9.krasnafhg.ru/iptv/D9BC6XPYWMW2EPDGFQ5MNNFE/12077/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",V Sport Golf SE 
+http://ac5f81e9.krasnafhg.ru/iptv/9MSM7C9DAAU53WUVEM8CLGCG/12077/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",V Sport Golf SE 
+http://d56664ef.kazaktelekom.com/iptv/7PV43BXZ9XEN88P4A88E8HBV/12077/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",V Sport Golf SE 
+http://696a00e0.kazaktelekom.com/iptv/E5R9G9N6MTC7XV7BA98X4223/12077/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",V Sport Golf SE 
+http://e5b2a725.kazaktelekom.com/iptv/EMWXZNVZ7CG7RH/12077/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Viasat Golf HD SK 
+http://ul7satsn.ottclub.xyz/iptv/BL5FEWMS5UETHN66HTBAZN2R/32024/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Viasat Golf HD SK 
+http://je7stli5.tvclub.xyz/iptv/UWYR8B7C6URZM3EAR5Z5GCFP/32024/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",VIASAT SPORT GOLF HD SE
+http://sahri4x5.tvclub.xyz/iptv/MMMNMXMBCGWMZQ/12077/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Ziggo Sport Golf NL 
+http://acfyhqeg.akciatv.ru/iptv/2Q4RBSN8XCUHSU/2559/index.m3u8
+#EXTINF:0 group-title="GOLF Live17Nov",Ziggo Sport Golf NL 
+http://sahri4x5.tvclub.xyz/iptv/MMMNMXMBCGWMZQ/2559/index.m3u8
