@@ -5,6 +5,12 @@
 http://ru1.plist.link:3355/HNruN257Trd4306/index.m3u8?token=uoteoIi858gcp9QknOHferZcahcUUlN-VM1KJ6r1q7rie7JgpMI5UfiQGJ1qBYdA.tg5643136335
 #EXTINF:0 group-title="EU | UK | SPORTS",SKY SPORTS GOLF HD UK
 http://31.43.191.125:8080/vip8451787127988/cdf29aaa9bc1/1669
+#EXTINF:0 group-title="EU | UK | SPORTS",Sky Sport Golf HD DE
+http://drpy7wkh.megogo.xyz/iptv/AX3FREAB943LM2DEA4GKDQHF/5043/index.m3u8
+#EXTINF:0 group-title="EU | UK | SPORTS",Sport Klub Golf HR
+http://drpy7wkh.megogo.xyz/iptv/AX3FREAB943LM2DEA4GKDQHF/7277/index.m3u8
+#EXTINF:0 group-title="EU | UK | SPORTS",M+ Golf ES
+http://drpy7wkh.megogo.xyz/iptv/AX3FREAB943LM2DEA4GKDQHF/6075/index.m3u8
 #EXTINF:0 group-title="EU | UK | SPORTS",SKY SPORTS GOLF UK
 http://31.43.191.125:8080/vip9731767352167/2238456883f4/1669
 #EXTINF:0 group-title="EU | UK | SPORTS",SKY SPORT GOLF UK
@@ -313,12 +319,21 @@ http://line.shadowbest.org:80/79cdce7aa7/75167e3a4bb5/425667
 http://line.shadowbest.org:80/79cdce7aa7/75167e3a4bb5/1905854
 #EXTINF:-1 group-title="GOLF TỔNG HỢP",UK-SKY SPORTS GOLF HD
 http://line.shadowbest.org:80/79cdce7aa7/75167e3a4bb5/1905855
+
 #EXTINF:-1  tvg-name="﻿US Bloomberg" tvg-id="﻿bloombergtv.us" tvg-logo="﻿https://www.flirtey.com/wp-content/uploads/2018/04/bloomberg-logo.png" group-title="WORLD NEWS",﻿Bloomberg TV+ (2160p)
 https://d8975dc3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9CbG9vbWJlcmdUVlBsdXNfSExT/playlist.m3u8
 #EXTINF:-1  tvg-name="﻿US Bloomberg" tvg-id="﻿bloombergtv.us" tvg-logo="﻿https://www.flirtey.com/wp-content/uploads/2018/04/bloomberg-logo.png" group-title="WORLD NEWS",﻿Bloomberg TV (1080p)
 http://23.237.104.106:8080/USA_BLOOMBERG/index.m3u8
 #EXTINF:-1 group-title="WORLD NEWS" tvg-logo="https://go4.pw/USA/CNN.png",CNN International UHD-DE ◉
 http://74214be9.edemist.com/iptv/KANKBLUDA77CA22LB5AVK7G8/31301/index.m3u8
+#EXTINF:0 tvg-id="438" tvg-logo="http://epg.cdntv.online/img/438.png" group-title="WORLD NEWS", CNN International
+http://u.vipl.one/high/67ik3twp8x/438.m3u8
+#EXTINF:0 tvg-id="438" tvg-logo="http://epg.cdntv.online/img/438.png" group-title="WORLD NEWS", CNN International
+http://u.vipl.one/high/putkbxz38h/438.m3u8
+#EXTINF:0 group-title="WORLD NEWS" tvg-rec="0",CNN HD CA-US
+http://ahz1seig.lunexas.top/iptv/5PEDN3VA439B8KTVXUL7LXBR/6538/index.m3u8
+#EXTINF:0 group-title="WORLD NEWS" tvg-rec="0",CNN HD CA-US
+http://xnd4z1yi.zyntras.top/iptv/8CRSD2LYR34LUNV9NTWAURPS/6538/index.m3u8
 #EXTINF:-1 group-title="WORLD NEWS" tvg-logo="https://go4.pw/VIP/4k_ultra.png",CNN 4K US
 http://engui.us:80/04HE79JCQ8G43EM/ol5mFuRpRZ/1287086
 #EXTINF:-1 group-title="WORLD NEWS" tvg-logo="https://go4.pw/EUROPE/SPAIN/cnn.png",CNN HD UK
@@ -521,56 +536,32 @@ http://engui.us:80/FAAFC9C68DC0D00/4BZwT6oYkz/521106
 http://servicepro4.shop:80/5385862981D5179/ypvEHME3vZ/521106
 #EXTINF:-1 group-title="CBS SPORTS" tvg-logo="https://go4.pw/usa/Cbs_Sports_Golazo_Network_Hd.png",US - CBS SPORTS GOLAZO NETWORK HD ◉
 http://engui.us:80/7BVKRJ5F9X9UG9G/z9fIzlRTnX/521106
-#EXTINF:0 group-title="SKY SPOTS UK", UK: Sky Sports Premier League HD 50fps
-http://6.team.ga:80/ch2451/mono.m3u8?token=falcondemo66.l6YUaNOCFBgitSMyt6I2NPlCL7RQWmLL7Dol4zm3AGa6F5hC8Z5cTfqtfsQCksNk
-#EXTINF:0 group-title="SKY SPOTS UK",UK: Sky Sports Premier League HD
-http://6.team.ga:80/ch1554/mono.m3u8?token=falcondemo66.l6YUaNOCFBgitSMyt6I2NHHreNfdHlSENRl-jc7pifPewELqHdXlR_1i6qeWJ9z5
-#EXTINF:0 group-title="SKY SPOTS UK",UK: Sky Sports News HD 50fps
-http://6.team.ga:80/ch2450/mono.m3u8?token=falcondemo66.l6YUaNOCFBgitSMyt6I2NDSgThqi2SeWTPJkukeO_5pcjdOjBo9BqkKQxCF8b_IY
-#EXTINF:0 group-title="SKY SPOTS UK",UK: Sky Sports News HD
-http://6.team.ga:80/ch1061/mono.m3u8?token=falcondemo66.l6YUaNOCFBgitSMyt6I2NCnV1gqQbJSvLUQy3s6HKTn7Aon9KdTD03B7ICN5EQKi
-#EXTINF:0 group-title="SKY SPOTS UK",UK: Sky Sports Football HD 50fps
-http://6.team.ga:80/ch2446/mono.m3u8?token=falcondemo66.l6YUaNOCFBgitSMyt6I2NCKJt1Am5IHhOq336ma44vroN2SlZ7diDs7yOHm1PSQn
-#EXTINF:0 group-title="SKY SPOTS UK",UK: Sky Sports Football HD
-http://6.team.ga:80/ch314/mono.m3u8?token=falcondemo66.l6YUaNOCFBgitSMyt6I2NAWgsu7TLPzJFEeRqnrIcuhTXGBUmf0NgcfkauYT8tmo
-#EXTINF:0 group-title="SKY SPOTS UK",UK: Sky Sports Mix HD 50fps
-http://6.team.ga:80/ch2449/mono.m3u8?token=falcondemo66.l6YUaNOCFBgitSMyt6I2NIunjup-nmowTW4KAikhz8wGLmbVJM-3sMOrKcR_cArG
-#EXTINF:0 group-title="SKY SPOTS UK",UK: Sky Sports Mix HD
-http://6.team.ga:80/ch234/mono.m3u8?token=falcondemo66.l6YUaNOCFBgitSMyt6I2NEITs8Sth13H6xTdcfbKPATwnNkTt29oiOX2QACHb3bD
-#EXTINF:0 group-title="SKY SPOTS UK",UK: Sky Sports Cricket HD 50fps
-http://6.team.ga:80/ch2444/mono.m3u8?token=falcondemo66.l6YUaNOCFBgitSMyt6I2NMGVU7pk2p9bK7M7xBxxrCLLo1fSUY1ZbFpfNXqoakxj
-#EXTINF:0 group-title="SKY SPOTS UK",UK: Sky Sports Cricket HD
-http://6.team.ga:80/ch235/mono.m3u8?token=falcondemo66.l6YUaNOCFBgitSMyt6I2NHYGzH-qIRTV2ppNu2mHLzZvr5ATw5vbu5G-DV1-pGaF
-#EXTINF:0 group-title="SKY SPOTS UK",UK: Sky Sports Main Event UHD
-http://6.team.ga:80/ch1508/mono.m3u8?token=falcondemo66.l6YUaNOCFBgitSMyt6I2NMXMmrpPAAz9422zy1HEBpg2pa-7OG5XDUPqNbjv_aN5
-#EXTINF:0 group-title="SKY SPOTS UK",Sky UK: Sports Main Event HD 50fps
-http://6.team.ga:80/ch2448/mono.m3u8?token=falcondemo66.l6YUaNOCFBgitSMyt6I2NMWhLEhFzFytGGn-TZm1XvFWAbKj1K5s-m8g3I36hk3R
-#EXTINF:0 group-title="SKY SPOTS UK",UK: Sky Sports Main Event HD
-http://6.team.ga:80/ch335/mono.m3u8?token=falcondemo66.l6YUaNOCFBgitSMyt6I2NG2FM-CMYE1OW3bIwn6q5HaRO2pTUTWtY0P0qQPXezEa
-#EXTINF:0 group-title="SKY SPOTS UK",UK: Sky Sports Golf HD 50fps
-http://6.team.ga:80/ch2447/mono.m3u8?token=falcondemo66.l6YUaNOCFBgitSMyt6I2NP4wCzD6T_omZ91sC20vVW1QQcMpFd549HDDtouz1zia
-#EXTINF:0 group-title="SKY SPOTS UK",UK: Sky Sports Golf HD
-http://6.team.ga:80/ch306/mono.m3u8?token=falcondemo66.l6YUaNOCFBgitSMyt6I2NHTuCYZZ_osaLo93VgYDXLvEnEQ8ENz7-HqGNkX6ofNg
-#EXTINF:0 group-title="SKY SPOTS UK",UK: Sky Sports Racing HD 50fps
-http://6.team.ga:80/ch2452/mono.m3u8?token=falcondemo66.l6YUaNOCFBgitSMyt6I2NN_tUPmSQKVfGThq6zJi01p73seUY0u8I8Edm4DXmW0t
-#EXTINF:0 group-title="SKY SPOTS UK",UK: Sky Sports Racing HD
-http://6.team.ga:80/ch1100/mono.m3u8?token=falcondemo66.l6YUaNOCFBgitSMyt6I2NJtcxc9lBslN3AqBvHytYyAxAHTyJjGFwpsIrirX5950
-#EXTINF:0 group-title="SKY SPOTS UK",UK: Sky Sports Action HD 50fps
-http://6.team.ga:80/ch2442/mono.m3u8?token=falcondemo66.l6YUaNOCFBgitSMyt6I2NEOkJJLPTE7E6HtTKfvFIOUNK4Z1yCA_GC8DcBLc_4Za
-#EXTINF:0 group-title="SKY SPOTS UK",UK: Sky Sports Action HD
-http://6.team.ga:80/ch2105/mono.m3u8?token=falcondemo66.l6YUaNOCFBgitSMyt6I2NDCKIYl2ZqaPSuA7hfrFbD3gWyRqFZ047adui7a4NE6t
-#EXTINF:0 group-title="SKY SPOTS UK",UK: Sky Sports Plus HD 50fps
-http://6.team.ga:80/ch2443/mono.m3u8?token=falcondemo66.l6YUaNOCFBgitSMyt6I2ND09eqS_hjuHh6f6xMxkH3urlEmOVEYSei3L4pbaCwHe
-#EXTINF:0 group-title="SKY SPOTS UK",UK: Sky Sports Plus HD
-http://6.team.ga:80/ch074/mono.m3u8?token=falcondemo66.l6YUaNOCFBgitSMyt6I2NIdfmehOp_qumqRaVKHGji39AEv_agxCHVo6SbwWWG8B
-#EXTINF:0 group-title="SKY SPOTS UK",UK: Sky Sports F1 UHD
-http://6.team.ga:80/ch1517/mono.m3u8?token=falcondemo66.l6YUaNOCFBgitSMyt6I2ND3N1osuTp4AgJNFp_vnWYuYc60IRvy8cMjprPo_95_0
-#EXTINF:0 group-title="SKY SPOTS UK",UK: Sky Sports F1 HD
-http://6.team.ga:80/ch513/mono.m3u8?token=falcondemo66.l6YUaNOCFBgitSMyt6I2NCmKExmpDPBtYFoWI0zZeQOpY7QGmZTefM5r6KDX4B9c
-#EXTINF:0 group-title="SKY SPOTS UK",UK: Sky Sports Tennis HD
-http://6.team.ga:80/ch1498/mono.m3u8?token=falcondemo66.l6YUaNOCFBgitSMyt6I2NFLAJp3LS8ioL08YxLbrbVFlLgxPAABK4URxoUGbFSOX
-#EXTINF:0 group-title="SKY SPOTS UK",UK: Sky News HD
-http://6.team.ga:80/ch1018/mono.m3u8?token=falcondemo66.l6YUaNOCFBgitSMyt6I2NDn3YATHz4io4mR80ekAQjqL8af3aifNzSq9FWyW5tRp
+
+#EXTINF:-1 group-title="SKY SPOTS UK",|UK| SKY SPORTS NEWS HD
+http://dh.1.az11111.com:80/PmFFp9GKhS92pM11/bJ5hXPNYhYvHA6AE/646102
+#EXTINF:-1 group-title="SKY SPOTS UK",|UK| Sky Sports Mix FHD
+http://dh.1.az11111.com:80/PmFFp9GKhS92pM11/bJ5hXPNYhYvHA6AE/646100
+#EXTINF:-1 group-title="SKY SPOTS UK",|UK| SKY SPORTS FHD NFL
+http://dh.1.az11111.com:80/PmFFp9GKhS92pM11/bJ5hXPNYhYvHA6AE/646090
+#EXTINF:-1 group-title="SKY SPOTS UK",|UK| SKY SPORTS FHD MAIN EVENT
+http://dh.1.az11111.com:80/PmFFp9GKhS92pM11/bJ5hXPNYhYvHA6AE/646089
+#EXTINF:-1 group-title="SKY SPOTS UK",|UK| SKY SPORTS FHD GOLF
+http://dh.1.az11111.com:80/PmFFp9GKhS92pM11/bJ5hXPNYhYvHA6AE/646088
+#EXTINF:-1 group-title="SKY SPOTS UK",|UK| SKY SPORTS FHD FOOTBALL
+http://dh.1.az11111.com:80/PmFFp9GKhS92pM11/bJ5hXPNYhYvHA6AE/646087
+#EXTINF:-1 group-title="SKY SPOTS UK",|UK| SKY SPORTS F1 HD
+http://dh.1.az11111.com:80/PmFFp9GKhS92pM11/bJ5hXPNYhYvHA6AE/646083
+#EXTINF:-1 group-title="SKY SPOTS UK",|UK| SKY SPORTS CRICKET HD
+http://dh.1.az11111.com:80/PmFFp9GKhS92pM11/bJ5hXPNYhYvHA6AE/646080
+#EXTINF:-1 group-title="SKY SPOTS UK",|UK| SKY SPORTS ARENA HD
+http://dh.1.az11111.com:80/PmFFp9GKhS92pM11/bJ5hXPNYhYvHA6AE/646078
+#EXTINF:-1 group-title="SKY SPOTS UK",|UK| SKY SPORTS ACTION FHD
+http://dh.1.az11111.com:80/PmFFp9GKhS92pM11/bJ5hXPNYhYvHA6AE/646076
+#EXTINF:-1 group-title="SKY SPOTS UK",|UK| SKY SPORTS RACING HD
+http://dh.1.az11111.com:80/PmFFp9GKhS92pM11/bJ5hXPNYhYvHA6AE/646074
+#EXTINF:-1 group-title="SKY SPOTS UK",|UK| SKY SPORTS PREMIER LEAGUE HD
+http://dh.1.az11111.com:80/PmFFp9GKhS92pM11/bJ5hXPNYhYvHA6AE/646071
+
 #EXTINF:0 group-title="SPORT KLUB HR" tvg-rec="0",Sport Klub 1 HD HR
 http://7e401b76.rossteleccom.net/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/7269/index.m3u8
 #EXTINF:0 group-title="SPORT KLUB HR" tvg-rec="0",Sport Klub 2 HD HR
